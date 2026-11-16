@@ -2,31 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>생활 해결 가이드</title>
-    <link>https://crep-byte.github.io/fix-guide/</link>
+    <link>https://duruguide.com/</link>
     <description>생활 해결 가이드 — 생활 속 고장·불편 해결 방법과 제품 고르는 기준</description>
     <language>ko</language>
-    <atom:link href="https://crep-byte.github.io/fix-guide/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0900</lastBuildDate>
+    <atom:link href="https://duruguide.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 16 Nov 2026 22:59:13 +0900</lastBuildDate>
+    <item>
+      <title>겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</title>
+      <link>https://duruguide.com/posts/car-battery-jump-starter</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/car-battery-jump-starter</guid>
+      <description>겨울철 배터리 방전이 잦은 이유와 먼저 해볼 점검, 점프스타터를 고를 때와 보관할 때 주의할 점을 정리했습니다.</description>
+      <category>차량관리</category>
+      <pubDate>Mon, 16 Nov 2026 22:59:13 +0900</pubDate>
+    </item>
     <item>
       <title>나사 머리가 뭉개졌을 때 빼는 법, 나사 추출 플라이어 고르는 기준</title>
-      <link>https://crep-byte.github.io/fix-guide/posts/screw-stripped-head-removal.html</link>
-      <guid isPermaLink="true">https://crep-byte.github.io/fix-guide/posts/screw-stripped-head-removal.html</guid>
+      <link>https://duruguide.com/posts/screw-stripped-head-removal</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/screw-stripped-head-removal</guid>
       <description>뭉개진 나사를 돈 들이지 않고 먼저 빼 보는 방법과, 안 될 때 나사 추출 플라이어를 고르는 기준을 정리했습니다.</description>
       <category>작업공구</category>
       <pubDate>Mon, 16 Nov 2026 05:00:00 +0900</pubDate>
     </item>
     <item>
       <title>부모님 침대 낙상 막는 안전손잡이, 설치 전 확인할 것</title>
-      <link>https://crep-byte.github.io/fix-guide/posts/bed-rail-fall-prevention.html</link>
-      <guid isPermaLink="true">https://crep-byte.github.io/fix-guide/posts/bed-rail-fall-prevention.html</guid>
+      <link>https://duruguide.com/posts/bed-rail-fall-prevention</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/bed-rail-fall-prevention</guid>
       <description>부모님이 침대에서 일어나실 때 휘청하신다면, 안전손잡이 설치 전에 확인할 것과 장기요양 복지용구 급여 안내를 정리했습니다.</description>
       <category>복지용구</category>
       <pubDate>Sun, 15 Nov 2026 05:00:00 +0900</pubDate>
     </item>
     <item>
       <title>겨울철 디젤 승합차 냉각수(부동액) 점검과 보충, 이것만 확인하세요</title>
-      <link>https://crep-byte.github.io/fix-guide/posts/diesel-van-coolant-winter.html</link>
-      <guid isPermaLink="true">https://crep-byte.github.io/fix-guide/posts/diesel-van-coolant-winter.html</guid>
+      <link>https://duruguide.com/posts/diesel-van-coolant-winter</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/diesel-van-coolant-winter</guid>
       <description>겨울 전에 디젤 승합차 냉각수를 안전하게 점검·보충하는 순서와 냉각수를 고를 때 확인할 규격을 정리했습니다.</description>
       <category>차량관리</category>
       <pubDate>Sat, 14 Nov 2026 13:50:29 +0900</pubDate>
