@@ -6,7 +6,15 @@
     <description>생활 해결 가이드 — 생활 속 고장·불편 해결 방법과 제품 고르는 기준</description>
     <language>ko</language>
     <atom:link href="https://duruguide.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 22:59:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0900</lastBuildDate>
+    <item>
+      <title>100W GaN 멀티 충전기 고르는 기준</title>
+      <link>https://duruguide.com/posts/gan-charger-100w</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/gan-charger-100w</guid>
+      <description>노트북과 휴대폰을 함께 충전할 100W GaN 멀티 충전기를 고를 때 포트별 출력, 케이블, 규격에서 볼 것을 정리했습니다.</description>
+      <category>사무/IT</category>
+      <pubDate>Tue, 17 Nov 2026 05:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</title>
       <link>https://duruguide.com/posts/car-battery-jump-starter</link>
