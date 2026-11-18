@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1693" viewBox="0 0 1080 1693" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1687" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">가습기 물때·냄새 잡는 세척 순서와 관리</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">쉬운 가습기 고르는 법</text>
+<rect x="64" y="296" width="952" height="5" fill="#111111"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">물통 입구</text>
+<text x="134" y="441" font-size="39" fill="#333333">손이 바닥까지 들어가는 넓은 입구인지</text>
+<rect x="64" y="471" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="511" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="559" font-size="48" font-weight="700" fill="#111111">분해</text>
+<text x="134" y="611" font-size="39" fill="#333333">물통·물받이·뚜껑이 공구 없이 분리되는지</text>
+<rect x="64" y="641" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="681" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="729" font-size="48" font-weight="700" fill="#111111">부품 수</text>
+<text x="134" y="781" font-size="39" fill="#333333">닦을 곳이 적고 틈새가 적은 단순한 구조인지</text>
+<rect x="64" y="811" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="851" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="899" font-size="48" font-weight="700" fill="#111111">급수 방식</text>
+<text x="134" y="951" font-size="39" fill="#333333">위에서 붓는 상부 급수인지, 물통을 뒤집는</text>
+<text x="134" y="1003" font-size="39" fill="#333333">방식인지</text>
+<rect x="64" y="1033" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1073" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1121" font-size="48" font-weight="700" fill="#111111">가습 방식</text>
+<text x="134" y="1173" font-size="39" fill="#333333">가열식·초음파식·기화식 중 관리 방법이 맞는지</text>
+<rect x="64" y="1203" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1243" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1291" font-size="48" font-weight="700" fill="#111111">필터</text>
+<text x="134" y="1343" font-size="39" fill="#333333">필터가 있다면 교체 주기와 구하기 쉬운지</text>
+<rect x="64" y="1373" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1413" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1461" font-size="48" font-weight="700" fill="#111111">세척 안내</text>
+<text x="134" y="1513" font-size="39" fill="#333333">설명서에 세척 방법과 주기가 나와 있는지</text>
+<rect x="64" y="1583" width="952" height="2" fill="#111111"/>
+<text x="64" y="1639" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1639" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>

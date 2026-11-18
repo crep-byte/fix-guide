@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1641" viewBox="0 0 1080 1641" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1635" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">가열식·초음파·기화식 가습기 차이와</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">우리 집에 맞는 방식</text>
+<rect x="64" y="296" width="952" height="5" fill="#111111"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">가습 방식</text>
+<text x="134" y="441" font-size="39" fill="#333333">관리 부담·전기 사용·안전 중 무엇을 우선할지</text>
+<rect x="64" y="471" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="511" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="559" font-size="48" font-weight="700" fill="#111111">가습량</text>
+<text x="134" y="611" font-size="39" fill="#333333">방 크기에 맞는 시간당 가습량 표기</text>
+<rect x="64" y="641" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="681" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="729" font-size="48" font-weight="700" fill="#111111">물통 용량</text>
+<text x="134" y="781" font-size="39" fill="#333333">밤새 쓸 수 있는지, 들고 옮기기 무겁지 않은지</text>
+<rect x="64" y="811" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="851" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="899" font-size="48" font-weight="700" fill="#111111">세척 구조</text>
+<text x="134" y="951" font-size="39" fill="#333333">입구가 넓고 분해가 쉬운지</text>
+<rect x="64" y="981" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1021" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1069" font-size="48" font-weight="700" fill="#111111">소음</text>
+<text x="134" y="1121" font-size="39" fill="#333333">잠잘 때 쓸지라면 소음 표기</text>
+<rect x="64" y="1151" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1191" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1239" font-size="48" font-weight="700" fill="#111111">안전</text>
+<text x="134" y="1291" font-size="39" fill="#333333">가열식은 넘어짐 시 꺼짐, 뚜껑 잠금 등</text>
+<rect x="64" y="1321" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1361" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1409" font-size="48" font-weight="700" fill="#111111">습도 조절</text>
+<text x="134" y="1461" font-size="39" fill="#333333">설정 습도에서 자동으로 멈추는 기능</text>
+<rect x="64" y="1531" width="952" height="2" fill="#111111"/>
+<text x="64" y="1587" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1587" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1713" viewBox="0 0 1080 1713" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1707" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">부러진 볼트 빼는 법</text>
+<rect x="64" y="226" width="952" height="5" fill="#111111"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">부러진 볼트의 굵기</text>
+<text x="134" y="371" font-size="39" fill="#333333">추출 비트마다 적용 볼트 굵기 범위가 정해져</text>
+<text x="134" y="423" font-size="39" fill="#333333">있습니다.</text>
+<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">비트와 함께 쓰는 드릴날</text>
+<text x="134" y="593" font-size="39" fill="#333333">세트에 맞는 파일럿 드릴날이 들어 있는지</text>
+<text x="134" y="645" font-size="39" fill="#333333">확인합니다.</text>
+<rect x="64" y="675" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">역방향 드릴날 여부</text>
+<text x="134" y="815" font-size="39" fill="#333333">왼쪽으로 도는 드릴날은 뚫는 도중에 볼트가</text>
+<text x="134" y="867" font-size="39" fill="#333333">풀리는 경우가 있어 도움이 됩니다.</text>
+<rect x="64" y="897" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="985" font-size="48" font-weight="700" fill="#111111">비트 재질</text>
+<text x="134" y="1037" font-size="39" fill="#333333">단단한 재질은 부러지면 다시 빼기 어렵습니다.</text>
+<text x="134" y="1089" font-size="39" fill="#333333">제품 설명을 확인합니다.</text>
+<rect x="64" y="1119" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">사용 공구</text>
+<text x="134" y="1259" font-size="39" fill="#333333">탭 렌치로 돌리는 형태인지, 드릴에 물리는</text>
+<text x="134" y="1311" font-size="39" fill="#333333">형태인지 확인합니다.</text>
+<rect x="64" y="1341" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1381" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1429" font-size="48" font-weight="700" fill="#111111">작업 공간</text>
+<text x="134" y="1481" font-size="39" fill="#333333">비트와 렌치의 길이가 들어갈 여유가 있어야</text>
+<text x="134" y="1533" font-size="39" fill="#333333">합니다.</text>
+<rect x="64" y="1603" width="952" height="2" fill="#111111"/>
+<text x="64" y="1659" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1659" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
