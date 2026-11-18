@@ -13,55 +13,84 @@
 <meta property="og:locale" content="ko_KR">
 <link rel="alternate" type="application/rss+xml" title="생활 해결 가이드" href="../rss.xml">
 <meta name="naver-site-verification" content="3420a3ff965ea807edf8db2f7e55ce42184d1726">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--fg:#1d1f23;--muted:#5f6670;--line:#e3e6ea;--accent:#0b63ce;--note-bg:#fff4d6;--note-line:#e7b93a;--cta:#d93a2b}
-@media (prefers-color-scheme:dark){:root{--bg:#15171a;--fg:#e8eaed;--muted:#a0a7b1;--line:#30343a;--accent:#6aa8ff;--note-bg:#3a3018;--note-line:#a07d1c;--cta:#e2574a}}
+:root{--bg:#fff;--fg:#111;--muted:#444;--line:#d9d9d9;--rule:#111;--accent:#1d3a8a;--accent-fg:#fff;--soft:#f2f2f2;--zebra:#f7f7f7;
+--month-bg:#fff6d1;--month-fg:#6b4e00;--nobuy-bg:#e9f5ec;--nobuy-fg:#0e4d24;--check:#111}
+@media (prefers-color-scheme:dark){:root{--bg:#141517;--fg:#eceef0;--muted:#b4b9bf;--line:#3a3d42;--rule:#eceef0;--accent:#8fb0ff;--accent-fg:#0d1530;--soft:#1e2023;--zebra:#1a1c1f;
+--month-bg:#2e2710;--month-fg:#f1d27a;--nobuy-bg:#13291b;--nobuy-fg:#9fdcb1;--check:#eceef0}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.75 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
 a{color:var(--accent)}
-.wrap{max-width:720px;margin:0 auto;padding:0 16px}
-header.site{border-bottom:1px solid var(--line);padding:14px 0}
-header.site a{color:var(--fg);text-decoration:none;font-weight:700}
-main{padding:24px 0 48px}
-h1{font-size:1.6rem;line-height:1.4;margin:.2em 0 .6em}
-h2{font-size:1.25rem;margin:2em 0 .6em;padding-bottom:.3em;border-bottom:2px solid var(--line)}
-h3{font-size:1.08rem;margin:1.6em 0 .4em}
-.disclosure{background:var(--note-bg);border:1px solid var(--note-line);border-radius:8px;padding:12px 14px;font-size:17px;font-weight:600;line-height:1.6;margin:0 0 20px}
-.meta{color:var(--muted);font-size:.9rem;margin:0 0 24px}
-.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 10px;font-size:.85rem;color:var(--muted)}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;display:block;overflow-x:auto}
-th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
-th{background:color-mix(in srgb,var(--line) 45%,transparent)}
-.cta{text-align:center;margin:32px 0 20px}
-.cta a{display:inline-block;background:var(--cta);color:#fff;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:10px;max-width:100%}
-.disclosure-foot{color:var(--muted);font-size:.9rem;text-align:center}
-.cards{list-style:none;padding:0;margin:0}
-.cards li{border-bottom:1px solid var(--line);padding:18px 0}
-.cards h2{border:0;margin:.3em 0;padding:0;font-size:1.15rem}
-.cards h2 a{color:var(--fg);text-decoration:none}
-.cards p{margin:.2em 0;color:var(--muted);font-size:.95rem}
-footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:20px 0 40px}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:3px solid var(--rule)}
+header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px}
+header.site .name{color:var(--fg);text-decoration:none;font-weight:700;font-size:1.15rem}
+header.site nav a{font-weight:700;font-size:.95rem;display:inline-block;padding:8px 0}
+main{padding:22px 0 40px}
+h1{font-size:1.5rem;line-height:1.4;margin:.1em 0 .6em}
+h2{font-size:1.25rem;line-height:1.4;margin:1.8em 0 .5em}
+h3{font-size:1.08rem;margin:1.5em 0 .4em}
+.meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
+.disclosure{border:2px solid var(--rule);border-radius:6px;padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;margin:0 0 20px}
+.nobuy{background:var(--nobuy-bg);border-radius:6px;padding:16px;margin:0 0 8px}
+.nobuy h2{margin:0 0 6px;font-size:1.1rem;color:var(--nobuy-fg)}
+.nobuy p{margin:0}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
+.content section.try li{position:relative;padding:12px 0 12px 40px;border-top:1px solid var(--line)}
+.content section.try li:last-child{border-bottom:1px solid var(--line)}
+.content section.try li::before{content:"";position:absolute;left:2px;top:17px;width:22px;height:22px;border:2px solid var(--check);border-radius:4px}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+th,td{padding:11px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--fg);color:var(--bg)}
+td:first-child{font-weight:700}
+tbody tr:nth-child(even){background:var(--zebra)}
+.cta{margin:30px 0 0;text-align:center}
+.cta a{display:block;background:var(--accent);color:var(--accent-fg);text-decoration:none;font-weight:700;font-size:1.05rem;padding:16px 18px;border-radius:6px}
+.cta p{margin:10px 0 0;color:var(--muted);font-size:.9rem;line-height:1.6}
+.disclosure-foot{color:var(--muted);font-size:.85rem;text-align:center;margin:14px 0 0}
+.month{background:var(--month-bg);border:2px solid var(--rule);border-radius:6px;padding:18px 16px;margin:0 0 30px}
+.month .when{margin:0;font-weight:700;color:var(--month-fg);font-size:.9rem}
+.month h2{margin:0 0 8px;font-size:1.35rem}
+.checklist{list-style:none;padding:0;margin:0}
+.checklist a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--fg);text-decoration:none;line-height:1.5}
+.checklist .box{flex:0 0 auto;width:22px;height:22px;margin-top:3px;border:2px solid var(--check);border-radius:3px;background:var(--bg)}
+.checklist small{display:block;color:var(--muted);font-size:.9rem}
+.sitnav a{display:flex;justify-content:space-between;align-items:center;padding:16px 4px;border-top:1px solid var(--line);color:var(--fg);text-decoration:none;font-weight:700;font-size:1.05rem}
+.sitnav a:last-child{border-bottom:1px solid var(--line)}
+.sitnav span{font-weight:500;font-size:.9rem;color:var(--muted)}
+.posts{list-style:none;padding:0;margin:0}
+.posts a{display:block;padding:13px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none}
+.posts strong{display:block;line-height:1.5}
+.posts small{display:block;margin-top:3px;color:var(--muted);font-size:.85rem}
+.lead{color:var(--muted);margin:0 0 12px;font-size:.95rem}
+section.related{border-top:3px solid var(--rule);margin-top:34px;padding-top:6px}
+footer{background:var(--soft);color:var(--muted);font-size:.85rem;line-height:1.7;padding:22px 0 40px}
+footer strong{color:var(--fg)}
 .draft-badge{background:#c62828;color:#fff;padding:2px 8px;border-radius:4px;font-size:.8rem}
 </style>
 </head>
 <body>
-<header class="site"><div class="wrap"><a href="../">생활 해결 가이드</a></div></header>
+<header class="site"><div class="wrap"><a class="name" href="../">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="../#situations">상황으로 찾기</a></nav></div></header>
 <main><div class="wrap">
 <article>
+<p class="meta"><a href="../#car">차가 말썽일 때</a> · <time datetime="2026-11-14T13:50:29+09:00">2026년 11월 14일</time></p>
 <h1>겨울철 디젤 승합차 냉각수(부동액) 점검과 보충, 이것만 확인하세요</h1>
 <aside class="disclosure" role="note">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</aside>
-<p class="meta"><span class="tag">차량관리</span> · <time datetime="2026-11-14T13:50:29+09:00">2026년 11월 14일</time></p>
+
 <div class="content">
-<h2>이런 상황이죠</h2>
+<section><h2>이런 상황이죠</h2>
 <p>날이 추워지면 승합차 계기판에서 냉각수 경고등이 켜지거나, 리저버 탱크의 수위가 평소보다 내려가 있는 걸 발견하는 경우가 있어요. 아침 시동 직후 히터에서 바람이 미지근하게만 나오거나, 주차한 자리 밑에 색이 있는 물이 고여 있는 것도 흔한 신호예요. 짐을 싣고 장거리를 뛰는 디젤 승합차는 엔진에 걸리는 부하가 커서, 냉각수 상태를 겨울 전에 한 번 확인해 두는 편이 안전해요.</p>
-<h2>왜 생기나</h2>
+</section><section><h2>왜 생기나</h2>
 <p>냉각수가 줄어드는 이유는 크게 두 가지예요.</p>
 <ul>
 <li>호스, 클램프, 라디에이터, 워터펌프 주변에서 새는 경우</li>
 <li>오랜 사용으로 냉각수 성능이 떨어져 보충이 잦아지는 경우</li>
 </ul>
 <p>냉각수(부동액)는 물에 부동액 원액을 섞은 것이라 어는점을 낮추고 부식을 막는 역할을 해요. 농도가 묽어지거나 오래되면 한겨울에 얼 위험이 커지고, 엔진 내부 부식도 빨라질 수 있어요. 교환 주기와 규격은 제조사와 차종마다 달라요. 그래서 몇 km, 몇 년이라고 일률적으로 말하기 어렵고, 차량 취급설명서의 기준을 따르는 게 맞아요.</p>
-<h2>사기 전에 먼저 해볼 것</h2>
+</section><section class="try"><h2>사기 전에 먼저 해볼 것</h2>
 <p>제품을 찾기 전에 아래 순서로 먼저 확인해 보세요.</p>
 <ol>
 <li><strong>엔진이 완전히 식은 상태에서 점검해요.</strong> 뜨거울 때 라디에이터 캡이나 리저버 캡을 열면 뜨거운 냉각수와 증기가 뿜어져 나와 화상을 입을 수 있어요. 시동을 끄고 충분히 시간이 지난 뒤에 열어야 해요.</li>
@@ -71,7 +100,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padd
 <li><strong>취급설명서에서 규격을 확인해요.</strong> 냉각수 종류와 혼합 비율이 적혀 있어요.</li>
 </ol>
 <p>수위가 계속 줄거나 누수가 보이면 냉각수를 계속 채우기보다 정비소에서 원인을 점검받는 게 먼저예요. 과열 경고등이 켜졌다면 안전한 곳에 세우고 시동을 끈 뒤 점검을 받으세요.</p>
-<h2>고를 때 체크리스트</h2>
+</section><section><h2>고를 때 체크리스트</h2>
 <table>
 <thead>
 <tr>
@@ -107,14 +136,20 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padd
 </tbody>
 </table>
 <p>원액을 쓸 때는 제품에 안내된 비율에 맞춰 물과 섞어야 해요. 다른 종류의 냉각수를 섞으면 성분끼리 반응해 침전물이 생길 수 있으니, 종류가 확실하지 않으면 정비소에 문의하는 게 안전해요. 소량 보충과 전체 교환은 작업 방식이 다르니 직접 하기 어렵다면 정비소에 맡기세요.</p>
-<h2>추천 제품 찾기</h2>
-<p>위 체크리스트의 규격, 종류, 형태, 어는점 표기를 기준으로 쿠팡에서 여러 제품을 비교해 보세요. 내 차의 취급설명서 규격과 맞는지를 가장 먼저 보시고, 제품 상세 페이지의 사용 가능 차종과 표기를 꼼꼼히 확인하세요. 현재 가격과 구성은 쿠팡에서 확인해 주세요.</p>
+</section><section><h2>추천 제품 찾기</h2>
+<p>위 체크리스트의 규격, 종류, 형태, 어는점 표기를 기준으로 쿠팡에서 여러 제품을 비교해 보세요. 내 차의 취급설명서 규격과 맞는지를 가장 먼저 보시고, 제품 상세 페이지의 사용 가능 차종과 표기를 꼼꼼히 확인하세요. 현재 가격과 구성은 쿠팡에서 확인해 주세요.</p></section>
 </div>
-<p class="cta"><a href="https://link.coupang.com/a/iE50GNrL1U" rel="sponsored nofollow noopener" target="_blank">쿠팡에서 자동차 냉각수 보기</a></p>
+<div class="cta"><a href="https://link.coupang.com/a/iE50GNrL1U" rel="sponsored nofollow noopener" target="_blank">쿠팡에서 자동차 냉각수 보기</a>
+<p>위 표의 표기를 비교해 보세요.<br>현재 가격은 쿠팡에서 확인해 주세요.</p></div>
 <p class="disclosure-foot">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
 </article>
+<section class="related" aria-labelledby="rel"><h2 id="rel">함께 보면 좋은 글</h2><ul class="posts">
+<li><a href="car-battery-jump-starter"><strong>겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</strong><small>차가 말썽일 때</small></a></li>
+<li><a href="humidifier-cleaning"><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong><small>생활가전</small></a></li>
+<li><a href="carbon-mat-vs-electric-mat"><strong>탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</strong><small>겨울이 걱정될 때</small></a></li>
+</ul></section>
 
 </div></main>
-<footer><div class="wrap">이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../rss.xml">RSS</a></div></footer>
+<footer><div class="wrap"><p><strong>이 사이트는</strong> 안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../rss.xml">RSS</a></p></div></footer>
 </body>
 </html>

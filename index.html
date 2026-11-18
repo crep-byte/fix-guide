@@ -13,54 +13,122 @@
 <meta property="og:locale" content="ko_KR">
 <link rel="alternate" type="application/rss+xml" title="생활 해결 가이드" href="rss.xml">
 <meta name="naver-site-verification" content="3420a3ff965ea807edf8db2f7e55ce42184d1726">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--fg:#1d1f23;--muted:#5f6670;--line:#e3e6ea;--accent:#0b63ce;--note-bg:#fff4d6;--note-line:#e7b93a;--cta:#d93a2b}
-@media (prefers-color-scheme:dark){:root{--bg:#15171a;--fg:#e8eaed;--muted:#a0a7b1;--line:#30343a;--accent:#6aa8ff;--note-bg:#3a3018;--note-line:#a07d1c;--cta:#e2574a}}
+:root{--bg:#fff;--fg:#111;--muted:#444;--line:#d9d9d9;--rule:#111;--accent:#1d3a8a;--accent-fg:#fff;--soft:#f2f2f2;--zebra:#f7f7f7;
+--month-bg:#fff6d1;--month-fg:#6b4e00;--nobuy-bg:#e9f5ec;--nobuy-fg:#0e4d24;--check:#111}
+@media (prefers-color-scheme:dark){:root{--bg:#141517;--fg:#eceef0;--muted:#b4b9bf;--line:#3a3d42;--rule:#eceef0;--accent:#8fb0ff;--accent-fg:#0d1530;--soft:#1e2023;--zebra:#1a1c1f;
+--month-bg:#2e2710;--month-fg:#f1d27a;--nobuy-bg:#13291b;--nobuy-fg:#9fdcb1;--check:#eceef0}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.75 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
 a{color:var(--accent)}
-.wrap{max-width:720px;margin:0 auto;padding:0 16px}
-header.site{border-bottom:1px solid var(--line);padding:14px 0}
-header.site a{color:var(--fg);text-decoration:none;font-weight:700}
-main{padding:24px 0 48px}
-h1{font-size:1.6rem;line-height:1.4;margin:.2em 0 .6em}
-h2{font-size:1.25rem;margin:2em 0 .6em;padding-bottom:.3em;border-bottom:2px solid var(--line)}
-h3{font-size:1.08rem;margin:1.6em 0 .4em}
-.disclosure{background:var(--note-bg);border:1px solid var(--note-line);border-radius:8px;padding:12px 14px;font-size:17px;font-weight:600;line-height:1.6;margin:0 0 20px}
-.meta{color:var(--muted);font-size:.9rem;margin:0 0 24px}
-.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 10px;font-size:.85rem;color:var(--muted)}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;display:block;overflow-x:auto}
-th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
-th{background:color-mix(in srgb,var(--line) 45%,transparent)}
-.cta{text-align:center;margin:32px 0 20px}
-.cta a{display:inline-block;background:var(--cta);color:#fff;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:10px;max-width:100%}
-.disclosure-foot{color:var(--muted);font-size:.9rem;text-align:center}
-.cards{list-style:none;padding:0;margin:0}
-.cards li{border-bottom:1px solid var(--line);padding:18px 0}
-.cards h2{border:0;margin:.3em 0;padding:0;font-size:1.15rem}
-.cards h2 a{color:var(--fg);text-decoration:none}
-.cards p{margin:.2em 0;color:var(--muted);font-size:.95rem}
-footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:20px 0 40px}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:3px solid var(--rule)}
+header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px}
+header.site .name{color:var(--fg);text-decoration:none;font-weight:700;font-size:1.15rem}
+header.site nav a{font-weight:700;font-size:.95rem;display:inline-block;padding:8px 0}
+main{padding:22px 0 40px}
+h1{font-size:1.5rem;line-height:1.4;margin:.1em 0 .6em}
+h2{font-size:1.25rem;line-height:1.4;margin:1.8em 0 .5em}
+h3{font-size:1.08rem;margin:1.5em 0 .4em}
+.meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
+.disclosure{border:2px solid var(--rule);border-radius:6px;padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;margin:0 0 20px}
+.nobuy{background:var(--nobuy-bg);border-radius:6px;padding:16px;margin:0 0 8px}
+.nobuy h2{margin:0 0 6px;font-size:1.1rem;color:var(--nobuy-fg)}
+.nobuy p{margin:0}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
+.content section.try li{position:relative;padding:12px 0 12px 40px;border-top:1px solid var(--line)}
+.content section.try li:last-child{border-bottom:1px solid var(--line)}
+.content section.try li::before{content:"";position:absolute;left:2px;top:17px;width:22px;height:22px;border:2px solid var(--check);border-radius:4px}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+th,td{padding:11px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--fg);color:var(--bg)}
+td:first-child{font-weight:700}
+tbody tr:nth-child(even){background:var(--zebra)}
+.cta{margin:30px 0 0;text-align:center}
+.cta a{display:block;background:var(--accent);color:var(--accent-fg);text-decoration:none;font-weight:700;font-size:1.05rem;padding:16px 18px;border-radius:6px}
+.cta p{margin:10px 0 0;color:var(--muted);font-size:.9rem;line-height:1.6}
+.disclosure-foot{color:var(--muted);font-size:.85rem;text-align:center;margin:14px 0 0}
+.month{background:var(--month-bg);border:2px solid var(--rule);border-radius:6px;padding:18px 16px;margin:0 0 30px}
+.month .when{margin:0;font-weight:700;color:var(--month-fg);font-size:.9rem}
+.month h2{margin:0 0 8px;font-size:1.35rem}
+.checklist{list-style:none;padding:0;margin:0}
+.checklist a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--fg);text-decoration:none;line-height:1.5}
+.checklist .box{flex:0 0 auto;width:22px;height:22px;margin-top:3px;border:2px solid var(--check);border-radius:3px;background:var(--bg)}
+.checklist small{display:block;color:var(--muted);font-size:.9rem}
+.sitnav a{display:flex;justify-content:space-between;align-items:center;padding:16px 4px;border-top:1px solid var(--line);color:var(--fg);text-decoration:none;font-weight:700;font-size:1.05rem}
+.sitnav a:last-child{border-bottom:1px solid var(--line)}
+.sitnav span{font-weight:500;font-size:.9rem;color:var(--muted)}
+.posts{list-style:none;padding:0;margin:0}
+.posts a{display:block;padding:13px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none}
+.posts strong{display:block;line-height:1.5}
+.posts small{display:block;margin-top:3px;color:var(--muted);font-size:.85rem}
+.lead{color:var(--muted);margin:0 0 12px;font-size:.95rem}
+section.related{border-top:3px solid var(--rule);margin-top:34px;padding-top:6px}
+footer{background:var(--soft);color:var(--muted);font-size:.85rem;line-height:1.7;padding:22px 0 40px}
+footer strong{color:var(--fg)}
 .draft-badge{background:#c62828;color:#fff;padding:2px 8px;border-radius:4px;font-size:.8rem}
 </style>
 </head>
 <body>
-<header class="site"><div class="wrap"><a href="./">생활 해결 가이드</a></div></header>
+<header class="site"><div class="wrap"><a class="name" href="./">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="#situations">상황으로 찾기</a></nav></div></header>
 <main><div class="wrap">
 <h1>생활 해결 가이드</h1>
-<p class="meta">생활 속 고장·불편을 먼저 해결해 보고, 필요할 때 고르는 기준을 정리합니다. 총 8건</p>
-<ul class="cards">
-<li><p><span class="tag">겨울용품</span> · 2026년 11월 18일</p><h2><a href="posts/carbon-mat-vs-electric-mat">탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</a></h2><p>탄소매트·전기장판·온수매트의 난방 방식 차이와 깔 자리·사용 인원에 따라 고르는 기준, 저온화상과 과열을 막는 안전 수칙을 정리했습니다.</p></li>
-<li><p><span class="tag">작업공구</span> · 2026년 11월 18일</p><h2><a href="posts/pipe-freeze-prevention">겨울 수도 동파 예방, 보온재와 열선 고를 때 볼 것</a></h2><p>겨울 수도 동파를 막기 위해 돈 들이지 않고 할 일과 열선의 안전 표기, 보온재 고르는 기준, 언 배관 녹이는 법을 정리했습니다.</p></li>
-<li><p><span class="tag">작업공구</span> · 2026년 11월 17일</p><h2><a href="posts/broken-bolt-extractor">부러진 볼트 빼는 법, 역탭 추출 비트 고를 때 볼 것</a></h2><p>부러진 볼트가 생기는 이유와 먼저 해볼 방법, 역탭 추출 비트를 고를 때 확인할 규격을 정리했습니다.</p></li>
-<li><p><span class="tag">사무/IT</span> · 2026년 11월 17일</p><h2><a href="posts/gan-charger-100w">100W GaN 멀티 충전기 고르는 기준</a></h2><p>노트북과 휴대폰을 함께 충전할 100W GaN 멀티 충전기를 고를 때 포트별 출력, 케이블, 규격에서 볼 것을 정리했습니다.</p></li>
-<li><p><span class="tag">차량관리</span> · 2026년 11월 16일</p><h2><a href="posts/car-battery-jump-starter">겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</a></h2><p>겨울철 배터리 방전이 잦은 이유와 먼저 해볼 점검, 점프스타터를 고를 때와 보관할 때 주의할 점을 정리했습니다.</p></li>
-<li><p><span class="tag">작업공구</span> · 2026년 11월 16일</p><h2><a href="posts/screw-stripped-head-removal">나사 머리가 뭉개졌을 때 빼는 법, 나사 추출 플라이어 고르는 기준</a></h2><p>뭉개진 나사를 돈 들이지 않고 먼저 빼 보는 방법과, 안 될 때 나사 추출 플라이어를 고르는 기준을 정리했습니다.</p></li>
-<li><p><span class="tag">복지용구</span> · 2026년 11월 15일</p><h2><a href="posts/bed-rail-fall-prevention">부모님 침대 낙상 막는 안전손잡이, 설치 전 확인할 것</a></h2><p>부모님이 침대에서 일어나실 때 휘청하신다면, 안전손잡이 설치 전에 확인할 것과 장기요양 복지용구 급여 안내를 정리했습니다.</p></li>
-<li><p><span class="tag">차량관리</span> · 2026년 11월 14일</p><h2><a href="posts/diesel-van-coolant-winter">겨울철 디젤 승합차 냉각수(부동액) 점검과 보충, 이것만 확인하세요</a></h2><p>겨울 전에 디젤 승합차 냉각수를 안전하게 점검·보충하는 순서와 냉각수를 고를 때 확인할 규격을 정리했습니다.</p></li>
+<p class="lead">고장·불편, 먼저 돈 안 들이고 해결하기</p>
+<section class="month" aria-labelledby="month"><p class="when">11월</p><h2 id="month">이번 달 집안 점검표</h2><ul class="checklist">
+<li><a href="posts/humidifier-cleaning"><span class="box" aria-hidden="true"></span><span><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong></span></a></li>
+<li><a href="posts/carbon-mat-vs-electric-mat"><span class="box" aria-hidden="true"></span><span><strong>탄소매트·전기장판·온수매트 차이</strong><small>우리 집에 맞는 것 고르는 법</small></span></a></li>
+<li><a href="posts/pipe-freeze-prevention"><span class="box" aria-hidden="true"></span><span><strong>겨울 수도 동파 예방</strong><small>보온재와 열선 고를 때 볼 것</small></span></a></li>
+<li><a href="posts/car-battery-jump-starter"><span class="box" aria-hidden="true"></span><span><strong>겨울 배터리 방전 대비</strong><small>점프스타터 고를 때 볼 것</small></span></a></li>
+<li><a href="posts/diesel-van-coolant-winter"><span class="box" aria-hidden="true"></span><span><strong>겨울철 디젤 승합차 냉각수(부동액) 점검과 보충</strong><small>이것만 확인하세요</small></span></a></li>
+</ul></section>
+<section aria-labelledby="new">
+<h2 id="new">새 글 <span class="meta">· 총 9건</span></h2>
+<ul class="posts">
+<li><a href="posts/humidifier-cleaning"><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong><small>2026년 11월 18일 · 생활가전</small></a></li>
+<li><a href="posts/carbon-mat-vs-electric-mat"><strong>탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</strong><small>2026년 11월 18일 · 겨울이 걱정될 때</small></a></li>
+<li><a href="posts/pipe-freeze-prevention"><strong>겨울 수도 동파 예방, 보온재와 열선 고를 때 볼 것</strong><small>2026년 11월 18일 · 고치다 막혔을 때</small></a></li>
+<li><a href="posts/broken-bolt-extractor"><strong>부러진 볼트 빼는 법, 역탭 추출 비트 고를 때 볼 것</strong><small>2026년 11월 17일 · 고치다 막혔을 때</small></a></li>
+<li><a href="posts/gan-charger-100w"><strong>100W GaN 멀티 충전기 고르는 기준</strong><small>2026년 11월 17일 · 컴퓨터·충전기</small></a></li>
 </ul>
+</section>
+<section id="situations" aria-labelledby="sit">
+<h2 id="sit">상황으로 찾기</h2>
+<p class="lead">지금 겪는 일을 고르세요.</p>
+<nav class="sitnav" aria-label="상황별 글">
+<a href="#winter">겨울이 걱정될 때 <span>글 1 ›</span></a>
+<a href="#car">차가 말썽일 때 <span>글 2 ›</span></a>
+<a href="#tools">고치다 막혔을 때 <span>글 3 ›</span></a>
+<a href="#parents">부모님 댁 안전 <span>글 1 ›</span></a>
+<a href="#it">컴퓨터·충전기 <span>글 1 ›</span></a>
+<a href="#appliance">생활가전 <span>글 1 ›</span></a>
+</nav>
+</section>
+<section aria-labelledby="winter"><h2 id="winter">겨울이 걱정될 때</h2><ul class="posts">
+<li><a href="posts/carbon-mat-vs-electric-mat"><strong>탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</strong><small>2026년 11월 18일</small></a></li>
+</ul></section>
+<section aria-labelledby="car"><h2 id="car">차가 말썽일 때</h2><ul class="posts">
+<li><a href="posts/car-battery-jump-starter"><strong>겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</strong><small>2026년 11월 16일</small></a></li>
+<li><a href="posts/diesel-van-coolant-winter"><strong>겨울철 디젤 승합차 냉각수(부동액) 점검과 보충, 이것만 확인하세요</strong><small>2026년 11월 14일</small></a></li>
+</ul></section>
+<section aria-labelledby="tools"><h2 id="tools">고치다 막혔을 때</h2><ul class="posts">
+<li><a href="posts/pipe-freeze-prevention"><strong>겨울 수도 동파 예방, 보온재와 열선 고를 때 볼 것</strong><small>2026년 11월 18일</small></a></li>
+<li><a href="posts/broken-bolt-extractor"><strong>부러진 볼트 빼는 법, 역탭 추출 비트 고를 때 볼 것</strong><small>2026년 11월 17일</small></a></li>
+<li><a href="posts/screw-stripped-head-removal"><strong>나사 머리가 뭉개졌을 때 빼는 법, 나사 추출 플라이어 고르는 기준</strong><small>2026년 11월 16일</small></a></li>
+</ul></section>
+<section aria-labelledby="parents"><h2 id="parents">부모님 댁 안전</h2><ul class="posts">
+<li><a href="posts/bed-rail-fall-prevention"><strong>부모님 침대 낙상 막는 안전손잡이, 설치 전 확인할 것</strong><small>2026년 11월 15일</small></a></li>
+</ul></section>
+<section aria-labelledby="it"><h2 id="it">컴퓨터·충전기</h2><ul class="posts">
+<li><a href="posts/gan-charger-100w"><strong>100W GaN 멀티 충전기 고르는 기준</strong><small>2026년 11월 17일</small></a></li>
+</ul></section>
+<section aria-labelledby="appliance"><h2 id="appliance">생활가전</h2><ul class="posts">
+<li><a href="posts/humidifier-cleaning"><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong><small>2026년 11월 18일</small></a></li>
+</ul></section>
 
 </div></main>
-<footer><div class="wrap">이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="rss.xml">RSS</a></div></footer>
+<footer><div class="wrap"><p><strong>이 사이트는</strong> 안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="rss.xml">RSS</a></p></div></footer>
 </body>
 </html>

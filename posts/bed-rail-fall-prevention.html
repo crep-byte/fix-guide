@@ -13,49 +13,78 @@
 <meta property="og:locale" content="ko_KR">
 <link rel="alternate" type="application/rss+xml" title="생활 해결 가이드" href="../rss.xml">
 <meta name="naver-site-verification" content="3420a3ff965ea807edf8db2f7e55ce42184d1726">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--fg:#1d1f23;--muted:#5f6670;--line:#e3e6ea;--accent:#0b63ce;--note-bg:#fff4d6;--note-line:#e7b93a;--cta:#d93a2b}
-@media (prefers-color-scheme:dark){:root{--bg:#15171a;--fg:#e8eaed;--muted:#a0a7b1;--line:#30343a;--accent:#6aa8ff;--note-bg:#3a3018;--note-line:#a07d1c;--cta:#e2574a}}
+:root{--bg:#fff;--fg:#111;--muted:#444;--line:#d9d9d9;--rule:#111;--accent:#1d3a8a;--accent-fg:#fff;--soft:#f2f2f2;--zebra:#f7f7f7;
+--month-bg:#fff6d1;--month-fg:#6b4e00;--nobuy-bg:#e9f5ec;--nobuy-fg:#0e4d24;--check:#111}
+@media (prefers-color-scheme:dark){:root{--bg:#141517;--fg:#eceef0;--muted:#b4b9bf;--line:#3a3d42;--rule:#eceef0;--accent:#8fb0ff;--accent-fg:#0d1530;--soft:#1e2023;--zebra:#1a1c1f;
+--month-bg:#2e2710;--month-fg:#f1d27a;--nobuy-bg:#13291b;--nobuy-fg:#9fdcb1;--check:#eceef0}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.75 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
 a{color:var(--accent)}
-.wrap{max-width:720px;margin:0 auto;padding:0 16px}
-header.site{border-bottom:1px solid var(--line);padding:14px 0}
-header.site a{color:var(--fg);text-decoration:none;font-weight:700}
-main{padding:24px 0 48px}
-h1{font-size:1.6rem;line-height:1.4;margin:.2em 0 .6em}
-h2{font-size:1.25rem;margin:2em 0 .6em;padding-bottom:.3em;border-bottom:2px solid var(--line)}
-h3{font-size:1.08rem;margin:1.6em 0 .4em}
-.disclosure{background:var(--note-bg);border:1px solid var(--note-line);border-radius:8px;padding:12px 14px;font-size:17px;font-weight:600;line-height:1.6;margin:0 0 20px}
-.meta{color:var(--muted);font-size:.9rem;margin:0 0 24px}
-.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 10px;font-size:.85rem;color:var(--muted)}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;display:block;overflow-x:auto}
-th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
-th{background:color-mix(in srgb,var(--line) 45%,transparent)}
-.cta{text-align:center;margin:32px 0 20px}
-.cta a{display:inline-block;background:var(--cta);color:#fff;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:10px;max-width:100%}
-.disclosure-foot{color:var(--muted);font-size:.9rem;text-align:center}
-.cards{list-style:none;padding:0;margin:0}
-.cards li{border-bottom:1px solid var(--line);padding:18px 0}
-.cards h2{border:0;margin:.3em 0;padding:0;font-size:1.15rem}
-.cards h2 a{color:var(--fg);text-decoration:none}
-.cards p{margin:.2em 0;color:var(--muted);font-size:.95rem}
-footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:20px 0 40px}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:3px solid var(--rule)}
+header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px}
+header.site .name{color:var(--fg);text-decoration:none;font-weight:700;font-size:1.15rem}
+header.site nav a{font-weight:700;font-size:.95rem;display:inline-block;padding:8px 0}
+main{padding:22px 0 40px}
+h1{font-size:1.5rem;line-height:1.4;margin:.1em 0 .6em}
+h2{font-size:1.25rem;line-height:1.4;margin:1.8em 0 .5em}
+h3{font-size:1.08rem;margin:1.5em 0 .4em}
+.meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
+.disclosure{border:2px solid var(--rule);border-radius:6px;padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;margin:0 0 20px}
+.nobuy{background:var(--nobuy-bg);border-radius:6px;padding:16px;margin:0 0 8px}
+.nobuy h2{margin:0 0 6px;font-size:1.1rem;color:var(--nobuy-fg)}
+.nobuy p{margin:0}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
+.content section.try li{position:relative;padding:12px 0 12px 40px;border-top:1px solid var(--line)}
+.content section.try li:last-child{border-bottom:1px solid var(--line)}
+.content section.try li::before{content:"";position:absolute;left:2px;top:17px;width:22px;height:22px;border:2px solid var(--check);border-radius:4px}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+th,td{padding:11px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--fg);color:var(--bg)}
+td:first-child{font-weight:700}
+tbody tr:nth-child(even){background:var(--zebra)}
+.cta{margin:30px 0 0;text-align:center}
+.cta a{display:block;background:var(--accent);color:var(--accent-fg);text-decoration:none;font-weight:700;font-size:1.05rem;padding:16px 18px;border-radius:6px}
+.cta p{margin:10px 0 0;color:var(--muted);font-size:.9rem;line-height:1.6}
+.disclosure-foot{color:var(--muted);font-size:.85rem;text-align:center;margin:14px 0 0}
+.month{background:var(--month-bg);border:2px solid var(--rule);border-radius:6px;padding:18px 16px;margin:0 0 30px}
+.month .when{margin:0;font-weight:700;color:var(--month-fg);font-size:.9rem}
+.month h2{margin:0 0 8px;font-size:1.35rem}
+.checklist{list-style:none;padding:0;margin:0}
+.checklist a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--fg);text-decoration:none;line-height:1.5}
+.checklist .box{flex:0 0 auto;width:22px;height:22px;margin-top:3px;border:2px solid var(--check);border-radius:3px;background:var(--bg)}
+.checklist small{display:block;color:var(--muted);font-size:.9rem}
+.sitnav a{display:flex;justify-content:space-between;align-items:center;padding:16px 4px;border-top:1px solid var(--line);color:var(--fg);text-decoration:none;font-weight:700;font-size:1.05rem}
+.sitnav a:last-child{border-bottom:1px solid var(--line)}
+.sitnav span{font-weight:500;font-size:.9rem;color:var(--muted)}
+.posts{list-style:none;padding:0;margin:0}
+.posts a{display:block;padding:13px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none}
+.posts strong{display:block;line-height:1.5}
+.posts small{display:block;margin-top:3px;color:var(--muted);font-size:.85rem}
+.lead{color:var(--muted);margin:0 0 12px;font-size:.95rem}
+section.related{border-top:3px solid var(--rule);margin-top:34px;padding-top:6px}
+footer{background:var(--soft);color:var(--muted);font-size:.85rem;line-height:1.7;padding:22px 0 40px}
+footer strong{color:var(--fg)}
 .draft-badge{background:#c62828;color:#fff;padding:2px 8px;border-radius:4px;font-size:.8rem}
 </style>
 </head>
 <body>
-<header class="site"><div class="wrap"><a href="../">생활 해결 가이드</a></div></header>
+<header class="site"><div class="wrap"><a class="name" href="../">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="../#situations">상황으로 찾기</a></nav></div></header>
 <main><div class="wrap">
 <article>
+<p class="meta"><a href="../#parents">부모님 댁 안전</a> · <time datetime="2026-11-15T05:00:00+09:00">2026년 11월 15일</time></p>
 <h1>부모님 침대 낙상 막는 안전손잡이, 설치 전 확인할 것</h1>
 <aside class="disclosure" role="note">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</aside>
-<p class="meta"><span class="tag">복지용구</span> · <time datetime="2026-11-15T05:00:00+09:00">2026년 11월 15일</time></p>
+
 <div class="content">
-<h2>이런 상황이죠</h2>
+<section><h2>이런 상황이죠</h2>
 <p>밤에 화장실에 가려고 일어나시다가 침대 모서리에서 휘청하셨다는 이야기를 듣고 덜컥하셨을 거예요. 부모님이 침대에서 일어나 앉을 때 이불이나 매트리스 끝을 짚고 힘겹게 몸을 일으키시거나, 자다가 몸을 뒤척이다 침대 가장자리로 밀려나 계신 걸 본 적이 있다면 침대 옆 손잡이를 고민할 때입니다.</p>
 <p>낙상은 대부분 화장실·침대·욕실처럼 매일 오가는 곳에서 일어나요. 그중 침대는 하루에도 여러 번 눕고 일어나는 곳이라, 일어나는 동작 하나를 안정적으로 만들어 주는 것만으로도 부담이 꽤 줄어듭니다.</p>
-<h2>왜 생기나</h2>
+</section><section><h2>왜 생기나</h2>
 <p>나이가 들면 다리 근력과 균형 감각이 함께 떨어져서, 누운 자세에서 앉고 앉은 자세에서 서는 순간에 몸이 가장 불안정해져요. 특히 이런 경우에 위험이 커집니다.</p>
 <ul>
 <li>잠에서 막 깨서 정신이 덜 든 상태로 바로 일어날 때</li>
@@ -65,7 +94,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padd
 <li>혈압약 등 복용 중이라 일어설 때 어지러움을 느끼실 때</li>
 </ul>
 <p>손잡이는 이 '일어나는 순간'에 잡을 곳을 만들어 주는 도구예요. 다만 손잡이가 낙상을 완전히 막아 주는 것은 아니므로, 아래 방법과 함께 쓰시는 게 좋습니다.</p>
-<h2>사기 전에 먼저 해볼 것</h2>
+</section><section class="try"><h2>사기 전에 먼저 해볼 것</h2>
 <ol>
 <li><strong>일어나는 순서 바꾸기</strong> — 눈을 뜨자마자 일어나지 말고 옆으로 돌아누운 뒤, 팔로 밀어 앉고, 걸터앉은 채 잠깐 숨을 고른 다음 일어나시도록 말씀드려 보세요.</li>
 <li><strong>침대 높이 확인</strong> — 걸터앉았을 때 발바닥 전체가 바닥에 닿고 무릎이 대략 직각이 되는 높이가 일어나기 편합니다.</li>
@@ -73,7 +102,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padd
 <li><strong>침대 옆 가구 점검</strong> — 서랍장이나 협탁을 짚고 일어나시는 경우가 많은데, 바퀴가 있거나 가벼운 가구는 밀려서 오히려 위험합니다.</li>
 </ol>
 <p>이렇게 해도 일어나실 때 매번 무언가를 붙잡으셔야 한다면 손잡이가 필요한 상태라고 보시면 됩니다.</p>
-<h2>고를 때 체크리스트</h2>
+</section><section><h2>고를 때 체크리스트</h2>
 <table>
 <thead>
 <tr>
@@ -117,14 +146,20 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padd
 </table>
 <h3>장기요양등급이 있다면</h3>
 <p>부모님이 장기요양등급(1~5등급, 인지지원등급)을 받으셨다면 <strong>복지용구 급여</strong>로 일부 품목을 본인부담금만 내고 구입하거나 대여할 수 있어요. '안전손잡이'는 구입 품목에 들어 있지만, 침대 옆에 끼워 쓰는 형태가 급여 제품으로 등록돼 있는지는 제품마다 다르니 복지용구 사업소나 국민건강보험공단에 먼저 확인하세요. 거동이 많이 불편하시다면 사이드레일이 달린 수동·전동침대 대여가 더 맞을 수도 있습니다. 어르신 상태에 맞는 품목은 사업소 상담으로 함께 정하시는 게 안전해요.</p>
-<h2>추천 제품 찾기</h2>
-<p>위 체크리스트에서 우리 집 침대 구조와 매트리스 두께, 부모님 체중을 먼저 적어 두고 그 조건에 맞는 제품을 쿠팡에서 비교해 보세요. 설치 조건과 사용 하중이 상세히 적힌 제품을 고르시는 게 좋습니다. 현재 가격과 판매 상태는 쿠팡에서 확인해 주세요.</p>
+</section><section><h2>추천 제품 찾기</h2>
+<p>위 체크리스트에서 우리 집 침대 구조와 매트리스 두께, 부모님 체중을 먼저 적어 두고 그 조건에 맞는 제품을 쿠팡에서 비교해 보세요. 설치 조건과 사용 하중이 상세히 적힌 제품을 고르시는 게 좋습니다. 현재 가격과 판매 상태는 쿠팡에서 확인해 주세요.</p></section>
 </div>
-<p class="cta"><a href="https://link.coupang.com/a/iE50xF0OVo" rel="sponsored nofollow noopener" target="_blank">쿠팡에서 침대 안전손잡이 보기</a></p>
+<div class="cta"><a href="https://link.coupang.com/a/iE50xF0OVo" rel="sponsored nofollow noopener" target="_blank">쿠팡에서 침대 안전손잡이 보기</a>
+<p>위 표의 표기를 비교해 보세요.<br>현재 가격은 쿠팡에서 확인해 주세요.</p></div>
 <p class="disclosure-foot">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
 </article>
+<section class="related" aria-labelledby="rel"><h2 id="rel">함께 보면 좋은 글</h2><ul class="posts">
+<li><a href="humidifier-cleaning"><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong><small>생활가전</small></a></li>
+<li><a href="carbon-mat-vs-electric-mat"><strong>탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</strong><small>겨울이 걱정될 때</small></a></li>
+<li><a href="pipe-freeze-prevention"><strong>겨울 수도 동파 예방, 보온재와 열선 고를 때 볼 것</strong><small>고치다 막혔을 때</small></a></li>
+</ul></section>
 
 </div></main>
-<footer><div class="wrap">이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../rss.xml">RSS</a></div></footer>
+<footer><div class="wrap"><p><strong>이 사이트는</strong> 안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../rss.xml">RSS</a></p></div></footer>
 </body>
 </html>
