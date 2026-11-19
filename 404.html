@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>찾는 글이 없어요 | 생활 해결 가이드</title>
+<meta name="description" content="없는 페이지">
+<link rel="canonical" href="https://duruguide.com/">
+<meta property="og:title" content="찾는 글이 없어요 | 생활 해결 가이드">
+<meta property="og:description" content="없는 페이지">
+<meta property="og:url" content="https://duruguide.com/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ko_KR">
+<link rel="alternate" type="application/rss+xml" title="생활 해결 가이드" href="/rss.xml">
+<meta name="robots" content="noindex,nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff;--fg:#111;--muted:#444;--line:#d9d9d9;--rule:#111;--accent:#1d3a8a;--accent-fg:#fff;--soft:#f2f2f2;--zebra:#f7f7f7;
+--month-bg:#fff6d1;--month-fg:#6b4e00;--nobuy-bg:#e9f5ec;--nobuy-fg:#0e4d24;--check:#111}
+@media (prefers-color-scheme:dark){:root{--bg:#141517;--fg:#eceef0;--muted:#b4b9bf;--line:#3a3d42;--rule:#eceef0;--accent:#8fb0ff;--accent-fg:#0d1530;--soft:#1e2023;--zebra:#1a1c1f;
+--month-bg:#2e2710;--month-fg:#f1d27a;--nobuy-bg:#13291b;--nobuy-fg:#9fdcb1;--check:#eceef0}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
+a{color:var(--accent)}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:3px solid var(--rule)}
+header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px}
+header.site .name{color:var(--fg);text-decoration:none;font-weight:700;font-size:1.15rem}
+header.site nav a{font-weight:700;font-size:.95rem;display:inline-block;padding:8px 0}
+main{padding:22px 0 40px}
+h1{font-size:1.5rem;line-height:1.4;margin:.1em 0 .6em}
+h2{font-size:1.25rem;line-height:1.4;margin:1.8em 0 .5em}
+h3{font-size:1.08rem;margin:1.5em 0 .4em}
+.meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
+.disclosure{border:2px solid var(--rule);border-radius:6px;padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;margin:0 0 20px}
+.nobuy{background:var(--nobuy-bg);border-radius:6px;padding:16px;margin:0 0 8px}
+.nobuy h2{margin:0 0 6px;font-size:1.1rem;color:var(--nobuy-fg)}
+.nobuy p{margin:0}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
+.content section.try li{position:relative;padding:12px 0 12px 40px;border-top:1px solid var(--line)}
+.content section.try li:last-child{border-bottom:1px solid var(--line)}
+.content section.try li::before{content:"";position:absolute;left:2px;top:17px;width:22px;height:22px;border:2px solid var(--check);border-radius:4px}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+th,td{padding:11px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--fg);color:var(--bg)}
+td:first-child{font-weight:700}
+tbody tr:nth-child(even){background:var(--zebra)}
+figure.card{margin:30px 0 0}figure.card img{display:block;width:100%;height:auto}
+figure.card figcaption{color:var(--muted);font-size:.85rem;text-align:center;margin-top:8px}
+.cta{margin:30px 0 0;text-align:center}
+.cta a{display:block;background:var(--accent);color:var(--accent-fg);text-decoration:none;font-weight:700;font-size:1.05rem;padding:16px 18px;border-radius:6px}
+.cta p{margin:10px 0 0;color:var(--muted);font-size:.9rem;line-height:1.6}
+.disclosure-foot{color:var(--muted);font-size:.85rem;text-align:center;margin:14px 0 0}
+.month{background:var(--month-bg);border:2px solid var(--rule);border-radius:6px;padding:18px 16px;margin:0 0 30px}
+.month .when{margin:0;font-weight:700;color:var(--month-fg);font-size:.9rem}
+.month h2{margin:0 0 8px;font-size:1.35rem}
+.checklist{list-style:none;padding:0;margin:0}
+.checklist a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--fg);text-decoration:none;line-height:1.5}
+.checklist .box{flex:0 0 auto;width:22px;height:22px;margin-top:3px;border:2px solid var(--check);border-radius:3px;background:var(--bg)}
+.checklist small{display:block;color:var(--muted);font-size:.9rem}
+.sitnav a{display:flex;justify-content:space-between;align-items:center;padding:16px 4px;border-top:1px solid var(--line);color:var(--fg);text-decoration:none;font-weight:700;font-size:1.05rem}
+.sitnav a:last-child{border-bottom:1px solid var(--line)}
+.sitnav span{font-weight:500;font-size:.9rem;color:var(--muted)}
+.posts{list-style:none;padding:0;margin:0}
+.posts a{display:block;padding:13px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none}
+.posts strong{display:block;line-height:1.5}
+.posts small{display:block;margin-top:3px;color:var(--muted);font-size:.85rem}
+.lead{color:var(--muted);margin:0 0 12px;font-size:.95rem}
+section.related{border-top:3px solid var(--rule);margin-top:34px;padding-top:6px}
+footer{background:var(--soft);color:var(--muted);font-size:.85rem;line-height:1.7;padding:22px 0 40px}
+footer strong{color:var(--fg)}
+.draft-badge{background:#c62828;color:#fff;padding:2px 8px;border-radius:4px;font-size:.8rem}
+</style>
+</head>
+<body>
+<header class="site"><div class="wrap"><a class="name" href="/">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="/#situations">상황으로 찾기</a></nav></div></header>
+<main><div class="wrap">
+<h1>찾는 글이 없어요</h1><p class="lead">주소가 바뀌었거나 없는 글이에요.</p><p><a href="/">홈으로 가기</a> · <a href="/#situations">상황으로 찾기</a></p>
+</div></main>
+<footer><div class="wrap"><p><strong>이 사이트는</strong> 안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="/rss.xml">RSS</a></p></div></footer>
+</body>
+</html>
