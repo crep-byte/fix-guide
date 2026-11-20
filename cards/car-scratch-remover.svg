@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1609" viewBox="0 0 1080 1609" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1603" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">자동차 잔기스 셀프 제거</text>
+<rect x="64" y="226" width="952" height="5" fill="#111111"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">대상 흠집</text>
+<text x="134" y="371" font-size="39" fill="#333333">제품이 대상으로 안내한 흠집 정도(표면</text>
+<text x="134" y="423" font-size="39" fill="#333333">잔기스용인지)</text>
+<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">연마 강도</text>
+<text x="134" y="593" font-size="39" fill="#333333">입자 거칠기 안내가 있는지, 강한 제품은 도장을 더</text>
+<text x="134" y="645" font-size="39" fill="#333333">깎을 수 있음</text>
+<rect x="64" y="675" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">차량 색상</text>
+<text x="134" y="815" font-size="39" fill="#333333">제품에 표기된 사용 가능 색상, 어두운 색은 흠집이</text>
+<text x="134" y="867" font-size="39" fill="#333333">더 눈에 띔</text>
+<rect x="64" y="897" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="985" font-size="48" font-weight="700" fill="#111111">작업 방식</text>
+<text x="134" y="1037" font-size="39" fill="#333333">손으로 문지르는지, 폴리셔 같은 도구가 필요한지</text>
+<rect x="64" y="1067" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">구성품</text>
+<text x="134" y="1207" font-size="39" fill="#333333">스펀지, 마이크로파이버 천 등이 함께 오는지</text>
+<rect x="64" y="1237" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1277" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1325" font-size="48" font-weight="700" fill="#111111">주의 문구</text>
+<text x="134" y="1377" font-size="39" fill="#333333">사용 부위(도장면, 플라스틱, 무광 등)와 금지</text>
+<text x="134" y="1429" font-size="39" fill="#333333">부위가 분명한지</text>
+<rect x="64" y="1499" width="952" height="2" fill="#111111"/>
+<text x="64" y="1555" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1555" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
