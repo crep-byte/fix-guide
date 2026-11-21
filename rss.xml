@@ -6,7 +6,15 @@
     <description>생활 해결 가이드 — 생활 속 고장·불편 해결 방법과 제품 고르는 기준</description>
     <language>ko</language>
     <atom:link href="https://duruguide.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 05:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>멀티탭 과열 막는 법, 허용 전력 표기 읽고 고르기</title>
+      <link>https://duruguide.com/posts/power-strip-safety</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/power-strip-safety</guid>
+      <description>멀티탭이 뜨거워지는 이유와 사기 전에 먼저 할 정리, 정격 전류·전압으로 허용 전력 읽는 법과 고를 때 볼 안전 표기를 정리했습니다.</description>
+      <category>사무/IT</category>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>창문 외풍 막는 법, 방풍비닐·뽁뽁이·문풍지 차이</title>
       <link>https://duruguide.com/posts/window-draft-film</link>
