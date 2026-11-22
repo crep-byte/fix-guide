@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1831" viewBox="0 0 1080 1831" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1825" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">보온도시락 고르는 법</text>
+<rect x="64" y="226" width="952" height="5" fill="#111111"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">보온 구조</text>
+<text x="134" y="371" font-size="39" fill="#333333">이중 벽(진공) 구조인지, 보온이 되는 통과 안 되는</text>
+<text x="134" y="423" font-size="39" fill="#333333">통이 어떻게 나뉘는지</text>
+<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">보온 시간 표기</text>
+<text x="134" y="593" font-size="39" fill="#333333">시험 조건(처음 온도, 시간)이 함께 적혀 있는지</text>
+<rect x="64" y="623" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="663" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="711" font-size="48" font-weight="700" fill="#111111">용량과 칸 수</text>
+<text x="134" y="763" font-size="39" fill="#333333">밥·국·반찬 중 무엇을 따뜻하게 먹고 싶은지, 내</text>
+<text x="134" y="815" font-size="39" fill="#333333">식사량</text>
+<rect x="64" y="845" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="933" font-size="48" font-weight="700" fill="#111111">국통 밀폐</text>
+<text x="134" y="985" font-size="39" fill="#333333">국물이 새지 않는 패킹 구조인지, 패킹을 빼서 씻을</text>
+<text x="134" y="1037" font-size="39" fill="#333333">수 있는지</text>
+<rect x="64" y="1067" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">세척</text>
+<text x="134" y="1207" font-size="39" fill="#333333">입구가 넓어 손이 들어가는지, 식기세척기 사용</text>
+<text x="134" y="1259" font-size="39" fill="#333333">가능 표기</text>
+<rect x="64" y="1289" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">전자레인지</text>
+<text x="134" y="1429" font-size="39" fill="#333333">대부분 스테인리스 통은 전자레인지에 넣을 수</text>
+<text x="134" y="1481" font-size="39" fill="#333333">없으니 표기 확인</text>
+<rect x="64" y="1511" width="952" height="2" fill="#D9C98F"/>
+<rect x="66" y="1551" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1599" font-size="48" font-weight="700" fill="#111111">무게와 가방</text>
+<text x="134" y="1651" font-size="39" fill="#333333">들고 다니기 무겁지 않은지, 가방 크기에 맞는지</text>
+<rect x="64" y="1721" width="952" height="2" fill="#111111"/>
+<text x="64" y="1777" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1777" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>

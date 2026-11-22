@@ -6,7 +6,15 @@
     <description>생활 해결 가이드 — 생활 속 고장·불편 해결 방법과 제품 고르는 기준</description>
     <language>ko</language>
     <atom:link href="https://duruguide.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:00:00 +0900</lastBuildDate>
+    <item>
+      <title>보온도시락 고르는 법, 보온 시간 표기와 세척 쉬운 구조</title>
+      <link>https://duruguide.com/posts/insulated-lunchbox</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/insulated-lunchbox</guid>
+      <description>보온도시락을 고를 때 보온 구조와 보온 시간 표기 읽는 법, 칸별 용량, 국통 밀폐, 세척 쉬운 구조와 주의점을 정리했습니다.</description>
+      <category>생활정리</category>
+      <pubDate>Sun, 22 Nov 2026 17:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>강아지 겨울옷 사이즈 재는 법과 고르는 기준</title>
       <link>https://duruguide.com/posts/dog-winter-padding</link>
@@ -158,14 +166,6 @@
       <description>부러진 볼트가 생기는 이유와 먼저 해볼 방법, 역탭 추출 비트를 고를 때 확인할 규격을 정리했습니다.</description>
       <category>작업공구</category>
       <pubDate>Tue, 17 Nov 2026 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>100W GaN 멀티 충전기 고르는 기준</title>
-      <link>https://duruguide.com/posts/gan-charger-100w</link>
-      <guid isPermaLink="true">https://duruguide.com/posts/gan-charger-100w</guid>
-      <description>노트북과 휴대폰을 함께 충전할 100W GaN 멀티 충전기를 고를 때 포트별 출력, 케이블, 규격에서 볼 것을 정리했습니다.</description>
-      <category>사무/IT</category>
-      <pubDate>Tue, 17 Nov 2026 05:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
