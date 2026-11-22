@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1831" viewBox="0 0 1080 1831" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1825" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1825" fill="#FFD928" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#2436FF">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">사무실 책상용 미니 가습기 고를 때 볼 것</text>
 <rect x="64" y="226" width="952" height="5" fill="#111111"/>
 <rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">가습 방식</text>
 <text x="134" y="371" font-size="39" fill="#333333">초음파식은 조용하고 작지만 세척이 중요하고,</text>
 <text x="134" y="423" font-size="39" fill="#333333">가열식은 표면이 뜨거울 수 있어요</text>
-<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">물통 용량</text>
 <text x="134" y="593" font-size="39" fill="#333333">근무 시간 동안 몇 번 채워야 하는지, 제품 표기의</text>
 <text x="134" y="645" font-size="39" fill="#333333">연속 사용 시간</text>
-<rect x="64" y="675" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">전원</text>
 <text x="134" y="815" font-size="39" fill="#333333">USB 전원인지 어댑터인지, 내 자리 콘센트나</text>
 <text x="134" y="867" font-size="39" fill="#333333">포트로 충분한지</text>
-<rect x="64" y="897" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="897" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="985" font-size="48" font-weight="700" fill="#111111">세척 구조</text>
 <text x="134" y="1037" font-size="39" fill="#333333">물통 입구가 넓어 손이 들어가는지, 부품이</text>
 <text x="134" y="1089" font-size="39" fill="#333333">분리되는지</text>
-<rect x="64" y="1119" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1119" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">소음</text>
 <text x="134" y="1259" font-size="39" fill="#333333">조용한 사무실이라면 작동음 표기와 물 떨어지는</text>
 <text x="134" y="1311" font-size="39" fill="#333333">소리 여부</text>
-<rect x="64" y="1341" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1341" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1381" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1429" font-size="48" font-weight="700" fill="#111111">자동 꺼짐</text>
 <text x="134" y="1481" font-size="39" fill="#333333">물이 떨어지면 저절로 멈추는 기능이 있는지</text>
-<rect x="64" y="1511" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1511" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1551" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1599" font-size="48" font-weight="700" fill="#111111">크기와 안정감</text>
 <text x="134" y="1651" font-size="39" fill="#333333">책상 위에서 쉽게 넘어지지 않는 바닥 면적인지</text>

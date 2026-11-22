@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1935" viewBox="0 0 1080 1935" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1929" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1929" fill="#FFD928" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#2436FF">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">창문 외풍 막는 법</text>
 <rect x="64" y="226" width="952" height="5" fill="#111111"/>
 <rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">막을 곳</text>
 <text x="134" y="371" font-size="39" fill="#333333">틈새는 문풍지, 유리 면은 뽁뽁이, 창 전체는</text>
 <text x="134" y="423" font-size="39" fill="#333333">방풍비닐</text>
-<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">창 크기</text>
 <text x="134" y="593" font-size="39" fill="#333333">가로·세로를 재고 여유분을 더해 넉넉한 길이로</text>
 <text x="134" y="645" font-size="39" fill="#333333">고르기</text>
-<rect x="64" y="675" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">부착 방식</text>
 <text x="134" y="815" font-size="39" fill="#333333">물로 붙이는 것, 양면테이프, 접착식 중 어느</text>
 <text x="134" y="867" font-size="39" fill="#333333">것인지</text>
-<rect x="64" y="897" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="897" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="985" font-size="48" font-weight="700" fill="#111111">떼어낼 때</text>
 <text x="134" y="1037" font-size="39" fill="#333333">임대 집이면 자국이 남지 않는다고 표기된</text>
 <text x="134" y="1089" font-size="39" fill="#333333">제품인지</text>
-<rect x="64" y="1119" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1119" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">채광과 시야</text>
 <text x="134" y="1259" font-size="39" fill="#333333">뽁뽁이는 밖이 뿌옇게 보이고, 투명 방풍비닐은</text>
 <text x="134" y="1311" font-size="39" fill="#333333">비교적 잘 보임</text>
-<rect x="64" y="1341" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1341" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1381" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1429" font-size="48" font-weight="700" fill="#111111">창 열기</text>
 <text x="134" y="1481" font-size="39" fill="#333333">방풍비닐로 창 전체를 덮으면 환기할 때 열기</text>
 <text x="134" y="1533" font-size="39" fill="#333333">불편할 수 있음</text>
-<rect x="64" y="1563" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1563" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1603" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1651" font-size="48" font-weight="700" fill="#111111">문풍지 두께</text>
 <text x="134" y="1703" font-size="39" fill="#333333">틈보다 너무 두꺼우면 창이 안 닫히니 틈 폭을 먼저</text>

@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1883" viewBox="0 0 1080 1883" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1877" rx="28" fill="#FFF6D1" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#6B4E00">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1877" fill="#FFD928" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#2436FF">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 배터리 방전 대비</text>
 <rect x="64" y="226" width="952" height="5" fill="#111111"/>
 <rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">적용 차량</text>
 <text x="134" y="371" font-size="39" fill="#333333">내 차의 배기량과 디젤, 가솔린 여부에 맞게 안내된</text>
 <text x="134" y="423" font-size="39" fill="#333333">제품인지</text>
-<rect x="64" y="453" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">전류 표기</text>
 <text x="134" y="593" font-size="39" fill="#333333">피크 전류 수치는 업체마다 측정 기준이 달라</text>
 <text x="134" y="645" font-size="39" fill="#333333">그대로 비교하기 어려움</text>
-<rect x="64" y="675" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">시동 가능 범위</text>
 <text x="134" y="815" font-size="39" fill="#333333">제품이 안내한 적용 배기량(디젤은 더 큰 힘이</text>
 <text x="134" y="867" font-size="39" fill="#333333">필요한 편)</text>
-<rect x="64" y="897" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="897" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="985" font-size="48" font-weight="700" fill="#111111">보호 기능</text>
 <text x="134" y="1037" font-size="39" fill="#333333">역접속, 과전류, 단락 방지 등이 제품 표기에</text>
 <text x="134" y="1089" font-size="39" fill="#333333">있는지</text>
-<rect x="64" y="1119" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1119" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">용량</text>
 <text x="134" y="1259" font-size="39" fill="#333333">배터리 용량(mAh, Wh)과 한 번 충전으로 가능한</text>
 <text x="134" y="1311" font-size="39" fill="#333333">시동 횟수 안내</text>
-<rect x="64" y="1341" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1341" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1381" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1429" font-size="48" font-weight="700" fill="#111111">부가 기능</text>
 <text x="134" y="1481" font-size="39" fill="#333333">USB 출력, 손전등 등. 필수는 아니고 있으면 편한</text>
 <text x="134" y="1533" font-size="39" fill="#333333">정도</text>
-<rect x="64" y="1563" width="952" height="2" fill="#D9C98F"/>
+<rect x="64" y="1563" width="952" height="2" fill="#B89A0C"/>
 <rect x="66" y="1603" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 <text x="134" y="1651" font-size="48" font-weight="700" fill="#111111">사용 온도</text>
 <text x="134" y="1703" font-size="39" fill="#333333">저온에서 쓸 수 있는 범위가 표기돼 있는지</text>

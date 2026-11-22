@@ -11,84 +11,253 @@
 <meta property="og:url" content="https://duruguide.com/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ko_KR">
+<meta property="og:site_name" content="생활 해결 가이드">
+<meta property="og:image" content="https://duruguide.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="https://duruguide.com/favicon.ico" sizes="48x48">
+<link rel="icon" href="https://duruguide.com/icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://duruguide.com/apple-touch-icon.png">
 <link rel="alternate" type="application/rss+xml" title="생활 해결 가이드" href="rss.xml">
 <meta name="naver-site-verification" content="3420a3ff965ea807edf8db2f7e55ce42184d1726">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "생활 해결 가이드", "url": "https://duruguide.com/", "inLanguage": "ko", "publisher": {"@type": "Organization", "name": "생활 해결 가이드", "url": "https://duruguide.com/about", "logo": {"@type": "ImageObject", "url": "https://duruguide.com/icon-192.png"}}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&amp;family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--fg:#111;--muted:#444;--line:#d9d9d9;--rule:#111;--accent:#1d3a8a;--accent-fg:#fff;--soft:#f2f2f2;--zebra:#f7f7f7;
---month-bg:#fff6d1;--month-fg:#6b4e00;--nobuy-bg:#e9f5ec;--nobuy-fg:#0e4d24;--check:#111}
-@media (prefers-color-scheme:dark){:root{--bg:#141517;--fg:#eceef0;--muted:#b4b9bf;--line:#3a3d42;--rule:#eceef0;--accent:#8fb0ff;--accent-fg:#0d1530;--soft:#1e2023;--zebra:#1a1c1f;
---month-bg:#2e2710;--month-fg:#f1d27a;--nobuy-bg:#13291b;--nobuy-fg:#9fdcb1;--check:#eceef0}}
+:root{--bg:#fff;--fg:#0a0a0a;--soft:#f0f0f0;--muted:#4d4d4d;--link:#1622c9;
+--blue:#2436ff;--red:#ff3b1f;--black:#0a0a0a;--navy:#050a5c;--yellow:#ffd928;--white:#fff;
+--m:clamp(18px,3.2vw,48px);--display:"Black Han Sans","IBM Plex Sans KR","Apple SD Gothic Neo",sans-serif;--ease:cubic-bezier(.16,1,.3,1)}
+@media (prefers-color-scheme:dark){:root{--bg:#101114;--fg:#f2f3f5;--soft:#1d1f24;--muted:#b8bcc4;--link:#9fb0ff}}
 *{box-sizing:border-box}
+html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
-a{color:var(--accent)}
-.wrap{max-width:720px;margin:0 auto;padding:0 20px}
-header.site{border-bottom:3px solid var(--rule)}
-header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px}
-header.site .name{color:var(--fg);text-decoration:none;font-weight:700;font-size:1.15rem}
-header.site nav a{font-weight:700;font-size:.95rem;display:inline-block;padding:8px 0}
-main{padding:22px 0 40px}
-h1{font-size:1.5rem;line-height:1.4;margin:.1em 0 .6em}
-h2{font-size:1.25rem;line-height:1.4;margin:1.8em 0 .5em}
-h3{font-size:1.08rem;margin:1.5em 0 .4em}
-.meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
-.disclosure{border:2px solid var(--rule);border-radius:6px;padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;margin:0 0 20px}
-.nobuy{background:var(--nobuy-bg);border-radius:6px;padding:16px;margin:0 0 8px}
-.nobuy h2{margin:0 0 6px;font-size:1.1rem;color:var(--nobuy-fg)}
-.nobuy p{margin:0}
-.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
-.content section.try li{position:relative;padding:12px 0 12px 40px;border-top:1px solid var(--line)}
-.content section.try li:last-child{border-bottom:1px solid var(--line)}
-.content section.try li::before{content:"";position:absolute;left:2px;top:17px;width:22px;height:22px;border:2px solid var(--check);border-radius:4px}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
-th,td{padding:11px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
-th{background:var(--fg);color:var(--bg)}
-td:first-child{font-weight:700}
-tbody tr:nth-child(even){background:var(--zebra)}
-figure.card{margin:30px 0 0}figure.card img{display:block;width:100%;height:auto}
-figure.card figcaption{color:var(--muted);font-size:.85rem;text-align:center;margin-top:8px}
-.cta{margin:30px 0 0;text-align:center}
-.cta a{display:block;background:var(--accent);color:var(--accent-fg);text-decoration:none;font-weight:700;font-size:1.05rem;padding:16px 18px;border-radius:6px}
-.cta a.cta2{margin-top:10px;background:var(--bg);color:var(--fg);border:2px solid var(--rule)}
-.cta p{margin:10px 0 0;color:var(--muted);font-size:.9rem;line-height:1.6}
-.disclosure-foot{color:var(--muted);font-size:.85rem;text-align:center;margin:14px 0 0}
-.month{background:var(--month-bg);border:2px solid var(--rule);border-radius:6px;padding:18px 16px;margin:0 0 30px}
-.month .when{margin:0;font-weight:700;color:var(--month-fg);font-size:.9rem}
-.month h2{margin:0 0 8px;font-size:1.35rem}
-.checklist{list-style:none;padding:0;margin:0}
-.checklist a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--fg);text-decoration:none;line-height:1.5}
-.checklist .box{flex:0 0 auto;width:22px;height:22px;margin-top:3px;border:2px solid var(--check);border-radius:3px;background:var(--bg)}
-.checklist small{display:block;color:var(--muted);font-size:.9rem}
-.sitnav a{display:flex;justify-content:space-between;align-items:center;padding:16px 4px;border-top:1px solid var(--line);color:var(--fg);text-decoration:none;font-weight:700;font-size:1.05rem}
-.sitnav a:last-child{border-bottom:1px solid var(--line)}
-.sitnav span{font-weight:500;font-size:.9rem;color:var(--muted)}
+a{color:var(--link)}
+h1,h2,h3{font-family:var(--display);font-weight:400;font-synthesis:none;margin:0;text-wrap:balance}
+p{max-width:38em}
+:focus-visible{outline:4px solid var(--yellow);outline-offset:2px}
+
+/* 머리 */
+.top{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px var(--m);background:var(--black);color:var(--white)}
+.top a{color:inherit;text-decoration:none}
+.top .name{font:400 1.35rem/1 var(--display);white-space:nowrap}
+.top nav{display:flex;gap:24px;font-size:1rem;font-weight:700}
+.top nav a{padding:8px 0;white-space:nowrap}
+.top nav a:hover{color:var(--yellow)}
+.home .top{background:var(--blue)}
+
+/* 첫 화면 */
+.hero{background:var(--blue);color:var(--white);display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);align-items:center;gap:32px;padding:24px var(--m) 72px;min-height:calc(100svh - 68px);overflow:hidden}
+.hero h1{font-size:clamp(88px,12.6vw,212px);line-height:.94;letter-spacing:-.025em;white-space:nowrap}
+.line{display:block;overflow:hidden;padding-top:.04em}
+.line>span{display:block;animation:rise .9s var(--ease) both}
+.line+.line>span{color:var(--yellow);animation-delay:.11s}
+.hero .lead{font-size:clamp(1.15rem,1.6vw,1.45rem);line-height:1.55;font-weight:500;max-width:25em;margin:32px 0 28px;animation:up .7s var(--ease) .35s both}
+.btn{display:inline-block;background:var(--yellow);color:var(--black);text-decoration:none;font:400 1.45rem/1 var(--display);padding:20px 34px;animation:up .7s var(--ease) .45s both;transition:transform .18s var(--ease),background-color .18s}
+.btn:hover{background:var(--white);transform:translateY(-3px)}
+.btn:active{transform:scale(.97)}
+
+/* 0원 영수증: 상황을 누르면 바뀐다(스크립트 없음) */
+.picker{justify-self:center;width:100%;max-width:450px}
+.picker input{position:absolute;opacity:0;width:1px;height:1px}
+.picks{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px;animation:up .7s var(--ease) .5s both}
+.picks label{cursor:pointer;background:var(--navy);color:var(--white);font-weight:700;font-size:.95rem;line-height:1.2;padding:12px 14px;transition:background-color .18s,color .18s}
+.picks label:hover{background:var(--black)}
+#r0:checked~.picks [for=r0],#r1:checked~.picks [for=r1],#r2:checked~.picks [for=r2],#r3:checked~.picks [for=r3]{background:var(--yellow);color:var(--black)}
+#r0:focus-visible~.picks [for=r0],#r1:focus-visible~.picks [for=r1],#r2:focus-visible~.picks [for=r2],#r3:focus-visible~.picks [for=r3]{outline:4px solid var(--white)}
+.slip{display:none;position:relative;background:var(--white);color:var(--black);padding:30px 28px 38px;transform:rotate(3deg);clip-path:polygon(0 0,100% 0,100% calc(100% - 14px),95% 100%,90% calc(100% - 14px),85% 100%,80% calc(100% - 14px),75% 100%,70% calc(100% - 14px),65% 100%,60% calc(100% - 14px),55% 100%,50% calc(100% - 14px),45% 100%,40% calc(100% - 14px),35% 100%,30% calc(100% - 14px),25% 100%,20% calc(100% - 14px),15% 100%,10% calc(100% - 14px),5% 100%,0 calc(100% - 14px))}
+#r0:checked~.slips .s0,#r1:checked~.slips .s1,#r2:checked~.slips .s2,#r3:checked~.slips .s3{display:block;animation:print .6s var(--ease) both}
+.slip-top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.slip-name{font:400 2.1rem/1.1 var(--display);margin:0}
+.slip .art{width:76px;height:76px;flex:none;background:var(--blue);padding:9px}
+.slip .what{font-weight:700;line-height:1.45;margin:18px 0 8px}
+.slip .why{font-size:1rem;line-height:1.65;margin:0}
+.slip .sum{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;background:var(--yellow);padding:12px 14px;margin:18px 0 14px;font-weight:700}
+.slip .sum b{font:400 3.6rem/.85 var(--display)}
+.slip a{color:var(--black);font-weight:700}
+
+/* 면 제목 */
+.big{font-size:clamp(2.8rem,7.6vw,7rem);line-height:1;letter-spacing:-.02em}
+
+/* 이번 달 */
+.month{background:var(--red);color:var(--black);padding:88px var(--m) 96px;display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:24px 40px;align-items:center}
+.month .when{font:400 clamp(9rem,18vw,19rem)/.8 var(--display);letter-spacing:-.04em;margin:0;white-space:nowrap}
+.month h2{font-size:clamp(2.1rem,4vw,3.6rem);line-height:1.05;margin-bottom:24px}
+.checklist{list-style:none;padding:0;margin:0;display:grid;gap:6px}
+.checklist a{display:flex;gap:16px;align-items:center;background:var(--black);color:var(--white);padding:16px 18px;text-decoration:none;line-height:1.4;transition:transform .2s var(--ease),background-color .2s}
+.checklist a:hover{background:var(--navy);transform:translateX(8px)}
+.checklist .box{flex:0 0 26px;height:26px;background:var(--white);position:relative}
+.checklist a:hover .box::after{content:"";position:absolute;left:8px;top:2px;width:9px;height:17px;border:solid var(--blue);border-width:0 5px 5px 0;transform:rotate(42deg)}
+.checklist strong{display:block;font-size:1.1rem}
+.checklist small{display:block;font-size:.9rem}
+
+/* 상황 판 */
+.sits{background:var(--black);color:var(--white)}
+.sits .big{padding:88px var(--m) 32px}
+.sitnav{display:flex;flex-wrap:wrap}
+.tile{position:relative;overflow:hidden;flex:1 1 25%;min-height:280px;padding:24px var(--m);display:flex;flex-direction:column;justify-content:flex-end;text-decoration:none;font:400 clamp(1.7rem,2.5vw,2.5rem)/1.1 var(--display)}
+.tile:nth-child(4n+1){flex-basis:40%}
+.tile:nth-child(8n+5){flex-basis:34%}
+.tile .label,.tile .n{position:relative;z-index:1}
+.tile .n{font:700 1rem/1.4 "IBM Plex Sans KR",sans-serif;margin-top:8px}
+.tile .art{position:absolute;right:-3%;top:8px;width:60%;max-width:230px;max-height:66%;transition:transform .35s var(--ease)}
+.tile:hover .art{transform:translateY(-8px) scale(1.07)}
+.t-blue{background:var(--blue);color:var(--white)}.t-red{background:var(--red);color:var(--black)}
+.t-navy{background:var(--navy);color:var(--white)}.t-black{background:#26282e;color:var(--white)}
+
+/* 새 글·목록 */
+.fresh{background:var(--yellow);color:var(--black);padding:88px var(--m) 80px}
+.fresh .big{margin-bottom:28px}
 .posts{list-style:none;padding:0;margin:0}
-.posts a{display:block;padding:13px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none}
-.posts strong{display:block;line-height:1.5}
-.posts small{display:block;margin-top:3px;color:var(--muted);font-size:.85rem}
-.lead{color:var(--muted);margin:0 0 12px;font-size:.95rem}
-section.related{border-top:3px solid var(--rule);margin-top:34px;padding-top:6px}
-footer{background:var(--soft);color:var(--muted);font-size:.85rem;line-height:1.7;padding:22px 0 40px}
-footer strong{color:var(--fg)}
-.draft-badge{background:#c62828;color:#fff;padding:2px 8px;border-radius:4px;font-size:.8rem}
+.posts a{display:block;color:inherit;text-decoration:none;transition:transform .2s var(--ease),background-color .2s}
+.posts strong{display:block;line-height:1.4}
+.posts small{display:block;font-size:.9rem;margin-top:4px}
+.fresh .posts{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px}
+.fresh .posts li{grid-column:span 2}
+.fresh .posts li:nth-child(-n+2){grid-column:span 3}
+.fresh .posts li:only-child{grid-column:span 6}
+.fresh .posts a{height:100%;min-height:150px;padding:22px;background:var(--black);color:var(--white);display:flex;flex-direction:column;justify-content:space-between}
+.fresh .posts li:first-child a{background:var(--blue)}
+.fresh .posts strong{font:400 clamp(1.4rem,2vw,2rem)/1.2 var(--display)}
+.fresh .posts a:hover{transform:translateY(-5px)}
+.total{font-weight:700;margin:24px 0 0}
+.groups{padding:80px var(--m);columns:2;column-gap:28px}
+.groups section{break-inside:avoid;margin-bottom:36px;scroll-margin-top:16px}
+.groups h2{font-size:1.9rem;line-height:1.1;padding:16px 18px}
+.groups .posts{display:grid;gap:4px;margin-top:4px}
+.groups .posts a{background:var(--soft);padding:14px 18px}
+.groups .posts a:hover{background:var(--yellow);color:var(--black)}
+
+/* 약속 */
+.promise{background:var(--navy);color:var(--white);padding:104px var(--m);display:grid;grid-template-columns:1.2fr 1fr;gap:32px;align-items:center}
+.promise p{font-size:clamp(1.25rem,2.1vw,1.9rem);line-height:1.6;margin:0}
+.promise mark{background:var(--yellow);color:var(--black);padding:0 .1em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+
+/* 글 */
+.band{padding:0 var(--m);overflow:hidden}
+.band-in{max-width:980px;margin:0 auto;padding:38px 0 40px;position:relative}
+.band .art{position:absolute;right:-8px;top:18px;width:200px;height:200px;animation:up .8s var(--ease) both}
+.band .meta{font-size:.95rem;margin:0 0 24px;position:relative;padding-right:210px}
+.band .meta a{color:inherit;font-weight:700}
+.band h1{font-size:clamp(2.8rem,6.6vw,5.2rem);line-height:1.04;letter-spacing:-.015em;padding-right:210px;margin-bottom:28px;position:relative}
+.band h1.long{font-size:clamp(2.1rem,4.6vw,3.6rem)}
+.band h1 .sub{display:block;font:700 clamp(1.1rem,2vw,1.45rem)/1.5 "IBM Plex Sans KR",sans-serif;letter-spacing:0;margin-top:14px}
+.disclosure{background:var(--white);color:var(--black);padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;position:relative}
+.read,.plain{max-width:756px;margin:0 auto;padding:36px var(--m) 72px}
+.nobuy{background:var(--yellow);color:var(--black);padding:24px;display:grid;grid-template-columns:1fr auto;gap:8px 20px}
+.nobuy h2{font-size:1.9rem;line-height:1.1}
+.nobuy p{grid-column:1/-1;margin:0}
+.nobuy .zero{font:400 2.8rem/.85 var(--display);align-self:center}
+.content h2,.plain h2,.related h2{font-size:2rem;line-height:1.15;margin:1.8em 0 .55em}
+.content h3{font-size:1.45rem;margin:1.6em 0 .4em}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em;display:grid;gap:6px}
+.content section.try li{position:relative;background:var(--soft);padding:14px 16px 14px 56px}
+.content section.try li::before{content:"";position:absolute;left:16px;top:18px;width:24px;height:24px;background:var(--bg);border:4px solid var(--blue)}
+table{border-collapse:separate;border-spacing:0 4px;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+th,td{padding:12px;text-align:left;vertical-align:top}
+th{background:var(--blue);color:var(--white)}
+td{background:var(--soft)}
+td:first-child{font-weight:700}
+figure.card{margin:34px 0 0}figure.card img{display:block;width:100%;height:auto}
+figure.card figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}
+.cta{margin:34px 0 0}
+.cta a{display:block;background:var(--blue);color:var(--white);text-align:center;text-decoration:none;font:400 1.4rem/1.35 var(--display);padding:20px 18px;transition:transform .18s var(--ease)}
+.cta a.cta2{margin-top:8px;background:var(--black);color:var(--white)}
+.cta a:hover{transform:translateY(-3px)}
+.cta p{margin:12px 0 0;color:var(--muted);font-size:.95rem;line-height:1.6}
+.disclosure-foot{color:var(--muted);font-size:.9rem;margin:18px 0 0}
+.related{background:var(--black);color:var(--white);padding:12px var(--m) 64px}
+.related>*{max-width:980px;margin-left:auto;margin-right:auto}
+.related .posts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.related .posts a{height:100%;padding:20px;background:var(--navy)}
+.related .posts a:hover{background:var(--blue)}
+.plain h1{font-size:clamp(3rem,8vw,5.5rem);line-height:1;margin:.3em 0 .4em}
+.draft-badge{background:#c62828;color:#fff;padding:2px 8px;font-size:.8rem}
+
+/* 끝 */
+.foot{background:var(--black);color:var(--white);padding:56px var(--m) 40px;font-size:.95rem;line-height:1.7}
+.blocks{display:flex;align-items:flex-end;gap:4px;margin:0 0 32px;max-width:none}
+.blocks span{font:400 clamp(2.4rem,10.5vw,10rem)/1 var(--display);text-align:center;padding:.16em .1em .1em;white-space:nowrap}
+.blocks span:nth-child(1){flex:2;background:var(--blue);padding-top:.5em}
+.blocks span:nth-child(2){flex:2;background:var(--red);color:var(--black)}
+.blocks span:nth-child(3){flex:3;background:var(--yellow);color:var(--black);padding-top:.32em}
+.foot-row{display:flex;justify-content:space-between;gap:16px 32px;flex-wrap:wrap}
+.foot-row p{margin:0}.foot a{color:inherit;font-weight:700}
+
+@media (max-width:900px){
+.hero{grid-template-columns:minmax(0,1fr);padding-top:32px;min-height:0}
+.hero h1{font-size:min(23vw,160px)}
+.hero .lead{margin:22px 0 20px}
+.picker{margin-top:20px}
+.slip{transform:rotate(2deg)}
+.month,.promise{grid-template-columns:minmax(0,1fr);padding-top:64px;padding-bottom:64px}
+.month .when{font-size:min(42vw,300px)}
+.sits .big,.fresh{padding-top:64px}
+.tile,.tile:nth-child(n){flex:1 1 50%;min-height:200px;font-size:1.55rem;padding:16px var(--m)}
+.tile:nth-child(3n+1){flex-basis:100%}
+.tile .art{max-height:50%;top:10px}
+.fresh .posts li,.fresh .posts li:nth-child(n){grid-column:span 6}
+.fresh .posts a{min-height:0;gap:10px;padding:18px}
+.groups{columns:1;padding-top:56px;padding-bottom:40px}
+.related .posts{grid-template-columns:minmax(0,1fr)}
+.band .art{width:88px;height:88px;top:22px;right:0}
+.band .meta{padding-right:100px;min-height:88px;margin-bottom:14px}
+.band h1{padding-right:0}
+.top nav .about-link{display:none}
+}
+@media (max-width:360px){.top .name{font-size:1.1rem}.top nav{font-size:.9rem}}
+
+/* 움직임: 숨긴 채로 남지 않게 지원하는 브라우저에서만 */
+@keyframes rise{from{transform:translateY(105%)}to{transform:translateY(0)}}
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes lift{from{translate:0 36px}to{translate:0 0}}
+@keyframes print{from{opacity:0;translate:0 -28px}to{opacity:1;translate:0 0}}
+@supports (animation-timeline:view()){
+.month .when,.month h2,.checklist li,.sits .big,.tile .art,.fresh .big,.fresh .posts li,.groups section,.promise h2,.promise p,.blocks span{animation:lift linear both;animation-timeline:view();animation-range:entry 0% entry 55%}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 </head>
-<body>
-<header class="site"><div class="wrap"><a class="name" href="./">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="#situations">상황으로 찾기</a></nav></div></header>
-<main><div class="wrap">
-<h1>생활 해결 가이드</h1>
-<p class="lead">고장·불편, 먼저 돈 안 들이고 해결하기</p>
-<section class="month" aria-labelledby="month"><p class="when">11월</p><h2 id="month">이번 달 집안 점검표</h2><ul class="checklist">
+<body class="home">
+<header class="top"><a class="name" href="./">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="#situations">상황으로 찾기</a><a class="about-link" href="./about">사이트 소개</a></nav></header>
+<main>
+<section class="hero" aria-labelledby="hero-title">
+<div class="hero-copy">
+<h1 id="hero-title"><span class="line"><span>사기 전에</span></span> <span class="line"><span>0원부터.</span></span></h1>
+<p class="lead">고장과 불편, 돈 안 드는 방법을 먼저 알려드려요. 안 사도 되면 안 사도 된다고 적습니다.</p>
+<a class="btn" href="#situations">내 상황 고르기</a>
+</div>
+<div class="picker" role="group" aria-label="상황을 고르면 안 사도 되는 경우가 나와요">
+<input type="radio" name="slip" id="r0" checked><input type="radio" name="slip" id="r1"><input type="radio" name="slip" id="r2"><input type="radio" name="slip" id="r3">
+<div class="picks"><label for="r0">겨울이 걱정될 때</label><label for="r1">집안 정리·청소</label><label for="r2">반려동물과 지낼 때</label><label for="r3">생활가전</label></div>
+<div class="slips"><div class="slip s0"><div class="slip-top"><p class="slip-name">안 사도 되는<br>영수증</p><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M18 112V26h84v86z"/><path fill="#0a0a0a" d="M28 36h64v46H28z"/><path fill="#ff3b1f" d="M34 44h52v7H34zm0 13h52v7H34zm0 13h52v7H34z"/><path fill="#ffd928" d="M40 8q10-8 0-8h8q9 9-1 20h-8q10-6 1-12zm26 0q10-8 0-8h8q9 9-1 20h-8q10-6 1-12z"/><path fill="#0a0a0a" d="M26 112h14v8H26zm54 0h14v8H80zM28 92h30v9H28z"/><circle fill="#ffd928" cx="84" cy="97" r="8"/></svg></div><p class="what">넥워머 소재별 차이와 고르는 법</p><p class="why">긴 목도리를 반으로 접어 고리처럼 두르거나 터틀넥, 지퍼를 끝까지 올리는 외투로 불편함이 없다면 새로 살 필요는 없어요.</p><p class="sum"><span>안 사도 되면</span><b>0원</b></p><a href="posts/neck-warmer">해결 방법 보기</a></div>
+<div class="slip s1"><div class="slip-top"><p class="slip-name">안 사도 되는<br>영수증</p><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M4 56L60 8l56 48v10H4z"/><path fill="#ffffff" d="M18 66h84v48H18z"/><path fill="#0a0a0a" d="M50 78h22v36H50zM28 78h14v14H28zm52 0h14v14H80z"/></svg></div><p class="what">보온도시락 고르는 법</p><p class="why">회사에 전자레인지가 있어 바로 데워 먹을 수 있다면 일반 용기가 더 편하고, 보온도시락이 꼭 필요하지는 않아요.</p><p class="sum"><span>안 사도 되면</span><b>0원</b></p><a href="posts/insulated-lunchbox">해결 방법 보기</a></div>
+<div class="slip s2"><div class="slip-top"><p class="slip-name">안 사도 되는<br>영수증</p><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M14 18l30 14h32l30-14-4 44q0 48-42 48T18 62z"/><circle fill="#0a0a0a" cx="43" cy="62" r="7"/><circle fill="#0a0a0a" cx="77" cy="62" r="7"/><ellipse fill="#ffffff" cx="60" cy="86" rx="23" ry="18"/><ellipse fill="#0a0a0a" cx="60" cy="80" rx="10" ry="7"/></svg></div><p class="what">강아지 겨울옷 사이즈 재는 법과 고르는 기준</p><p class="why">털이 촘촘해 산책 중에도 떨지 않고 잘 걷는 아이라면, 낮 시간에 짧게 산책하는 것으로 충분해 패딩이 꼭 필요하지 않아요.</p><p class="sum"><span>안 사도 되면</span><b>0원</b></p><a href="posts/dog-winter-padding">해결 방법 보기</a></div>
+<div class="slip s3"><div class="slip-top"><p class="slip-name">안 사도 되는<br>영수증</p><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M28 50h64l6 62H22z"/><path fill="#0a0a0a" d="M34 44h52v12H34z"/><circle fill="#ffd928" cx="60" cy="84" r="15"/><circle fill="#0a0a0a" cx="60" cy="84" r="5"/><circle fill="#ffffff" cx="44" cy="28" r="10"/><circle fill="#ffffff" cx="65" cy="20" r="13"/><circle fill="#ffffff" cx="85" cy="8" r="7"/></svg></div><p class="what">사무실 책상용 미니 가습기 고를 때 볼 것</p><p class="why">물을 자주 마시고 책상에 물컵이나 젖은 수건을 두거나 난방기 바람 방향만 바꿔도 건조함이 줄었다면 살 필요는 없어요.</p><p class="sum"><span>안 사도 되면</span><b>0원</b></p><a href="posts/desk-mini-humidifier">해결 방법 보기</a></div></div></div>
+</section>
+<section class="month" aria-labelledby="month"><p class="when">11월</p><div><h2 id="month">이번 달 집안 점검표</h2><ul class="checklist">
 <li><a href="posts/neck-warmer"><span class="box" aria-hidden="true"></span><span><strong>넥워머 소재별 차이와 고르는 법</strong></span></a></li>
 <li><a href="posts/insulated-lunchbox"><span class="box" aria-hidden="true"></span><span><strong>보온도시락 고르는 법</strong><small>보온 시간 표기와 세척 쉬운 구조</small></span></a></li>
 <li><a href="posts/dog-winter-padding"><span class="box" aria-hidden="true"></span><span><strong>강아지 겨울옷 사이즈 재는 법과 고르는 기준</strong></span></a></li>
 <li><a href="posts/desk-mini-humidifier"><span class="box" aria-hidden="true"></span><span><strong>사무실 책상용 미니 가습기 고를 때 볼 것</strong></span></a></li>
 <li><a href="posts/electric-throw-blanket"><span class="box" aria-hidden="true"></span><span><strong>세탁되는 전기요·전기담요 고르는 법과 보관 요령</strong></span></a></li>
-</ul></section>
-<section aria-labelledby="new">
-<h2 id="new">새 글 <span class="meta">· 총 26건</span></h2>
+</ul></div></section>
+<section id="situations" class="sits" aria-labelledby="sit">
+<h2 id="sit" class="big">어떤 일이세요?</h2>
+<nav class="sitnav" aria-label="상황별 글">
+<a class="tile t-blue" href="#winter"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M18 112V26h84v86z"/><path fill="#0a0a0a" d="M28 36h64v46H28z"/><path fill="#ff3b1f" d="M34 44h52v7H34zm0 13h52v7H34zm0 13h52v7H34z"/><path fill="#ffd928" d="M40 8q10-8 0-8h8q9 9-1 20h-8q10-6 1-12zm26 0q10-8 0-8h8q9 9-1 20h-8q10-6 1-12z"/><path fill="#0a0a0a" d="M26 112h14v8H26zm54 0h14v8H80zM28 92h30v9H28z"/><circle fill="#ffd928" cx="84" cy="97" r="8"/></svg><span class="label">겨울이 걱정될 때</span><span class="n">글 9개</span></a>
+<a class="tile t-red" href="#car"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M4 88V62l14-4 16-28h52l18 28 12 4v26z"/><path fill="#0a0a0a" d="M28 58l12-20h17v20zm37 0V38h17l12 20z"/><path fill="#ffffff" d="M104 68h12v10h-12zM4 68h9v10H4z"/><circle fill="#0a0a0a" cx="31" cy="89" r="15"/><circle fill="#0a0a0a" cx="91" cy="89" r="15"/><circle fill="#ffffff" cx="31" cy="89" r="6"/><circle fill="#ffffff" cx="91" cy="89" r="6"/></svg><span class="label">차가 말썽일 때</span><span class="n">글 3개</span></a>
+<a class="tile t-navy" href="#tools"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M8 22L22 8l38 38-14 14z"/><path fill="#0a0a0a" d="M16 24l5-5 30 30-5 5z"/><path fill="#ffffff" d="M57 51l38 38 14 5 5 18-18-5-5-14-38-38z"/><path fill="#ffffff" d="M106 8a28 28 0 00-34 34L18 96l14 16 56-56a28 28 0 0028-36L100 36 86 34 84 20z"/><circle fill="#0a0a0a" cx="27" cy="101" r="5"/></svg><span class="label">고치다 막혔을 때</span><span class="n">글 3개</span></a>
+<a class="tile t-black" href="#parents"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M8 112V70h104v42H98V98H22v14z"/><path fill="#0a0a0a" d="M8 50h12v30H8z"/><path fill="#ffd928" d="M24 54h30v18H24z"/><path fill="#ffd928" d="M70 98V34a16 16 0 0132 0v64H90V36a4 4 0 00-8 0v62z"/></svg><span class="label">부모님 댁 안전</span><span class="n">글 2개</span></a>
+<a class="tile t-blue" href="#it"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M28 36h64v38a32 30 0 01-64 0z"/><path fill="#0a0a0a" d="M42 8h11v28H42zm25 0h11v28H67z"/><path fill="#ffd928" d="M64 46L44 78h14l-5 22 23-34H62z"/><path fill="#0a0a0a" d="M54 104h12v16H54z"/></svg><span class="label">컴퓨터·충전기</span><span class="n">글 3개</span></a>
+<a class="tile t-red" href="#appliance"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M28 50h64l6 62H22z"/><path fill="#0a0a0a" d="M34 44h52v12H34z"/><circle fill="#ffd928" cx="60" cy="84" r="15"/><circle fill="#0a0a0a" cx="60" cy="84" r="5"/><circle fill="#ffffff" cx="44" cy="28" r="10"/><circle fill="#ffffff" cx="65" cy="20" r="13"/><circle fill="#ffffff" cx="85" cy="8" r="7"/></svg><span class="label">생활가전</span><span class="n">글 3개</span></a>
+<a class="tile t-navy" href="#home"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M4 56L60 8l56 48v10H4z"/><path fill="#ffffff" d="M18 66h84v48H18z"/><path fill="#0a0a0a" d="M50 78h22v36H50zM28 78h14v14H28zm52 0h14v14H80z"/></svg><span class="label">집안 정리·청소</span><span class="n">글 2개</span></a>
+<a class="tile t-blue" href="#pet"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffd928" d="M14 18l30 14h32l30-14-4 44q0 48-42 48T18 62z"/><circle fill="#0a0a0a" cx="43" cy="62" r="7"/><circle fill="#0a0a0a" cx="77" cy="62" r="7"/><ellipse fill="#ffffff" cx="60" cy="86" rx="23" ry="18"/><ellipse fill="#0a0a0a" cx="60" cy="80" rx="10" ry="7"/></svg><span class="label">반려동물과 지낼 때</span><span class="n">글 1개</span></a>
+</nav>
+</section>
+<section class="fresh" aria-labelledby="new">
+<h2 id="new" class="big">새로 올라온 글</h2>
 <ul class="posts">
 <li><a href="posts/neck-warmer"><strong>넥워머 소재별 차이와 고르는 법</strong><small>2026년 11월 22일 · 겨울이 걱정될 때</small></a></li>
 <li><a href="posts/insulated-lunchbox"><strong>보온도시락 고르는 법, 보온 시간 표기와 세척 쉬운 구조</strong><small>2026년 11월 22일 · 집안 정리·청소</small></a></li>
@@ -96,22 +265,10 @@ footer strong{color:var(--fg)}
 <li><a href="posts/desk-mini-humidifier"><strong>사무실 책상용 미니 가습기 고를 때 볼 것</strong><small>2026년 11월 22일 · 생활가전</small></a></li>
 <li><a href="posts/electric-throw-blanket"><strong>세탁되는 전기요·전기담요 고르는 법과 보관 요령</strong><small>2026년 11월 21일 · 겨울이 걱정될 때</small></a></li>
 </ul>
+<p class="total">총 26건의 해결법이 있어요.</p>
 </section>
-<section id="situations" aria-labelledby="sit">
-<h2 id="sit">상황으로 찾기</h2>
-<p class="lead">지금 겪는 일을 고르세요.</p>
-<nav class="sitnav" aria-label="상황별 글">
-<a href="#winter">겨울이 걱정될 때 <span>글 9 ›</span></a>
-<a href="#car">차가 말썽일 때 <span>글 3 ›</span></a>
-<a href="#tools">고치다 막혔을 때 <span>글 3 ›</span></a>
-<a href="#parents">부모님 댁 안전 <span>글 2 ›</span></a>
-<a href="#it">컴퓨터·충전기 <span>글 3 ›</span></a>
-<a href="#appliance">생활가전 <span>글 3 ›</span></a>
-<a href="#home">집안 정리·청소 <span>글 2 ›</span></a>
-<a href="#pet">반려동물과 지낼 때 <span>글 1 ›</span></a>
-</nav>
-</section>
-<section aria-labelledby="winter"><h2 id="winter">겨울이 걱정될 때</h2><ul class="posts">
+<div class="groups">
+<section aria-labelledby="winter"><h2 class="t-blue" id="winter">겨울이 걱정될 때</h2><ul class="posts">
 <li><a href="posts/neck-warmer"><strong>넥워머 소재별 차이와 고르는 법</strong><small>2026년 11월 22일</small></a></li>
 <li><a href="posts/electric-throw-blanket"><strong>세탁되는 전기요·전기담요 고르는 법과 보관 요령</strong><small>2026년 11월 21일</small></a></li>
 <li><a href="posts/window-draft-film"><strong>창문 외풍 막는 법, 방풍비닐·뽁뽁이·문풍지 차이</strong><small>2026년 11월 21일</small></a></li>
@@ -122,39 +279,47 @@ footer strong{color:var(--fg)}
 <li><a href="posts/electric-blanket-replace"><strong>오래 쓴 전기장판 바꿔야 할 때, 안전 표기와 고르는 기준</strong><small>2026년 11월 18일</small></a></li>
 <li><a href="posts/carbon-mat-vs-electric-mat"><strong>탄소매트·전기장판·온수매트 차이, 우리 집에 맞는 것 고르는 법</strong><small>2026년 11월 18일</small></a></li>
 </ul></section>
-<section aria-labelledby="car"><h2 id="car">차가 말썽일 때</h2><ul class="posts">
+<section aria-labelledby="car"><h2 class="t-red" id="car">차가 말썽일 때</h2><ul class="posts">
 <li><a href="posts/car-scratch-remover"><strong>자동차 잔기스 셀프 제거, 스크래치 리무버로 되는 흠집과 안 되는 흠집</strong><small>2026년 11월 20일</small></a></li>
 <li><a href="posts/car-battery-jump-starter"><strong>겨울 배터리 방전 대비, 점프스타터 고를 때 볼 것</strong><small>2026년 11월 16일</small></a></li>
 <li><a href="posts/diesel-van-coolant-winter"><strong>겨울철 디젤 승합차 냉각수(부동액) 점검과 보충, 이것만 확인하세요</strong><small>2026년 11월 14일</small></a></li>
 </ul></section>
-<section aria-labelledby="tools"><h2 id="tools">고치다 막혔을 때</h2><ul class="posts">
+<section aria-labelledby="tools"><h2 class="t-navy" id="tools">고치다 막혔을 때</h2><ul class="posts">
 <li><a href="posts/pipe-freeze-prevention"><strong>겨울 수도 동파 예방, 보온재와 열선 고를 때 볼 것</strong><small>2026년 11월 18일</small></a></li>
 <li><a href="posts/broken-bolt-extractor"><strong>부러진 볼트 빼는 법, 역탭 추출 비트 고를 때 볼 것</strong><small>2026년 11월 17일</small></a></li>
 <li><a href="posts/screw-stripped-head-removal"><strong>나사 머리가 뭉개졌을 때 빼는 법, 나사 추출 플라이어 고르는 기준</strong><small>2026년 11월 16일</small></a></li>
 </ul></section>
-<section aria-labelledby="parents"><h2 id="parents">부모님 댁 안전</h2><ul class="posts">
+<section aria-labelledby="parents"><h2 class="t-black" id="parents">부모님 댁 안전</h2><ul class="posts">
 <li><a href="posts/bathroom-anti-slip-grab-bar"><strong>부모님 댁 욕실 낙상 대비, 미끄럼 방지 매트와 안전손잡이 고르는 법</strong><small>2026년 11월 20일</small></a></li>
 <li><a href="posts/bed-rail-fall-prevention"><strong>부모님 침대 낙상 막는 안전손잡이, 설치 전 확인할 것</strong><small>2026년 11월 15일</small></a></li>
 </ul></section>
-<section aria-labelledby="it"><h2 id="it">컴퓨터·충전기</h2><ul class="posts">
+<section aria-labelledby="it"><h2 class="t-blue" id="it">컴퓨터·충전기</h2><ul class="posts">
 <li><a href="posts/power-strip-safety"><strong>멀티탭 과열 막는 법, 허용 전력 표기 읽고 고르기</strong><small>2026년 11월 21일</small></a></li>
 <li><a href="posts/printer-waste-toner-box"><strong>복합기 폐토너통 교체 시기와 호환품 고를 때 확인할 것</strong><small>2026년 11월 20일</small></a></li>
 <li><a href="posts/gan-charger-100w"><strong>100W GaN 멀티 충전기 고르는 기준</strong><small>2026년 11월 17일</small></a></li>
 </ul></section>
-<section aria-labelledby="appliance"><h2 id="appliance">생활가전</h2><ul class="posts">
+<section aria-labelledby="appliance"><h2 class="t-red" id="appliance">생활가전</h2><ul class="posts">
 <li><a href="posts/desk-mini-humidifier"><strong>사무실 책상용 미니 가습기 고를 때 볼 것</strong><small>2026년 11월 22일</small></a></li>
 <li><a href="posts/humidifier-types"><strong>가열식·초음파·기화식 가습기 차이와 우리 집에 맞는 방식</strong><small>2026년 11월 19일</small></a></li>
 <li><a href="posts/humidifier-cleaning"><strong>가습기 물때·냄새 잡는 세척 순서와 관리 쉬운 가습기 고르는 법</strong><small>2026년 11월 18일</small></a></li>
 </ul></section>
-<section aria-labelledby="home"><h2 id="home">집안 정리·청소</h2><ul class="posts">
+<section aria-labelledby="home"><h2 class="t-navy" id="home">집안 정리·청소</h2><ul class="posts">
 <li><a href="posts/insulated-lunchbox"><strong>보온도시락 고르는 법, 보온 시간 표기와 세척 쉬운 구조</strong><small>2026년 11월 22일</small></a></li>
 <li><a href="posts/christmas-tree-choose"><strong>크리스마스 트리 높이·가지 수·받침 고르는 법, 놓을 자리부터 재세요</strong><small>2026년 11월 21일</small></a></li>
 </ul></section>
-<section aria-labelledby="pet"><h2 id="pet">반려동물과 지낼 때</h2><ul class="posts">
+<section aria-labelledby="pet"><h2 class="t-blue" id="pet">반려동물과 지낼 때</h2><ul class="posts">
 <li><a href="posts/dog-winter-padding"><strong>강아지 겨울옷 사이즈 재는 법과 고르는 기준</strong><small>2026년 11월 22일</small></a></li>
 </ul></section>
+</div>
+<section class="promise" aria-labelledby="promise">
+<h2 id="promise" class="big">사지 말라고<br>먼저 말합니다.</h2>
+<p>글마다 <mark>안 사도 되는 경우</mark>를 맨 위에 적고, <mark>돈 안 드는 방법</mark>을 그다음에 적어요. 그래도 사야 한다면 <mark>확인할 표기</mark>만 알려드립니다.</p>
+</section>
 
-</div></main>
-<footer><div class="wrap"><p><strong>이 사이트는</strong> 안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 쿠팡 파트너스 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="rss.xml">RSS</a></p></div></footer>
+</main>
+<footer class="foot">
+<p class="blocks" aria-hidden="true"><span>생활</span><span>해결</span><span>가이드</span></p>
+<div class="foot-row"><p>안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="./about">사이트 소개</a> · <a href="rss.xml">RSS</a></p></div>
+</footer>
 </body>
 </html>
