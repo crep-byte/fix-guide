@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1623" viewBox="0 0 1080 1623" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1617" fill="#FFD928" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#2436FF">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1617" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">탄소매트·전기장판·온수매트 차이</text>
 <rect x="64" y="226" width="952" height="5" fill="#111111"/>
 <rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>

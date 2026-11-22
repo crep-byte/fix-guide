@@ -26,215 +26,204 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "가정용 온풍기 고르는 법, 방 크기와 안전장치부터 보세요", "description": "가정용 온풍기를 사기 전에 외풍과 콘센트를 확인하는 법, 적정 면적·소비전력·넘어짐 꺼짐 등 고를 때 볼 안전장치를 정리했습니다.", "image": ["https://duruguide.com/og.png"], "datePublished": "2026-11-19T09:00:00+09:00", "dateModified": "2026-11-19T09:00:00+09:00", "inLanguage": "ko", "mainEntityOfPage": "https://duruguide.com/posts/home-fan-heater", "author": {"@type": "Organization", "name": "생활 해결 가이드", "url": "https://duruguide.com/about", "logo": {"@type": "ImageObject", "url": "https://duruguide.com/icon-192.png"}}, "publisher": {"@type": "Organization", "name": "생활 해결 가이드", "url": "https://duruguide.com/about", "logo": {"@type": "ImageObject", "url": "https://duruguide.com/icon-192.png"}}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&amp;family=IBM+Plex+Sans+KR:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&amp;family=Gothic+A1:wght@400;700;800&amp;display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fff;--fg:#0a0a0a;--soft:#f0f0f0;--muted:#4d4d4d;--link:#1622c9;
---blue:#2436ff;--red:#ff3b1f;--black:#0a0a0a;--navy:#050a5c;--yellow:#ffd928;--white:#fff;
---m:clamp(18px,3.2vw,48px);--display:"Black Han Sans","IBM Plex Sans KR","Apple SD Gothic Neo",sans-serif;--ease:cubic-bezier(.16,1,.3,1)}
-@media (prefers-color-scheme:dark){:root{--bg:#101114;--fg:#f2f3f5;--soft:#1d1f24;--muted:#b8bcc4;--link:#9fb0ff}}
+:root{color-scheme:light;--book:#ffd400;--leaf:#fff;--ink:#161616;--blue:#12399b;--red:#b00d25;--green:#0b6138;--plum:#65205f;--dot:#8d8d8d;--wash:#f1f1ef;
+--m:clamp(18px,3vw,44px);--display:"Do Hyeon","Gothic A1","Apple SD Gothic Neo",sans-serif;--ease:cubic-bezier(.16,1,.3,1)}
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.75 "IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word}
-a{color:var(--link)}
+html{background:var(--book);scrollbar-color:var(--ink) var(--book);accent-color:var(--blue)}
+body{margin:0;background:var(--book);color:var(--ink);font:18px/1.75 "Gothic A1",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;word-break:keep-all;overflow-wrap:break-word;caret-color:var(--red)}
+::selection{background:var(--ink);color:var(--book)}
+a{color:var(--blue);text-underline-offset:.2em}
+:focus-visible{outline:3px solid var(--red);outline-offset:-3px}
 h1,h2,h3{font-family:var(--display);font-weight:400;font-synthesis:none;margin:0;text-wrap:balance}
-p{max-width:38em}
-:focus-visible{outline:4px solid var(--yellow);outline-offset:2px}
+time,td{font-variant-numeric:tabular-nums}
+p{max-width:36em}
 
-/* 머리 */
-.top{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px var(--m);background:var(--black);color:var(--white)}
-.top a{color:inherit;text-decoration:none}
-.top .name{font:400 1.35rem/1 var(--display);white-space:nowrap}
+/* 책머리 */
+.top{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:12px var(--m);background:var(--ink);color:var(--book)}
+.top a{color:inherit;text-decoration:none;white-space:nowrap}
+.top .name{font:400 1.6rem/1 var(--display)}
 .top nav{display:flex;gap:24px;font-size:1rem;font-weight:700}
-.top nav a{padding:8px 0;white-space:nowrap}
-.top nav a:hover{color:var(--yellow)}
-.home .top{background:var(--blue)}
+.top nav a{padding:8px 0}
+.top nav a:hover{text-decoration:underline}
 
-/* 첫 화면 */
-.hero{background:var(--blue);color:var(--white);display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);align-items:center;gap:32px;padding:24px var(--m) 72px;min-height:calc(100svh - 68px);overflow:hidden}
-.hero h1{font-size:clamp(88px,12.6vw,212px);line-height:.94;letter-spacing:-.025em;white-space:nowrap}
-.line{display:block;overflow:hidden;padding-top:.04em}
-.line>span{display:block;animation:rise .9s var(--ease) both}
-.line+.line>span{color:var(--yellow);animation-delay:.11s}
-.hero .lead{font-size:clamp(1.15rem,1.6vw,1.45rem);line-height:1.55;font-weight:500;max-width:25em;margin:32px 0 28px;animation:up .7s var(--ease) .35s both}
-.btn{display:inline-block;background:var(--yellow);color:var(--black);text-decoration:none;font:400 1.45rem/1 var(--display);padding:20px 34px;animation:up .7s var(--ease) .45s both;transition:transform .18s var(--ease),background-color .18s}
-.btn:hover{background:var(--white);transform:translateY(-3px)}
-.btn:active{transform:scale(.97)}
+/* 펼친 두 쪽 */
+.spread{display:grid;grid-template-columns:minmax(0,11fr) minmax(0,13fr);min-height:calc(100svh - 64px)}
+.cover{padding:clamp(28px,3.4vw,52px) var(--m) 32px;display:flex;flex-direction:column;gap:20px}
+.cover h1{font-size:clamp(3.2rem,6vw,6rem);line-height:1.03;letter-spacing:-.01em}
+.pitch{display:flex;align-items:center;gap:20px}
+.pitch .lead{flex:1;font-size:clamp(1.15rem,1.5vw,1.35rem);line-height:1.6;margin:0}
+.stamp{flex:none;width:clamp(108px,10vw,150px);height:auto;transform:rotate(-9deg);color:var(--red)}
+.stamp text{font-family:var(--display);fill:currentColor;text-anchor:middle}
+.month{border:6px double var(--ink);padding:16px 18px 12px}
+.month h2{font-size:1.9rem;line-height:1.1}
+.month .when{font:400 1.9rem/1.1 var(--display);color:var(--red);float:left;margin:0 .35em 0 0}
+.checklist{list-style:none;padding:0;margin:10px 0 0;clear:both}
+.checklist a{display:flex;align-items:baseline;gap:8px;min-height:44px;padding:8px 0;color:var(--ink);font-weight:700;font-size:1rem;line-height:1.4;text-decoration:none}
+.checklist a::after{content:"";order:1;flex:1;min-width:18px;border-bottom:3px dotted var(--ink)}
+.checklist .go{order:2;color:var(--red);white-space:nowrap}
+.checklist a:hover strong{text-decoration:underline}
 
-/* 0원 영수증: 상황을 누르면 바뀐다(스크립트 없음) */
-.picker{justify-self:center;width:100%;max-width:450px}
-.picker input{position:absolute;opacity:0;width:1px;height:1px}
-.picks{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px;animation:up .7s var(--ease) .5s both}
-.picks label{cursor:pointer;background:var(--navy);color:var(--white);font-weight:700;font-size:.95rem;line-height:1.2;padding:12px 14px;transition:background-color .18s,color .18s}
-.picks label:hover{background:var(--black)}
-#r0:checked~.picks [for=r0],#r1:checked~.picks [for=r1],#r2:checked~.picks [for=r2],#r3:checked~.picks [for=r3]{background:var(--yellow);color:var(--black)}
-#r0:focus-visible~.picks [for=r0],#r1:focus-visible~.picks [for=r1],#r2:focus-visible~.picks [for=r2],#r3:focus-visible~.picks [for=r3]{outline:4px solid var(--white)}
-.slip{display:none;position:relative;background:var(--white);color:var(--black);padding:30px 28px 38px;transform:rotate(3deg);clip-path:polygon(0 0,100% 0,100% calc(100% - 14px),95% 100%,90% calc(100% - 14px),85% 100%,80% calc(100% - 14px),75% 100%,70% calc(100% - 14px),65% 100%,60% calc(100% - 14px),55% 100%,50% calc(100% - 14px),45% 100%,40% calc(100% - 14px),35% 100%,30% calc(100% - 14px),25% 100%,20% calc(100% - 14px),15% 100%,10% calc(100% - 14px),5% 100%,0 calc(100% - 14px))}
-#r0:checked~.slips .s0,#r1:checked~.slips .s1,#r2:checked~.slips .s2,#r3:checked~.slips .s3{display:block;animation:print .6s var(--ease) both}
-.slip-top{display:flex;justify-content:space-between;align-items:center;gap:12px}
-.slip-name{font:400 2.1rem/1.1 var(--display);margin:0}
-.slip .art{width:76px;height:76px;flex:none;background:var(--blue);padding:9px}
-.slip .what{font-weight:700;line-height:1.45;margin:18px 0 8px}
-.slip .why{font-size:1rem;line-height:1.65;margin:0}
-.slip .sum{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;background:var(--yellow);padding:12px 14px;margin:18px 0 14px;font-weight:700}
-.slip .sum b{font:400 3.6rem/.85 var(--display)}
-.slip a{color:var(--black);font-weight:700}
+/* 속지와 색인 탭 */
+.book{display:grid;grid-template-columns:minmax(0,1fr) clamp(62px,8vw,112px);background:var(--leaf);min-width:0}
+.leaves{min-width:0}
+.leaf{padding:0 0 32px;scroll-margin-top:0}
+.leaf h2{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:112px;padding:14px 24px;font-size:clamp(1.9rem,3.3vw,3rem);line-height:1.05}
+.leaf h2 .art{width:84px;height:84px;flex:none}
+@supports selector(:has(*)){
+.leaf{display:none}
+.leaves:not(:has(.leaf:target))>.leaf:first-child,.leaf:target{display:block}
+.leaf:target{animation:turn .6s var(--ease)}
+}
+.entry{padding:0 24px}
+.entry summary{display:flex;align-items:baseline;gap:10px;min-height:60px;padding:17px 0 13px;cursor:pointer;list-style:none;line-height:1.4}
+.entry summary::-webkit-details-marker{display:none}
+.entry summary strong{font-size:1.1rem;font-weight:800}
+.entry summary::after{content:"펼치기";order:2;flex:none;color:var(--blue);font-weight:700;font-size:.95rem}
+.entry summary .dots{order:1;flex:1;min-width:14px;border-bottom:3px dotted var(--dot)}
+.entry summary:hover strong{text-decoration:underline;text-underline-offset:.2em}
+.entry[open]{background:var(--book);padding-bottom:20px}
+.entry[open] summary::after{content:"접기";color:var(--red)}
+.answer{border:6px double var(--red);background:var(--leaf);padding:14px 18px}
+.answer b{display:block;color:var(--red);font:400 1.5rem/1.2 var(--display);margin-bottom:6px}
+.answer p{margin:0;font-size:1.05rem;line-height:1.65}
+.answer .more{display:inline-block;margin-top:10px;padding:13px 18px;background:var(--ink);color:var(--book);font-weight:800;line-height:1.2;text-decoration:none}
+.answer .more:hover{background:var(--blue);color:var(--leaf)}
+.tabs{display:flex;flex-direction:column}
+.tab{flex:1 1 0;min-height:56px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:8px 4px;text-decoration:none;text-align:center;font:400 clamp(1.05rem,1.5vw,1.45rem)/1.05 var(--display);transition:padding .2s var(--ease)}
+.tab .n{font:700 .8rem/1.2 "Gothic A1",sans-serif}
+.tab:hover{text-decoration:underline}
+.t-blue{background:var(--blue);color:var(--leaf)}.t-red{background:var(--red);color:var(--leaf)}
+.t-green{background:var(--green);color:var(--leaf)}.t-plum{background:var(--plum);color:var(--leaf)}
 
-/* 면 제목 */
-.big{font-size:clamp(2.8rem,7.6vw,7rem);line-height:1;letter-spacing:-.02em}
-
-/* 이번 달 */
-.month{background:var(--red);color:var(--black);padding:88px var(--m) 96px;display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:24px 40px;align-items:center}
-.month .when{font:400 clamp(9rem,18vw,19rem)/.8 var(--display);letter-spacing:-.04em;margin:0;white-space:nowrap}
-.month h2{font-size:clamp(2.1rem,4vw,3.6rem);line-height:1.05;margin-bottom:24px}
-.checklist{list-style:none;padding:0;margin:0;display:grid;gap:6px}
-.checklist a{display:flex;gap:16px;align-items:center;background:var(--black);color:var(--white);padding:16px 18px;text-decoration:none;line-height:1.4;transition:transform .2s var(--ease),background-color .2s}
-.checklist a:hover{background:var(--navy);transform:translateX(8px)}
-.checklist .box{flex:0 0 26px;height:26px;background:var(--white);position:relative}
-.checklist a:hover .box::after{content:"";position:absolute;left:8px;top:2px;width:9px;height:17px;border:solid var(--blue);border-width:0 5px 5px 0;transform:rotate(42deg)}
-.checklist strong{display:block;font-size:1.1rem}
-.checklist small{display:block;font-size:.9rem}
-
-/* 상황 판 */
-.sits{background:var(--black);color:var(--white)}
-.sits .big{padding:88px var(--m) 32px}
-.sitnav{display:flex;flex-wrap:wrap}
-.tile{position:relative;overflow:hidden;flex:1 1 25%;min-height:280px;padding:24px var(--m);display:flex;flex-direction:column;justify-content:flex-end;text-decoration:none;font:400 clamp(1.7rem,2.5vw,2.5rem)/1.1 var(--display)}
-.tile:nth-child(4n+1){flex-basis:40%}
-.tile:nth-child(8n+5){flex-basis:34%}
-.tile .label,.tile .n{position:relative;z-index:1}
-.tile .n{font:700 1rem/1.4 "IBM Plex Sans KR",sans-serif;margin-top:8px}
-.tile .art{position:absolute;right:-3%;top:8px;width:60%;max-width:230px;max-height:66%;transition:transform .35s var(--ease)}
-.tile:hover .art{transform:translateY(-8px) scale(1.07)}
-.t-blue{background:var(--blue);color:var(--white)}.t-red{background:var(--red);color:var(--black)}
-.t-navy{background:var(--navy);color:var(--white)}.t-black{background:#26282e;color:var(--white)}
-
-/* 새 글·목록 */
-.fresh{background:var(--yellow);color:var(--black);padding:88px var(--m) 80px}
-.fresh .big{margin-bottom:28px}
+/* 새로 실린 글 */
+.fresh{background:var(--blue);color:var(--leaf);padding:72px var(--m) 64px}
+.fresh h2{font-size:clamp(2.3rem,4.4vw,4rem);line-height:1.05;margin-bottom:24px}
 .posts{list-style:none;padding:0;margin:0}
-.posts a{display:block;color:inherit;text-decoration:none;transition:transform .2s var(--ease),background-color .2s}
-.posts strong{display:block;line-height:1.4}
-.posts small{display:block;font-size:.9rem;margin-top:4px}
-.fresh .posts{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px}
-.fresh .posts li{grid-column:span 2}
-.fresh .posts li:nth-child(-n+2){grid-column:span 3}
-.fresh .posts li:only-child{grid-column:span 6}
-.fresh .posts a{height:100%;min-height:150px;padding:22px;background:var(--black);color:var(--white);display:flex;flex-direction:column;justify-content:space-between}
-.fresh .posts li:first-child a{background:var(--blue)}
-.fresh .posts strong{font:400 clamp(1.4rem,2vw,2rem)/1.2 var(--display)}
-.fresh .posts a:hover{transform:translateY(-5px)}
-.total{font-weight:700;margin:24px 0 0}
-.groups{padding:80px var(--m);columns:2;column-gap:28px}
-.groups section{break-inside:avoid;margin-bottom:36px;scroll-margin-top:16px}
-.groups h2{font-size:1.9rem;line-height:1.1;padding:16px 18px}
-.groups .posts{display:grid;gap:4px;margin-top:4px}
-.groups .posts a{background:var(--soft);padding:14px 18px}
-.groups .posts a:hover{background:var(--yellow);color:var(--black)}
+.posts a{display:flex;align-items:baseline;gap:4px 14px;min-height:52px;padding:14px 0;color:inherit;text-decoration:none;line-height:1.45}
+.posts a::after{content:"";order:1;flex:1;min-width:20px;border-bottom:3px dotted currentColor}
+.posts small{order:2;flex:none;font-size:1rem}
+.posts a:hover strong{text-decoration:underline;text-underline-offset:.2em}
+.fresh strong{font:400 clamp(1.4rem,2.1vw,2rem)/1.3 var(--display)}
+.total{margin:28px 0 0;font-weight:700}
 
-/* 약속 */
-.promise{background:var(--navy);color:var(--white);padding:104px var(--m);display:grid;grid-template-columns:1.2fr 1fr;gap:32px;align-items:center}
-.promise p{font-size:clamp(1.25rem,2.1vw,1.9rem);line-height:1.6;margin:0}
-.promise mark{background:var(--yellow);color:var(--black);padding:0 .1em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* 광고칸 자리에 약속 */
+.notice{padding:72px var(--m)}
+.adbox{border:12px double var(--ink);padding:clamp(22px,4vw,56px);display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:20px 40px;align-items:center}
+.adbox h2{font-size:clamp(2.4rem,5vw,4.6rem);line-height:1.05}
+.adbox p{font-size:clamp(1.15rem,1.7vw,1.5rem);line-height:1.65;margin:0}
 
-/* 글 */
-.band{padding:0 var(--m);overflow:hidden}
-.band-in{max-width:980px;margin:0 auto;padding:38px 0 40px;position:relative}
-.band .art{position:absolute;right:-8px;top:18px;width:200px;height:200px;animation:up .8s var(--ease) both}
-.band .meta{font-size:.95rem;margin:0 0 24px;position:relative;padding-right:210px}
-.band .meta a{color:inherit;font-weight:700}
-.band h1{font-size:clamp(2.8rem,6.6vw,5.2rem);line-height:1.04;letter-spacing:-.015em;padding-right:210px;margin-bottom:28px;position:relative}
-.band h1.long{font-size:clamp(2.1rem,4.6vw,3.6rem)}
-.band h1 .sub{display:block;font:700 clamp(1.1rem,2vw,1.45rem)/1.5 "IBM Plex Sans KR",sans-serif;letter-spacing:0;margin-top:14px}
-.disclosure{background:var(--white);color:var(--black);padding:12px 14px;font-size:.95rem;font-weight:500;line-height:1.6;position:relative}
-.read,.plain{max-width:756px;margin:0 auto;padding:36px var(--m) 72px}
-.nobuy{background:var(--yellow);color:var(--black);padding:24px;display:grid;grid-template-columns:1fr auto;gap:8px 20px}
-.nobuy h2{font-size:1.9rem;line-height:1.1}
-.nobuy p{grid-column:1/-1;margin:0}
-.nobuy .zero{font:400 2.8rem/.85 var(--display);align-self:center}
-.content h2,.plain h2,.related h2{font-size:2rem;line-height:1.15;margin:1.8em 0 .55em}
-.content h3{font-size:1.45rem;margin:1.6em 0 .4em}
-.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em;display:grid;gap:6px}
-.content section.try li{position:relative;background:var(--soft);padding:14px 16px 14px 56px}
-.content section.try li::before{content:"";position:absolute;left:16px;top:18px;width:24px;height:24px;background:var(--bg);border:4px solid var(--blue)}
-table{border-collapse:separate;border-spacing:0 4px;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
+/* 글: 틀만 수첩, 읽는 칸은 조용하게 */
+.running{display:grid;grid-template-columns:minmax(0,1fr) clamp(74px,12vw,176px);background:var(--book);color:var(--ink)}
+.running-in{grid-column:1;grid-row:1;width:100%;max-width:820px;margin:0 auto;padding:40px var(--m) 36px}
+.edge{grid-column:2;grid-row:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:16px 8px;color:inherit;text-decoration:none;text-align:center;font:400 clamp(1.1rem,2vw,1.7rem)/1.1 var(--display)}
+.edge .art{width:100%;max-width:108px;height:auto}
+.running.t-blue,.running.t-red,.running.t-green,.running.t-plum{background:var(--book);color:var(--ink)}
+.t-blue>.edge{background:var(--blue);color:var(--leaf)}.t-red>.edge{background:var(--red);color:var(--leaf)}
+.t-green>.edge{background:var(--green);color:var(--leaf)}.t-plum>.edge{background:var(--plum);color:var(--leaf)}
+.running h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1.1}
+.running h1.long{font-size:clamp(1.9rem,4vw,3rem)}
+.running h1 .sub{display:block;font:700 clamp(1.05rem,1.8vw,1.3rem)/1.5 "Gothic A1",sans-serif;margin-top:12px}
+.running .meta{font-size:.95rem;margin:14px 0 18px;line-height:1.5}
+.running .meta a{color:inherit;font-weight:700}
+.disclosure{background:var(--leaf);color:var(--ink);padding:12px 14px;font-size:1rem;text-wrap:pretty;font-weight:700;line-height:1.6}
+main>article{background:var(--leaf)}
+.content{min-width:0}
+.read{max-width:756px;margin:0 auto;padding:32px var(--m) 72px}
+.nobuy{position:relative;border:6px double var(--red);padding:20px 22px}
+.nobuy h2{color:var(--red);font-size:1.8rem;line-height:1.15;padding-right:82px;min-height:72px;display:flex;align-items:center}
+.nobuy .stamp{position:absolute;right:14px;top:14px;width:76px}
+.nobuy p{margin:6px 0 0}
+.content h2,.plain h2,.related h2{font-size:2.1rem;line-height:1.15;margin:1.9em 0 .55em}
+.content h3{font-size:1.55rem;line-height:1.2;margin:1.7em 0 .4em}
+.content section.try ol,.content section.try ul{list-style:none;padding:0;margin:.6em 0 1em}
+.content section.try li{position:relative;padding:14px 0 14px 42px}
+.content section.try li+li{border-top:2px dotted var(--dot)}
+.content section.try li::before{content:"";position:absolute;left:2px;top:19px;width:24px;height:24px;border:3px solid var(--ink)}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.95rem;line-height:1.55;display:block;overflow-x:auto}
 th,td{padding:12px;text-align:left;vertical-align:top}
-th{background:var(--blue);color:var(--white)}
-td{background:var(--soft)}
-td:first-child{font-weight:700}
+th{background:var(--ink);color:var(--book)}
+td{border-bottom:2px dotted var(--dot)}
+td:first-child{font-weight:800}
 figure.card{margin:34px 0 0}figure.card img{display:block;width:100%;height:auto}
-figure.card figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}
+figure.card figcaption{color:#4a4a4a;font-size:.9rem;margin-top:8px}
 .cta{margin:34px 0 0}
-.cta a{display:block;background:var(--blue);color:var(--white);text-align:center;text-decoration:none;font:400 1.4rem/1.35 var(--display);padding:20px 18px;transition:transform .18s var(--ease)}
-.cta a.cta2{margin-top:8px;background:var(--black);color:var(--white)}
-.cta a:hover{transform:translateY(-3px)}
-.cta p{margin:12px 0 0;color:var(--muted);font-size:.95rem;line-height:1.6}
-.disclosure-foot{color:var(--muted);font-size:.9rem;margin:18px 0 0}
-.related{background:var(--black);color:var(--white);padding:12px var(--m) 64px}
-.related>*{max-width:980px;margin-left:auto;margin-right:auto}
-.related .posts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
-.related .posts a{height:100%;padding:20px;background:var(--navy)}
-.related .posts a:hover{background:var(--blue)}
-.plain h1{font-size:clamp(3rem,8vw,5.5rem);line-height:1;margin:.3em 0 .4em}
+.cta a{display:block;background:var(--blue);color:var(--leaf);text-align:center;text-decoration:none;font:400 1.5rem/1.35 var(--display);padding:19px 18px}
+.cta a.cta2{margin-top:10px;background:var(--book);color:var(--ink)}
+.cta a:hover{text-decoration:underline}
+.cta p{margin:12px 0 0;color:#4a4a4a;font-size:.95rem;line-height:1.6}
+.disclosure-foot{color:#4a4a4a;font-size:.9rem;margin:18px 0 0}
+.related{background:var(--book);padding:8px var(--m) 60px}
+.related>*{max-width:756px;margin-left:auto;margin-right:auto}
+.plain{max-width:800px;margin:0 auto;padding:32px var(--m) 72px;background:var(--leaf)}
+.plain h1{font-size:clamp(3rem,7vw,5rem);line-height:1.05;margin:.3em 0 .4em}
 .draft-badge{background:#c62828;color:#fff;padding:2px 8px;font-size:.8rem}
 
-/* 끝 */
-.foot{background:var(--black);color:var(--white);padding:56px var(--m) 40px;font-size:.95rem;line-height:1.7}
-.blocks{display:flex;align-items:flex-end;gap:4px;margin:0 0 32px;max-width:none}
-.blocks span{font:400 clamp(2.4rem,10.5vw,10rem)/1 var(--display);text-align:center;padding:.16em .1em .1em;white-space:nowrap}
-.blocks span:nth-child(1){flex:2;background:var(--blue);padding-top:.5em}
-.blocks span:nth-child(2){flex:2;background:var(--red);color:var(--black)}
-.blocks span:nth-child(3){flex:3;background:var(--yellow);color:var(--black);padding-top:.32em}
-.foot-row{display:flex;justify-content:space-between;gap:16px 32px;flex-wrap:wrap}
-.foot-row p{margin:0}.foot a{color:inherit;font-weight:700}
+/* 책등 */
+.foot{background:var(--ink);color:var(--book);padding:40px var(--m);font-size:.95rem;line-height:1.7;display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px 48px;align-items:center}
+.foot .spine{font:400 clamp(2.6rem,5vw,4.6rem)/1 var(--display);margin:0}
+.foot p{margin:0}.foot a{color:inherit;font-weight:700}
 
-@media (max-width:900px){
-.hero{grid-template-columns:minmax(0,1fr);padding-top:32px;min-height:0}
-.hero h1{font-size:min(23vw,160px)}
-.hero .lead{margin:22px 0 20px}
-.picker{margin-top:20px}
-.slip{transform:rotate(2deg)}
-.month,.promise{grid-template-columns:minmax(0,1fr);padding-top:64px;padding-bottom:64px}
-.month .when{font-size:min(42vw,300px)}
-.sits .big,.fresh{padding-top:64px}
-.tile,.tile:nth-child(n){flex:1 1 50%;min-height:200px;font-size:1.55rem;padding:16px var(--m)}
-.tile:nth-child(3n+1){flex-basis:100%}
-.tile .art{max-height:50%;top:10px}
-.fresh .posts li,.fresh .posts li:nth-child(n){grid-column:span 6}
-.fresh .posts a{min-height:0;gap:10px;padding:18px}
-.groups{columns:1;padding-top:56px;padding-bottom:40px}
-.related .posts{grid-template-columns:minmax(0,1fr)}
-.band .art{width:88px;height:88px;top:22px;right:0}
-.band .meta{padding-right:100px;min-height:88px;margin-bottom:14px}
-.band h1{padding-right:0}
+@media (max-width:860px){
+.spread{grid-template-columns:minmax(0,1fr);min-height:0}
+.cover{display:contents}
+.cover h1{order:1;font-size:min(12.6vw,5rem);padding:26px var(--m) 0}
+.pitch{order:2;padding:14px var(--m) 22px;gap:12px}
+.stamp{width:100px}
+.book{order:3}
+.month{order:4;margin:28px var(--m)}
+.leaf h2{min-height:84px;padding:12px 14px;font-size:1.75rem}
+.leaf h2 .art{width:56px;height:56px}
+.entry{padding:0 14px}
+.entry summary{flex-wrap:wrap;row-gap:2px}
+.entry summary strong{font-size:1.05rem}
+.entry summary .dots{min-width:10px}
+.answer{padding:12px}
+.fresh{padding-top:52px;padding-bottom:48px}
+.posts a{flex-wrap:wrap}
+.posts small{order:2;flex:1 1 100%}
+.posts a::after{display:none}
+.posts li+li{border-top:2px dotted currentColor}
+.notice{padding-top:44px;padding-bottom:44px}
+.adbox{grid-template-columns:minmax(0,1fr)}
+.running-in{padding-top:26px;padding-bottom:24px}
+.foot{grid-template-columns:minmax(0,1fr)}
 .top nav .about-link{display:none}
 }
-@media (max-width:360px){.top .name{font-size:1.1rem}.top nav{font-size:.9rem}}
-
-/* 움직임: 숨긴 채로 남지 않게 지원하는 브라우저에서만 */
-@keyframes rise{from{transform:translateY(105%)}to{transform:translateY(0)}}
-@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
-@keyframes lift{from{translate:0 36px}to{translate:0 0}}
-@keyframes print{from{opacity:0;translate:0 -28px}to{opacity:1;translate:0 0}}
-@supports (animation-timeline:view()){
-.month .when,.month h2,.checklist li,.sits .big,.tile .art,.fresh .big,.fresh .posts li,.groups section,.promise h2,.promise p,.blocks span{animation:lift linear both;animation-timeline:view();animation-range:entry 0% entry 55%}
+@media (max-width:640px){
+.book{display:flex;flex-direction:column}
+.tabs{order:-1;flex-direction:row;flex-wrap:wrap}
+.tab{flex:1 1 25%;min-height:58px;padding:7px 2px}
+.leaf{scroll-margin-top:124px}
+.entry summary strong{flex:1 1 100%}
+.entry summary{min-height:56px}
+.running{grid-template-columns:minmax(0,1fr)}
+.edge{grid-column:1;grid-row:1;flex-direction:row;justify-content:flex-start;gap:10px;min-height:52px;padding:6px var(--m);font-size:1.25rem}
+.edge .art{width:36px;height:36px}
+.running-in{grid-column:1;grid-row:2;padding-top:22px}
 }
-@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
+@media (max-width:370px){.top .name{font-size:1.3rem}.top nav{font-size:.88rem}.stamp{width:84px}}
+
+/* 움직임은 하나: 색인을 누르면 쪽이 넘어간다 */
+@keyframes turn{from{clip-path:inset(0 0 0 82%)}to{clip-path:inset(0)}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 </head>
-<body class="inner">
-<header class="top"><a class="name" href="../">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="../#situations">상황으로 찾기</a><a class="about-link" href="../about">사이트 소개</a></nav></header>
+<body>
+<header class="top"><a class="name" href="../">생활 해결 가이드</a><nav aria-label="주요 메뉴"><a href="../#situations">증상으로 찾기</a><a class="about-link" href="../about">사이트 소개</a></nav></header>
 <main>
 <article>
-<header class="band t-blue">
-<div class="band-in">
-<svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M18 112V26h84v86z"/><path fill="#0a0a0a" d="M28 36h64v46H28z"/><path fill="#ff3b1f" d="M34 44h52v7H34zm0 13h52v7H34zm0 13h52v7H34z"/><path fill="#ffd928" d="M40 8q10-8 0-8h8q9 9-1 20h-8q10-6 1-12zm26 0q10-8 0-8h8q9 9-1 20h-8q10-6 1-12z"/><path fill="#0a0a0a" d="M26 112h14v8H26zm54 0h14v8H80zM28 92h30v9H28z"/><circle fill="#ffd928" cx="84" cy="97" r="8"/></svg>
-<p class="meta"><a href="../#winter">겨울이 걱정될 때</a> · <time datetime="2026-11-19T09:00:00+09:00">2026년 11월 19일</time> · <a href="../about" rel="author">생활 해결 가이드</a></p>
+<header class="running t-blue">
+<a class="edge" href="../#winter"><svg class="art" viewBox="0 0 120 120" aria-hidden="true" focusable="false"><path fill="#ffffff" d="M18 112V26h84v86z"/><path fill="#0a0a0a" d="M28 36h64v46H28z"/><path fill="#ff3b1f" d="M34 44h52v7H34zm0 13h52v7H34zm0 13h52v7H34z"/><path fill="#ffd928" d="M40 8q10-8 0-8h8q9 9-1 20h-8q10-6 1-12zm26 0q10-8 0-8h8q9 9-1 20h-8q10-6 1-12z"/><path fill="#0a0a0a" d="M26 112h14v8H26zm54 0h14v8H80zM28 92h30v9H28z"/><circle fill="#ffd928" cx="84" cy="97" r="8"/></svg><span>겨울이 걱정될 때</span></a>
+<div class="running-in">
 <h1 class="short">가정용 온풍기 고르는 법, <span class="sub">방 크기와 안전장치부터 보세요</span></h1>
+<p class="meta"><time datetime="2026-11-19T09:00:00+09:00">2026년 11월 19일</time> · <a href="../about" rel="author">생활 해결 가이드</a></p>
 <aside class="disclosure" role="note">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>이 콘텐츠는 토스쇼핑 쉐어링크 활동의 일환으로, 링크를 통한 구매가 발생하면 일정 수수료를 지급받습니다.</aside>
 </div>
 </header>
 <div class="read">
-<section class="nobuy" aria-labelledby="nobuy"><h2 id="nobuy">안 사도 되는 경우</h2><span class="zero" aria-hidden="true">0원</span><p>창문과 문 틈을 먼저 막아 지낼 만해졌거나, 하루 종일 데울 방이라 보일러 온도 조절이 더 맞는다면 온풍기를 새로 사지 않아도 돼요.</p></section>
+<section class="nobuy" aria-labelledby="nobuy"><h2 id="nobuy">안 사도 되는 경우</h2><svg class="stamp" viewBox="0 0 160 160" aria-hidden="true" focusable="false"><circle cx="80" cy="80" r="73" fill="none" stroke="currentColor" stroke-width="7"/><circle cx="80" cy="80" r="62" fill="none" stroke="currentColor" stroke-width="2"/><text x="80" y="62" font-size="22">안 사면</text><text x="80" y="115" font-size="58">0원</text></svg><p>창문과 문 틈을 먼저 막아 지낼 만해졌거나, 하루 종일 데울 방이라 보일러 온도 조절이 더 맞는다면 온풍기를 새로 사지 않아도 돼요.</p></section>
 <div class="content">
 <section><h2>이런 상황이죠</h2>
 <p>보일러를 틀어도 작은방이나 화장실 앞, 서재처럼 유난히 추운 곳이 있어요. 잠깐 머무는 동안만 빨리 데우고 싶어서 온풍기를 알아보지만, 모양도 크기도 다양하고 전기요금과 안전이 걱정되지요.</p>
@@ -316,8 +305,8 @@ figure.card figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}
 
 </main>
 <footer class="foot">
-<p class="blocks" aria-hidden="true"><span>생활</span><span>해결</span><span>가이드</span></p>
-<div class="foot-row"><p>안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.</p><p>이 사이트의 일부 링크는 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../about">사이트 소개</a> · <a href="../rss.xml">RSS</a></p></div>
+<p class="spine" aria-hidden="true">생활 해결 가이드</p>
+<p>안 사도 되는 방법을 먼저 적고, 살 때 볼 기준만 정리합니다.<br>이 사이트의 일부 링크는 제휴 링크이며, 이를 통해 구매가 이뤄지면 일정액의 수수료를 받습니다. · <a href="../about">사이트 소개</a> · <a href="../rss.xml">RSS</a></p>
 </footer>
 </body>
 </html>
