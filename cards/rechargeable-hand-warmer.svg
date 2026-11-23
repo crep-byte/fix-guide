@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1623" viewBox="0 0 1080 1623" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1617" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">충전식 손난로 고를 때 볼 것</text>
+<rect x="64" y="226" width="952" height="5" fill="#111111"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">배터리 용량</text>
+<text x="134" y="371" font-size="39" fill="#333333">용량(mAh)과 단계별 사용 시간 표기</text>
+<rect x="64" y="401" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="489" font-size="48" font-weight="700" fill="#111111">발열 단계</text>
+<text x="134" y="541" font-size="39" fill="#333333">단계를 나눠 조절할 수 있는지, 단계별 온도 표기</text>
+<rect x="64" y="571" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="611" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="659" font-size="48" font-weight="700" fill="#111111">안전 기능</text>
+<text x="134" y="711" font-size="39" fill="#333333">과열·과충전 보호 표기, KC 인증 표기가 있는지</text>
+<rect x="64" y="741" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="781" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="829" font-size="48" font-weight="700" fill="#111111">충전 단자</text>
+<text x="134" y="881" font-size="39" fill="#333333">C타입인지, 내가 가진 충전기로 충전할 수 있는지</text>
+<rect x="64" y="911" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="951" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="999" font-size="48" font-weight="700" fill="#111111">크기와 무게</text>
+<text x="134" y="1051" font-size="39" fill="#333333">주머니에 넣고 다니기 부담 없는지</text>
+<rect x="64" y="1081" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1121" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1169" font-size="48" font-weight="700" fill="#111111">발열 면</text>
+<text x="134" y="1221" font-size="39" fill="#333333">한쪽만 따뜻한지, 양면이 따뜻한지</text>
+<rect x="64" y="1251" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1291" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1339" font-size="48" font-weight="700" fill="#111111">부가 기능</text>
+<text x="134" y="1391" font-size="39" fill="#333333">보조배터리, 손전등 등. 필요하지 않으면 무시해도</text>
+<text x="134" y="1443" font-size="39" fill="#333333">돼요</text>
+<rect x="64" y="1513" width="952" height="2" fill="#111111"/>
+<text x="64" y="1569" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1569" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
