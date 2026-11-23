@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1731" viewBox="0 0 1080 1731" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1725" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 와이퍼가 얼어붙고 줄무늬가 남을</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">때</text>
+<rect x="64" y="296" width="952" height="5" fill="#111111"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">길이</text>
+<text x="134" y="441" font-size="39" fill="#333333">운전석과 조수석, 뒷유리 길이가 서로 달라요. 차량</text>
+<text x="134" y="493" font-size="39" fill="#333333">취급설명서나 기존 와이퍼의 표기를 확인하세요</text>
+<rect x="64" y="523" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="611" font-size="48" font-weight="700" fill="#111111">연결부 형태</text>
+<text x="134" y="663" font-size="39" fill="#333333">후크형, 핀형 등 차량마다 달라요. 제품 설명의</text>
+<text x="134" y="715" font-size="39" fill="#333333">적용 연결부와 어댑터 포함 여부를 보세요</text>
+<rect x="64" y="745" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="785" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="833" font-size="48" font-weight="700" fill="#111111">와이퍼 종류</text>
+<text x="134" y="885" font-size="39" fill="#333333">일반형(뼈대형), 플랫형(뼈대 없는 형),</text>
+<text x="134" y="937" font-size="39" fill="#333333">하이브리드형 중 어떤 구조인지 확인하세요</text>
+<rect x="64" y="967" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1007" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1055" font-size="48" font-weight="700" fill="#111111">적용 차종</text>
+<text x="134" y="1107" font-size="39" fill="#333333">내 차종과 연식이 적용 목록에 있는지 보세요</text>
+<rect x="64" y="1137" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1177" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1225" font-size="48" font-weight="700" fill="#111111">계절 적합성</text>
+<text x="134" y="1277" font-size="39" fill="#333333">눈이 많은 지역에서 쓸 수 있다고 안내된 제품인지</text>
+<text x="134" y="1329" font-size="39" fill="#333333">보세요</text>
+<rect x="64" y="1359" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1399" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1447" font-size="48" font-weight="700" fill="#111111">교체 방법</text>
+<text x="134" y="1499" font-size="39" fill="#333333">설명서나 안내 이미지가 있어 직접 갈아 끼우기</text>
+<text x="134" y="1551" font-size="39" fill="#333333">쉬운지 확인하세요</text>
+<rect x="64" y="1621" width="952" height="2" fill="#111111"/>
+<text x="64" y="1677" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1677" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
