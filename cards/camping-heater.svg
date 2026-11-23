@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1901" viewBox="0 0 1080 1901" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1895" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 캠핑 난로 고르는 법과 텐트 안</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">일산화탄소 주의</text>
+<rect x="64" y="296" width="952" height="5" fill="#111111"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">연료 방식</text>
+<text x="134" y="441" font-size="39" fill="#333333">등유·가스·화목·전기 중 캠핑장 규정과 내 장비에</text>
+<text x="134" y="493" font-size="39" fill="#333333">맞는지</text>
+<rect x="64" y="523" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="611" font-size="48" font-weight="700" fill="#111111">텐트 안 사용 가능 여부</text>
+<text x="134" y="663" font-size="39" fill="#333333">설명서에 실내·텐트 안 사용 금지가 적혀 있는지</text>
+<text x="134" y="715" font-size="39" fill="#333333">반드시 확인</text>
+<rect x="64" y="745" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="785" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="833" font-size="48" font-weight="700" fill="#111111">넘어짐 소화</text>
+<text x="134" y="885" font-size="39" fill="#333333">넘어지면 불이 꺼지는 장치가 있는지</text>
+<rect x="64" y="915" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="955" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1003" font-size="48" font-weight="700" fill="#111111">산소 부족 감지</text>
+<text x="134" y="1055" font-size="39" fill="#333333">공기가 부족하면 꺼지는 기능이 표기돼 있는지</text>
+<rect x="64" y="1085" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1125" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1173" font-size="48" font-weight="700" fill="#111111">연료 넣는 방식</text>
+<text x="134" y="1225" font-size="39" fill="#333333">탱크를 꺼내 밖에서 넣을 수 있는지, 연료통 크기와</text>
+<text x="134" y="1277" font-size="39" fill="#333333">연소 시간 표기</text>
+<rect x="64" y="1307" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1347" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1395" font-size="48" font-weight="700" fill="#111111">크기와 무게</text>
+<text x="134" y="1447" font-size="39" fill="#333333">차에 실을 수 있는지, 텐트 안에서 사람과 충분히</text>
+<text x="134" y="1499" font-size="39" fill="#333333">떨어뜨릴 공간이 있는지</text>
+<rect x="64" y="1529" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1569" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1617" font-size="48" font-weight="700" fill="#111111">인증 표기</text>
+<text x="134" y="1669" font-size="39" fill="#333333">국내 안전 인증 표기가 있는지 제품 표기를</text>
+<text x="134" y="1721" font-size="39" fill="#333333">확인하세요</text>
+<rect x="64" y="1791" width="952" height="2" fill="#111111"/>
+<text x="64" y="1847" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1847" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
