@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1779" viewBox="0 0 1080 1779" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1773" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">방한커튼으로 외풍 줄이기</text>
+<rect x="64" y="226" width="952" height="5" fill="#111111"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">길이</text>
+<text x="134" y="371" font-size="39" fill="#333333">창보다 위아래로 넉넉하게, 가능하면 바닥에 닿는</text>
+<text x="134" y="423" font-size="39" fill="#333333">길이</text>
+<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">폭</text>
+<text x="134" y="593" font-size="39" fill="#333333">창 폭보다 넓게 해서 양옆 틈이 생기지 않는지</text>
+<rect x="64" y="623" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="663" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="711" font-size="48" font-weight="700" fill="#111111">형태</text>
+<text x="134" y="763" font-size="39" fill="#333333">두꺼운 원단형은 빛도 가리고, 투명 비닐형은 빛은</text>
+<text x="134" y="815" font-size="39" fill="#333333">들이고 바람을 막아요</text>
+<rect x="64" y="845" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="933" font-size="48" font-weight="700" fill="#111111">설치 방식</text>
+<text x="134" y="985" font-size="39" fill="#333333">기존 커튼봉에 거는지, 압축봉이나 접착 방식인지,</text>
+<text x="134" y="1037" font-size="39" fill="#333333">벽에 구멍을 내야 하는지</text>
+<rect x="64" y="1067" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">무게</text>
+<text x="134" y="1207" font-size="39" fill="#333333">두꺼운 원단은 무거워서 기존 커튼봉이 버틸 수</text>
+<text x="134" y="1259" font-size="39" fill="#333333">있는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">세탁</text>
+<text x="134" y="1429" font-size="39" fill="#333333">물세탁 가능 여부, 비닐형은 닦아서 관리하는지</text>
+<rect x="64" y="1459" width="952" height="2" fill="#B89A0C"/>
+<rect x="66" y="1499" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<text x="134" y="1547" font-size="48" font-weight="700" fill="#111111">방염 표기</text>
+<text x="134" y="1599" font-size="39" fill="#333333">난방기 근처라면 방염 처리 여부를 확인</text>
+<rect x="64" y="1669" width="952" height="2" fill="#111111"/>
+<text x="64" y="1725" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1725" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
