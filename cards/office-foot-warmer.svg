@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1727" viewBox="0 0 1080 1727" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1721" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">사무실에서 발이 시릴 때</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">형태</text>
+<text x="134" y="371" font-size="39" fill="#333333">발을 넣는 슬리퍼·박스형, 발을 올리는 발판형,</text>
+<text x="134" y="423" font-size="39" fill="#333333">바람이 나오는 소형 온풍기형</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">소비전력</text>
+<text x="134" y="593" font-size="39" fill="#333333">표기된 소비전력과 사무실 멀티탭 용량이 맞는지</text>
+<rect x="64" y="623" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="663" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="711" font-size="48" font-weight="700" fill="#111111">자동 꺼짐</text>
+<text x="134" y="763" font-size="39" fill="#333333">타이머나 일정 시간 뒤 꺼지는 기능이 있는지</text>
+<rect x="64" y="793" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="833" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="881" font-size="48" font-weight="700" fill="#111111">과열 방지</text>
+<text x="134" y="933" font-size="39" fill="#333333">과열 보호 기능이 표기돼 있는지</text>
+<rect x="64" y="963" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1003" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1051" font-size="48" font-weight="700" fill="#111111">온도 단계</text>
+<text x="134" y="1103" font-size="39" fill="#333333">단계 조절이 되는지, 가장 낮은 단계가 충분히</text>
+<text x="134" y="1155" font-size="39" fill="#333333">낮은지</text>
+<rect x="64" y="1185" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1225" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1273" font-size="48" font-weight="700" fill="#111111">세탁·관리</text>
+<text x="134" y="1325" font-size="39" fill="#333333">덮개를 분리해 빨 수 있는지</text>
+<rect x="64" y="1355" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1395" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1443" font-size="48" font-weight="700" fill="#111111">인증 표기</text>
+<text x="134" y="1495" font-size="39" fill="#333333">전기용품 안전 인증 표기가 있는지 제품 표기를</text>
+<text x="134" y="1547" font-size="39" fill="#333333">확인하세요</text>
+<rect x="64" y="1617" width="952" height="2" fill="#111111"/>
+<text x="64" y="1673" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1673" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
