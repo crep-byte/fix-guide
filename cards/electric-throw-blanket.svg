@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1797" viewBox="0 0 1080 1797" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1791" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1791" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">세탁되는 전기요·전기담요 고르는 법과</text>
 <text x="64" y="260" font-size="52" font-weight="700" fill="#111111">보관 요령</text>
-<rect x="64" y="296" width="952" height="5" fill="#111111"/>
-<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="296" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="389" font-size="48" font-weight="700" fill="#111111">세탁 방법</text>
 <text x="134" y="441" font-size="39" fill="#333333">세탁기 가능인지 손세탁만인지, 조절기 분리가</text>
 <text x="134" y="493" font-size="39" fill="#333333">되는지</text>
-<rect x="64" y="523" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="523" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="611" font-size="48" font-weight="700" fill="#111111">안전 인증</text>
 <text x="134" y="663" font-size="39" fill="#333333">KC 인증 표기가 있는지</text>
-<rect x="64" y="693" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="733" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="693" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="733" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="781" font-size="48" font-weight="700" fill="#111111">자동 꺼짐</text>
 <text x="134" y="833" font-size="39" fill="#333333">일정 시간 뒤 꺼지는 타이머나 과열 차단 기능이</text>
 <text x="134" y="885" font-size="39" fill="#333333">있는지</text>
-<rect x="64" y="915" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="955" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="915" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="955" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1003" font-size="48" font-weight="700" fill="#111111">온도 단계</text>
 <text x="134" y="1055" font-size="39" fill="#333333">단계 수와 낮은 온도 설정이 가능한지</text>
-<rect x="64" y="1085" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1125" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1085" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1125" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1173" font-size="48" font-weight="700" fill="#111111">크기</text>
 <text x="134" y="1225" font-size="39" fill="#333333">1인용·2인용, 침대나 바닥 크기에 맞는지</text>
-<rect x="64" y="1255" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1295" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1255" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1295" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1343" font-size="48" font-weight="700" fill="#111111">좌우 분리</text>
 <text x="134" y="1395" font-size="39" fill="#333333">2인용이면 양쪽 온도를 따로 조절할 수 있는지</text>
-<rect x="64" y="1425" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1465" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1425" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1465" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1513" font-size="48" font-weight="700" fill="#111111">소재</text>
 <text x="134" y="1565" font-size="39" fill="#333333">겉감 촉감, 보풀·정전기 정도</text>
 <text x="134" y="1647" font-size="30" fill="#3D3D3D">외 1가지는 본문 표에서</text>

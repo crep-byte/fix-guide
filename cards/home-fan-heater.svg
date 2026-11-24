@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1571" viewBox="0 0 1080 1571" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1565" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1565" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">가정용 온풍기 고르는 법</text>
-<rect x="64" y="226" width="952" height="5" fill="#111111"/>
-<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">적정 면적</text>
 <text x="134" y="371" font-size="39" fill="#333333">제품에 표기된 사용 면적이 방 크기와 맞는지</text>
-<rect x="64" y="401" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="401" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="489" font-size="48" font-weight="700" fill="#111111">소비전력</text>
 <text x="134" y="541" font-size="39" fill="#333333">강·약 단계별 소비전력 표기</text>
-<rect x="64" y="571" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="611" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="571" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="611" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="659" font-size="48" font-weight="700" fill="#111111">넘어짐 꺼짐</text>
 <text x="134" y="711" font-size="39" fill="#333333">넘어지면 전원이 꺼지는 기능</text>
-<rect x="64" y="741" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="781" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="741" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="781" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="829" font-size="48" font-weight="700" fill="#111111">과열 방지</text>
 <text x="134" y="881" font-size="39" fill="#333333">온도가 지나치게 오르면 꺼지는 기능</text>
-<rect x="64" y="911" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="951" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="911" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="951" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="999" font-size="48" font-weight="700" fill="#111111">온도 조절</text>
 <text x="134" y="1051" font-size="39" fill="#333333">설정 온도에 맞춰 켜고 끄는 기능, 타이머</text>
-<rect x="64" y="1081" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1121" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1081" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1121" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1169" font-size="48" font-weight="700" fill="#111111">소음</text>
 <text x="134" y="1221" font-size="39" fill="#333333">잘 때나 일할 때 쓸지라면 팬 소음</text>
-<rect x="64" y="1251" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1291" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1251" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1291" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1339" font-size="48" font-weight="700" fill="#111111">인증 표기</text>
 <text x="134" y="1391" font-size="39" fill="#333333">KC 인증 표시</text>
 <rect x="64" y="1461" width="952" height="2" fill="#111111"/>

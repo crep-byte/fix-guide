@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1557" viewBox="0 0 1080 1557" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1551" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1551" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">부모님 침대 낙상 막는 안전손잡이</text>
-<rect x="64" y="226" width="952" height="5" fill="#111111"/>
-<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">침대·매트리스와 맞는 고정 방식</text>
 <text x="134" y="371" font-size="39" fill="#333333">매트리스 밑에 끼우는 형태는 침대 구조에 따라</text>
 <text x="134" y="423" font-size="39" fill="#333333">흔들릴 수 있어요</text>
-<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">손잡이 높이</text>
 <text x="134" y="593" font-size="39" fill="#333333">매트리스 위로 충분히 올라와야 잡고 일어나기</text>
 <text x="134" y="645" font-size="39" fill="#333333">쉬워요</text>
-<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">견디는 무게</text>
 <text x="134" y="815" font-size="39" fill="#333333">일어날 때 체중이 실리므로 여유가 있어야 해요</text>
-<rect x="64" y="845" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="845" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="933" font-size="48" font-weight="700" fill="#111111">틈새</text>
 <text x="134" y="985" font-size="39" fill="#333333">손잡이와 매트리스 사이에 팔·머리가 끼는 사고를</text>
 <text x="134" y="1037" font-size="39" fill="#333333">막아야 해요</text>
-<rect x="64" y="1067" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1067" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">흔들림</text>
 <text x="134" y="1207" font-size="39" fill="#333333">잡는 순간 밀리면 오히려 넘어질 수 있어요</text>
-<rect x="64" y="1237" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1277" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1237" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1277" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1325" font-size="48" font-weight="700" fill="#111111">접이·높이 조절</text>
 <text x="134" y="1377" font-size="39" fill="#333333">보호자가 침구 정리나 돌봄을 할 때 편해요</text>
 <rect x="64" y="1447" width="952" height="2" fill="#111111"/>

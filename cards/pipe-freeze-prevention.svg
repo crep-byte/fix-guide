@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1987" viewBox="0 0 1080 1987" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1981" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1981" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 수도 동파 예방</text>
-<rect x="64" y="226" width="952" height="5" fill="#111111"/>
-<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">KC 인증 표기</text>
 <text x="134" y="371" font-size="39" fill="#333333">전기를 쓰는 열선은 안전 인증 표기가 있는</text>
 <text x="134" y="423" font-size="39" fill="#333333">제품인지 확인합니다.</text>
-<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">열선 길이</text>
 <text x="134" y="593" font-size="39" fill="#333333">감을 배관 길이와 맞는지 봅니다. 너무 길면 겹치게</text>
 <text x="134" y="645" font-size="39" fill="#333333">됩니다.</text>
-<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">겹침 가능 여부</text>
 <text x="134" y="815" font-size="39" fill="#333333">열선을 서로 겹치거나 자기 자신 위로 감으면</text>
 <text x="134" y="867" font-size="39" fill="#333333">과열될 수 있습니다. 제품 설명서에 허용 여부가</text>
 <text x="134" y="919" font-size="39" fill="#333333">있는지 확인하세요.</text>
-<rect x="64" y="949" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="989" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="949" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="989" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1037" font-size="48" font-weight="700" fill="#111111">온도 조절 방식</text>
 <text x="134" y="1089" font-size="39" fill="#333333">일정 온도에서 자동으로 켜지고 꺼지는 방식인지</text>
 <text x="134" y="1141" font-size="39" fill="#333333">확인합니다.</text>
-<rect x="64" y="1171" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1211" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1171" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1211" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1259" font-size="48" font-weight="700" fill="#111111">전원 연결</text>
 <text x="134" y="1311" font-size="39" fill="#333333">사용 장소 가까이에 안전한 콘센트가 있는지,</text>
 <text x="134" y="1363" font-size="39" fill="#333333">멀티탭에 연결해도 되는지 설명서를 봅니다.</text>
-<rect x="64" y="1393" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1433" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1393" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1433" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1481" font-size="48" font-weight="700" fill="#111111">보온재</text>
 <text x="134" y="1533" font-size="39" fill="#333333">배관 지름에 맞는 크기인지, 물에 젖어도 쓸 수</text>
 <text x="134" y="1585" font-size="39" fill="#333333">있는지 확인합니다.</text>
-<rect x="64" y="1615" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1655" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1615" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1655" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1703" font-size="48" font-weight="700" fill="#111111">사용 장소</text>
 <text x="134" y="1755" font-size="39" fill="#333333">실내용인지 실외용인지, 방수 표기가 있는지</text>
 <text x="134" y="1807" font-size="39" fill="#333333">확인합니다.</text>

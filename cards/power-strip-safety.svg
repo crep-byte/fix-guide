@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1675" viewBox="0 0 1080 1675" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1669" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1669" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">멀티탭 과열 막는 법</text>
-<rect x="64" y="226" width="952" height="5" fill="#111111"/>
-<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">안전 인증</text>
 <text x="134" y="371" font-size="39" fill="#333333">KC 인증 표기가 있는지</text>
-<rect x="64" y="401" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="401" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="489" font-size="48" font-weight="700" fill="#111111">정격 전류·전압</text>
 <text x="134" y="541" font-size="39" fill="#333333">꽂을 제품들의 소비전력 합보다 여유 있는지</text>
-<rect x="64" y="571" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="611" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="571" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="611" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="659" font-size="48" font-weight="700" fill="#111111">과부하 차단</text>
 <text x="134" y="711" font-size="39" fill="#333333">허용량을 넘으면 전원을 끊는 기능이 표기돼</text>
 <text x="134" y="763" font-size="39" fill="#333333">있는지</text>
-<rect x="64" y="793" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="833" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="793" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="833" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="881" font-size="48" font-weight="700" fill="#111111">개별 스위치</text>
 <text x="134" y="933" font-size="39" fill="#333333">안 쓰는 제품만 끌 수 있어 대기전력 관리에 편함</text>
-<rect x="64" y="963" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1003" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="963" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1003" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1051" font-size="48" font-weight="700" fill="#111111">접지</text>
 <text x="134" y="1103" font-size="39" fill="#333333">접지 플러그를 쓰는 제품을 꽂는다면 접지형인지</text>
-<rect x="64" y="1133" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1173" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1133" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1173" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1221" font-size="48" font-weight="700" fill="#111111">구 수와 간격</text>
 <text x="134" y="1273" font-size="39" fill="#333333">어댑터가 큰 제품도 옆 구멍을 막지 않는 간격인지</text>
-<rect x="64" y="1303" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1343" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1303" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1343" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1391" font-size="48" font-weight="700" fill="#111111">전선 길이와 굵기</text>
 <text x="134" y="1443" font-size="39" fill="#333333">너무 긴 선을 감아 쓰지 않도록 필요한 길이만</text>
 <text x="134" y="1525" font-size="30" fill="#3D3D3D">외 1가지는 본문 표에서</text>

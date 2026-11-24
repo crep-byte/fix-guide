@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1641" viewBox="0 0 1080 1641" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1635" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1635" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">전기히터 종류별 차이와 전기요금 덜</text>
 <text x="64" y="260" font-size="52" font-weight="700" fill="#111111">나오게 쓰는 법</text>
-<rect x="64" y="296" width="952" height="5" fill="#111111"/>
-<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="296" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="389" font-size="48" font-weight="700" fill="#111111">난방 범위</text>
 <text x="134" y="441" font-size="39" fill="#333333">자리만 데울지(복사열), 방을 데울지(공기 가열)</text>
-<rect x="64" y="471" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="511" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="471" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="511" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="559" font-size="48" font-weight="700" fill="#111111">소비전력</text>
 <text x="134" y="611" font-size="39" fill="#333333">단계별 소비전력 표기, 약한 단계가 있는지</text>
-<rect x="64" y="641" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="681" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="641" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="681" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="729" font-size="48" font-weight="700" fill="#111111">넘어짐 꺼짐</text>
 <text x="134" y="781" font-size="39" fill="#333333">넘어지면 전원이 꺼지는 기능</text>
-<rect x="64" y="811" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="851" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="811" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="851" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="899" font-size="48" font-weight="700" fill="#111111">과열 방지</text>
 <text x="134" y="951" font-size="39" fill="#333333">과열 시 꺼지는 기능</text>
-<rect x="64" y="981" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1021" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="981" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1021" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1069" font-size="48" font-weight="700" fill="#111111">타이머·온도 조절</text>
 <text x="134" y="1121" font-size="39" fill="#333333">자동 꺼짐 타이머, 설정 온도 유지</text>
-<rect x="64" y="1151" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1191" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1151" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1191" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1239" font-size="48" font-weight="700" fill="#111111">겉면 온도</text>
 <text x="134" y="1291" font-size="39" fill="#333333">손이 닿는 부분이 뜨거운지, 보호망 간격</text>
-<rect x="64" y="1321" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1361" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1321" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1361" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1409" font-size="48" font-weight="700" fill="#111111">인증 표기</text>
 <text x="134" y="1461" font-size="39" fill="#333333">KC 인증 표시</text>
 <rect x="64" y="1531" width="952" height="2" fill="#111111"/>

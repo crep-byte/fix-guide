@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1779" viewBox="0 0 1080 1779" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
-<rect x="3" y="3" width="1074" height="1773" fill="#FFD400" stroke="#111111" stroke-width="6"/>
-<text x="64" y="94" font-size="36" font-weight="700" fill="#12399B">고를 때 체크리스트</text>
+<rect x="3" y="3" width="1074" height="1773" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
 <text x="64" y="190" font-size="52" font-weight="700" fill="#111111">스노우체인 종류와 고르는 법</text>
-<rect x="64" y="226" width="952" height="5" fill="#111111"/>
-<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="319" font-size="48" font-weight="700" fill="#111111">타이어 규격</text>
 <text x="134" y="371" font-size="39" fill="#333333">타이어 옆면의 규격이 제품의 적용 규격에</text>
 <text x="134" y="423" font-size="39" fill="#333333">들어가는지</text>
-<rect x="64" y="453" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="541" font-size="48" font-weight="700" fill="#111111">장착 바퀴</text>
 <text x="134" y="593" font-size="39" fill="#333333">구동 바퀴(앞바퀴 구동인지, 뒷바퀴 구동인지)에</text>
 <text x="134" y="645" font-size="39" fill="#333333">장착한다는 안내를 확인하세요</text>
-<rect x="64" y="675" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="763" font-size="48" font-weight="700" fill="#111111">종류</text>
 <text x="134" y="815" font-size="39" fill="#333333">직물, 금속, 스프레이 중 쓰임에 맞는지</text>
-<rect x="64" y="845" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="845" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="933" font-size="48" font-weight="700" fill="#111111">장착 방식</text>
 <text x="134" y="985" font-size="39" fill="#333333">차를 움직이지 않고 끼울 수 있는지, 도구가</text>
 <text x="134" y="1037" font-size="39" fill="#333333">필요한지</text>
-<rect x="64" y="1067" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1067" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">속도 제한</text>
 <text x="134" y="1207" font-size="39" fill="#333333">제품에 적힌 주행 속도 안내를 확인하세요</text>
-<rect x="64" y="1237" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1277" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1237" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1277" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1325" font-size="48" font-weight="700" fill="#111111">차량 여유 공간</text>
 <text x="134" y="1377" font-size="39" fill="#333333">휠 안쪽 공간이 좁은 차는 체인이 닿을 수 있어</text>
 <text x="134" y="1429" font-size="39" fill="#333333">적용 여부를 확인하세요</text>
-<rect x="64" y="1459" width="952" height="2" fill="#B89A0C"/>
-<rect x="66" y="1499" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<rect x="64" y="1459" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1499" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
 <text x="134" y="1547" font-size="48" font-weight="700" fill="#111111">보관</text>
 <text x="134" y="1599" font-size="39" fill="#333333">부피와 보관 가방 포함 여부</text>
 <rect x="64" y="1669" width="952" height="2" fill="#111111"/>
