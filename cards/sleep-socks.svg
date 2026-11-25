@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1831" viewBox="0 0 1080 1831" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1825" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">수면양말 고르는 법</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">발목 조임</text>
+<text x="134" y="371" font-size="39" fill="#333333">고무줄이 약하거나 없는 형태인지, 자국이 남지</text>
+<text x="134" y="423" font-size="39" fill="#333333">않을 만큼 헐렁한지</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">소재</text>
+<text x="134" y="593" font-size="39" fill="#333333">극세사·수면사는 폭신하고, 면이나 울이 섞인 것은</text>
+<text x="134" y="645" font-size="39" fill="#333333">땀 흡수에 유리한 편. 혼용률 표기를 확인하세요</text>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">두께</text>
+<text x="134" y="815" font-size="39" fill="#333333">이불 속에서만 신을지, 집 안에서 걸어 다닐 때도</text>
+<text x="134" y="867" font-size="39" fill="#333333">신을지</text>
+<rect x="64" y="897" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="985" font-size="48" font-weight="700" fill="#111111">미끄럼 방지</text>
+<text x="134" y="1037" font-size="39" fill="#333333">신고 걸을 거라면 바닥에 미끄럼 방지 돌기가</text>
+<text x="134" y="1089" font-size="39" fill="#333333">있는지</text>
+<rect x="64" y="1119" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">길이</text>
+<text x="134" y="1259" font-size="39" fill="#333333">발목까지인지 종아리까지 올라오는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">크기</text>
+<text x="134" y="1429" font-size="39" fill="#333333">발 길이 범위 표기. 꽉 끼면 답답하고 너무 크면</text>
+<text x="134" y="1481" font-size="39" fill="#333333">벗겨져요</text>
+<rect x="64" y="1511" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1551" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1599" font-size="48" font-weight="700" fill="#111111">세탁</text>
+<text x="134" y="1651" font-size="39" fill="#333333">세탁기 사용 가능 여부, 털 빠짐과 보풀 안내</text>
+<rect x="64" y="1721" width="952" height="2" fill="#111111"/>
+<text x="64" y="1777" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1777" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
