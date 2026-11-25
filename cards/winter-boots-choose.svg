@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1623" viewBox="0 0 1080 1623" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1617" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">방한화 고르는 법</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">방수</text>
+<text x="134" y="371" font-size="39" fill="#333333">'방수'인지 '발수'인지 표기 차이, 방수가 되는</text>
+<text x="134" y="423" font-size="39" fill="#333333">높이</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">밑창</text>
+<text x="134" y="593" font-size="39" fill="#333333">홈 깊이와 무늬, 겨울용 고무라고 표기돼 있는지</text>
+<rect x="64" y="623" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="663" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="711" font-size="48" font-weight="700" fill="#111111">안감·충전재</text>
+<text x="134" y="763" font-size="39" fill="#333333">털 안감, 보온 충전재 등 안감 종류</text>
+<rect x="64" y="793" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="833" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="881" font-size="48" font-weight="700" fill="#111111">목 높이</text>
+<text x="134" y="933" font-size="39" fill="#333333">쌓인 눈이 들어오지 않을 높이인지</text>
+<rect x="64" y="963" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1003" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1051" font-size="48" font-weight="700" fill="#111111">여밈 방식</text>
+<text x="134" y="1103" font-size="39" fill="#333333">끈·지퍼·찍찍이, 장갑 낀 손으로 신고 벗기 편한지</text>
+<rect x="64" y="1133" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1173" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1221" font-size="48" font-weight="700" fill="#111111">무게</text>
+<text x="134" y="1273" font-size="39" fill="#333333">오래 걸어도 부담 없는 무게인지</text>
+<rect x="64" y="1303" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1343" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1391" font-size="48" font-weight="700" fill="#111111">사이즈</text>
+<text x="134" y="1443" font-size="39" fill="#333333">두꺼운 양말을 신을 여유가 있는지, 교환 기준</text>
+<rect x="64" y="1513" width="952" height="2" fill="#111111"/>
+<text x="64" y="1569" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1569" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
