@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1779" viewBox="0 0 1080 1779" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1773" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">김장 뒤 김치통이 모자랄 때</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">바깥 치수</text>
+<text x="134" y="371" font-size="39" fill="#333333">용량보다 가로·세로·높이를 먼저. 손잡이와 뚜껑</text>
+<text x="134" y="423" font-size="39" fill="#333333">잠금 날개까지 포함한 치수인지</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">용량</text>
+<text x="134" y="593" font-size="39" fill="#333333">한 번에 꺼내 먹는 양과 식구 수. 큰 통 하나보다</text>
+<text x="134" y="645" font-size="39" fill="#333333">중간 통 여러 개가 다루기 쉬운 경우가 많아요</text>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">재질</text>
+<text x="134" y="815" font-size="39" fill="#333333">플라스틱은 가볍지만 색과 냄새가 배기 쉽고,</text>
+<text x="134" y="867" font-size="39" fill="#333333">스테인리스는 배는 것이 적지만 속이 안 보이고,</text>
+<text x="134" y="919" font-size="39" fill="#333333">유리는 무겁고 깨질 수 있어요</text>
+<rect x="64" y="949" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="989" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1037" font-size="48" font-weight="700" fill="#111111">뚜껑 밀폐</text>
+<text x="134" y="1089" font-size="39" fill="#333333">패킹이 있는지, 패킹을 빼서 씻을 수 있는지</text>
+<rect x="64" y="1119" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">누름판</text>
+<text x="134" y="1259" font-size="39" fill="#333333">김치를 국물에 잠기게 눌러 주는 판이 있는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">손잡이</text>
+<text x="134" y="1429" font-size="39" fill="#333333">가득 담으면 무거워요. 들 때 잡을 곳이 있는지</text>
+<rect x="64" y="1459" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1499" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1547" font-size="48" font-weight="700" fill="#111111">식품용 표시</text>
+<text x="134" y="1599" font-size="39" fill="#333333">식품용 기구 표시가 있는지</text>
+<rect x="64" y="1669" width="952" height="2" fill="#111111"/>
+<text x="64" y="1725" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1725" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
