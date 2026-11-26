@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1779" viewBox="0 0 1080 1779" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1773" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">보온병 고르는 법</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">용량</text>
+<text x="134" y="371" font-size="39" fill="#333333">혼자 마실 양인지 나눠 마실 양인지. 크면 무겁고</text>
+<text x="134" y="423" font-size="39" fill="#333333">가방 주머니에 안 들어가요</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">입구 모양</text>
+<text x="134" y="593" font-size="39" fill="#333333">넓은 입구는 얼음 넣기와 세척이 쉽고, 좁은 입구는</text>
+<text x="134" y="645" font-size="39" fill="#333333">보온에 유리하고 마시기 편해요</text>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">보온·보냉 표기</text>
+<text x="134" y="815" font-size="39" fill="#333333">몇 시간 뒤 몇 도인지와 시험 조건이 함께 적혀</text>
+<text x="134" y="867" font-size="39" fill="#333333">있는지. 실제 사용에서는 더 짧아요</text>
+<rect x="64" y="897" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="985" font-size="48" font-weight="700" fill="#111111">뚜껑 방식</text>
+<text x="134" y="1037" font-size="39" fill="#333333">돌려 여는 마개, 원터치, 컵 겸용. 원터치는 잠금</text>
+<text x="134" y="1089" font-size="39" fill="#333333">장치가 있는지</text>
+<rect x="64" y="1119" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">세척</text>
+<text x="134" y="1259" font-size="39" fill="#333333">뚜껑이 분해되는지, 패킹을 따로 살 수 있는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">재질 표기</text>
+<text x="134" y="1429" font-size="39" fill="#333333">안쪽 재질과 식품용 표시</text>
+<rect x="64" y="1459" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1499" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1547" font-size="48" font-weight="700" fill="#111111">무게와 지름</text>
+<text x="134" y="1599" font-size="39" fill="#333333">차 컵홀더나 가방 옆 주머니에 들어가는지</text>
+<rect x="64" y="1669" width="952" height="2" fill="#111111"/>
+<text x="64" y="1725" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1725" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
