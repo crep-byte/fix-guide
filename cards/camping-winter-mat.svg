@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2057" viewBox="0 0 1080 2057" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="2051" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 캠핑 매트 단열 표기 읽는 법과</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">에어매트·자충매트 차이</text>
+<rect x="64" y="296" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">단열 수치(R값)</text>
+<text x="134" y="441" font-size="39" fill="#333333">표기가 있는지, 어떤 기준으로 측정했는지 안내가</text>
+<text x="134" y="493" font-size="39" fill="#333333">있는지. 표기가 없으면 겨울용으로 판단하기</text>
+<text x="134" y="545" font-size="39" fill="#333333">어려워요</text>
+<rect x="64" y="575" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="615" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="663" font-size="48" font-weight="700" fill="#111111">종류</text>
+<text x="134" y="715" font-size="39" fill="#333333">발포매트는 펑크 걱정이 없고, 자충매트는 속에</text>
+<text x="134" y="767" font-size="39" fill="#333333">폼이 들어 있고, 에어매트는 단열재가 든 것과</text>
+<text x="134" y="819" font-size="39" fill="#333333">공기만 든 것이 있어요</text>
+<rect x="64" y="849" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="889" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="937" font-size="48" font-weight="700" fill="#111111">두께</text>
+<text x="134" y="989" font-size="39" fill="#333333">두껍다고 따뜻한 건 아니에요. 단열 수치와 함께</text>
+<text x="134" y="1041" font-size="39" fill="#333333">봐요</text>
+<rect x="64" y="1071" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1111" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1159" font-size="48" font-weight="700" fill="#111111">크기</text>
+<text x="134" y="1211" font-size="39" fill="#333333">어깨 폭과 키에 맞는지, 텐트 바닥 치수에</text>
+<text x="134" y="1263" font-size="39" fill="#333333">들어가는지</text>
+<rect x="64" y="1293" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1333" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1381" font-size="48" font-weight="700" fill="#111111">수납 크기와 무게</text>
+<text x="134" y="1433" font-size="39" fill="#333333">차로 가는지 걸어서 가는지에 따라 기준이 달라요</text>
+<rect x="64" y="1463" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1503" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1551" font-size="48" font-weight="700" fill="#111111">바람 넣는 방식</text>
+<text x="134" y="1603" font-size="39" fill="#333333">펌프 주머니가 딸려 있는지. 입으로 불면 습기가</text>
+<text x="134" y="1655" font-size="39" fill="#333333">들어가요</text>
+<rect x="64" y="1685" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1725" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1773" font-size="48" font-weight="700" fill="#111111">수리</text>
+<text x="134" y="1825" font-size="39" fill="#333333">수리 패치가 들어 있는지, 밸브를 따로 구할 수</text>
+<text x="134" y="1877" font-size="39" fill="#333333">있는지</text>
+<rect x="64" y="1947" width="952" height="2" fill="#111111"/>
+<text x="64" y="2003" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="2003" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
