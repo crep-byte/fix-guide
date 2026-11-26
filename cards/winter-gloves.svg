@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1935" viewBox="0 0 1080 1935" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1929" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">방한장갑 고르는 법</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">쓰는 곳</text>
+<text x="134" y="371" font-size="39" fill="#333333">걷기, 운전, 자전거, 눈 치우기, 스키 등. 용도에</text>
+<text x="134" y="423" font-size="39" fill="#333333">따라 두께와 방수 필요가 달라요</text>
+<rect x="64" y="453" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="493" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="541" font-size="48" font-weight="700" fill="#111111">방풍·방수</text>
+<text x="134" y="593" font-size="39" fill="#333333">겉감이 바람을 막는지, 방수인지 물 튐 방지</text>
+<text x="134" y="645" font-size="39" fill="#333333">정도인지 표기를 구분해요</text>
+<rect x="64" y="675" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="715" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="763" font-size="48" font-weight="700" fill="#111111">보온 소재</text>
+<text x="134" y="815" font-size="39" fill="#333333">안감과 충전재 종류. 기모, 솜, 다운 등 표기를</text>
+<text x="134" y="867" font-size="39" fill="#333333">확인하세요</text>
+<rect x="64" y="897" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="937" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="985" font-size="48" font-weight="700" fill="#111111">크기</text>
+<text x="134" y="1037" font-size="39" fill="#333333">손둘레와 손 길이 표를 보고, 손끝에 조금 여유가</text>
+<text x="134" y="1089" font-size="39" fill="#333333">있는 크기로</text>
+<rect x="64" y="1119" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1159" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1207" font-size="48" font-weight="700" fill="#111111">손목</text>
+<text x="134" y="1259" font-size="39" fill="#333333">길게 올라오는지, 조임 끈이나 밴드가 있는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">터치 기능</text>
+<text x="134" y="1429" font-size="39" fill="#333333">어느 손가락에 되는지. 두꺼운 장갑은 되더라도</text>
+<text x="134" y="1481" font-size="39" fill="#333333">작은 글자를 누르기 어려워요</text>
+<rect x="64" y="1511" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1551" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1599" font-size="48" font-weight="700" fill="#111111">손바닥</text>
+<text x="134" y="1651" font-size="39" fill="#333333">미끄럼 방지 처리가 있는지. 운전대나 손잡이를</text>
+<text x="134" y="1703" font-size="39" fill="#333333">잡을 때 중요해요</text>
+<text x="134" y="1785" font-size="30" fill="#3D3D3D">외 1가지는 본문 표에서</text>
+<rect x="64" y="1825" width="952" height="2" fill="#111111"/>
+<text x="64" y="1881" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1881" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
