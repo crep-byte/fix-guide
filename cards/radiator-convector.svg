@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1849" viewBox="0 0 1080 1849" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1843" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">라디에이터·컨벡터 차이와 방 크기에</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">맞게 고르는 법</text>
+<rect x="64" y="296" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">방식</text>
+<text x="134" y="441" font-size="39" fill="#333333">오래 켜 두는 침실은 라디에이터, 잠깐씩 빨리 데울</text>
+<text x="134" y="493" font-size="39" fill="#333333">곳은 컨벡터가 맞는 편이에요</text>
+<rect x="64" y="523" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="611" font-size="48" font-weight="700" fill="#111111">소비전력</text>
+<text x="134" y="663" font-size="39" fill="#333333">정격 소비전력(W)과 단계 조절이 되는지</text>
+<rect x="64" y="693" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="733" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="781" font-size="48" font-weight="700" fill="#111111">사용 면적</text>
+<text x="134" y="833" font-size="39" fill="#333333">제품이 안내한 면적. 단열이 약한 방이면 안내보다</text>
+<text x="134" y="885" font-size="39" fill="#333333">작게 봐야 해요</text>
+<rect x="64" y="915" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="955" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1003" font-size="48" font-weight="700" fill="#111111">온도 조절</text>
+<text x="134" y="1055" font-size="39" fill="#333333">설정 온도에 맞춰 스스로 켜고 꺼지는지, 타이머가</text>
+<text x="134" y="1107" font-size="39" fill="#333333">있는지</text>
+<rect x="64" y="1137" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1177" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1225" font-size="48" font-weight="700" fill="#111111">안전 장치</text>
+<text x="134" y="1277" font-size="39" fill="#333333">넘어지면 꺼지는 장치와 과열 방지 장치 표기</text>
+<rect x="64" y="1307" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1347" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1395" font-size="48" font-weight="700" fill="#111111">인증</text>
+<text x="134" y="1447" font-size="39" fill="#333333">KC 안전 인증 표기</text>
+<rect x="64" y="1477" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1517" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1565" font-size="48" font-weight="700" fill="#111111">이동과 설치</text>
+<text x="134" y="1617" font-size="39" fill="#333333">바퀴가 있는지, 벽걸이가 되는지, 무게</text>
+<text x="134" y="1699" font-size="30" fill="#3D3D3D">외 1가지는 본문 표에서</text>
+<rect x="64" y="1739" width="952" height="2" fill="#111111"/>
+<text x="64" y="1795" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1795" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
