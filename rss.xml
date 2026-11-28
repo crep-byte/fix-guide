@@ -6,7 +6,78 @@
     <description>집안 물건이 고장 나거나 불편할 때, 안 사도 되는 경우부터 확인하는 생활 해결법. 직접 해 볼 순서와 사야 할 때 고르는 기준을 정리합니다.</description>
     <language>ko</language>
     <atom:link href="https://duruguide.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:00:00 +0900</lastBuildDate>
+    <item>
+      <title>겨울 실내 습도 맞추기, 온습도계 고르는 법</title>
+      <link>https://duruguide.com/posts/thermo-hygrometer</link>
+      <guid isPermaLink="true">https://duruguide.com/posts/thermo-hygrometer</guid>
+      <description>&lt;p&gt;&lt;strong&gt;이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;안 사도 되는 경우&lt;/strong&gt; 한 방에서만 지내고 정전기나 창문 물방울 같은 신호로 가습과 환기 조절이 충분히 된다면 따로 사지 않아도 괜찮아요.&lt;/p&gt;
+&lt;h2&gt;이런 상황이죠&lt;/h2&gt;
+&lt;p&gt;난방을 시작하면 자고 일어났을 때 목이 칼칼하고, 옷을 벗을 때마다 정전기가 튀어요. 가습기를 틀었더니 이번에는 창문에 물방울이 맺히고 벽 모서리가 눅눅해져요. 지금 집이 건조한 건지 습한 건지 감으로는 알기 어려워서, 가습기를 더 틀어야 할지 꺼야 할지 헷갈리지요.&lt;/p&gt;
+&lt;h2&gt;왜 생기나&lt;/h2&gt;
+&lt;p&gt;찬 공기는 품을 수 있는 수증기 양이 적어요. 겨울 바깥 공기가 집 안에 들어와 난방으로 데워지면, 수증기 양은 그대로인데 온도만 올라 상대습도가 뚝 떨어져요. 반대로 가습기를 오래 틀거나 빨래를 실내에서 말리면 습도가 올라가고, 그 공기가 찬 창문에 닿아 결로가 생겨요. 방마다, 같은 방에서도 창가와 안쪽이 달라서 몸의 느낌만으로는 판단하기 어려워요.&lt;/p&gt;
+&lt;h2&gt;사기 전에 먼저 해볼 것&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;이미 있는 표시를 찾아봐요.&lt;/strong&gt; 가습기, 공기청정기, 에어컨, 보일러 조절기에 습도나 온도가 표시되는 경우가 있어요. 다만 가습기에 달린 습도 표시는 바로 옆 공기를 재는 것이라 방 전체보다 높게 나올 수 있어요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;집이 보내는 신호를 봐요.&lt;/strong&gt; 정전기가 잦고 입술이 자주 마르면 건조한 쪽, 아침마다 창에 물이 맺히고 창틀에 곰팡이가 보이면 습한 쪽일 가능성이 커요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;환기부터 해요.&lt;/strong&gt; 습하다고 느껴지면 짧게 맞바람 환기를 하고, 건조하면 젖은 수건이나 빨래를 널어 변화를 살펴보세요.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;한 방에서만 지내고 위 신호로 충분히 조절이 된다면 따로 사지 않아도 괜찮아요. 겨울 실내 습도는 흔히 40~60% 안팎을 알맞은 범위로 안내해요.&lt;/p&gt;
+&lt;h2&gt;고를 때 체크리스트&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;확인 항목&lt;/th&gt;
+&lt;th&gt;보는 기준&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;표시 방식&lt;/td&gt;
+&lt;td&gt;디지털은 숫자가 바로 보이고, 바늘식은 건전지가 필요 없어요&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;오차 표기&lt;/td&gt;
+&lt;td&gt;온도와 습도의 오차 범위가 제품 설명에 적혀 있는지&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;화면 크기&lt;/td&gt;
+&lt;td&gt;떨어진 자리에서도 숫자가 읽히는지, 어두운 곳에서 보이는지&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;기록 기능&lt;/td&gt;
+&lt;td&gt;가장 높았던 값과 낮았던 값을 보여 주면 밤사이 변화를 알 수 있어요&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;전원&lt;/td&gt;
+&lt;td&gt;건전지 종류와 교체 주기 안내&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;놓는 방식&lt;/td&gt;
+&lt;td&gt;세워 두기, 벽걸이, 자석 가운데 둘 자리에 맞는 것&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;연결 기능&lt;/td&gt;
+&lt;td&gt;휴대폰으로 기록을 보는 제품은 앱 지원 여부와 연결 방식을 확인&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;두는 자리도 중요해요. 가습기 바로 옆, 난방기구 근처, 창가, 햇빛이 드는 곳은 방 전체와 다른 값이 나와요. 사람이 주로 지내는 높이의 방 안쪽에 두세요. 새로 옮긴 뒤에는 값이 자리를 잡을 때까지 시간이 걸려요.&lt;/p&gt;
+&lt;h3&gt;이런 분께는 맞지 않아요&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;실험이나 악기·작품 보관처럼 정밀한 값이 필요한 분께 일반 가정용 제품은 오차가 클 수 있어요. 그런 용도는 교정 여부가 표기된 전문 제품을 살펴보세요.&lt;/li&gt;
+&lt;li&gt;여러 방을 한꺼번에 보고 싶은 분은 한 개로는 부족해요. 방마다 두거나 옮겨 가며 재야 해요.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;숫자를 볼 때 주의하세요&lt;/h3&gt;
+&lt;p&gt;가정용 온습도계는 제품마다 값이 조금씩 달라요. 숫자 하나에 매달리기보다 아침과 저녁, 가습기를 틀기 전과 뒤의 변화를 보는 용도로 쓰는 게 좋아요. 물기가 직접 닿는 욕실이나 가습기 분무가 닿는 곳에 두면 고장이 날 수 있어요.&lt;/p&gt;
+&lt;h2&gt;추천 제품 찾기&lt;/h2&gt;
+&lt;p&gt;먼저 어느 방에 둘지, 숫자만 보면 되는지 기록까지 필요한지 정하세요. 그다음 쿠팡에서 오차 표기, 화면 크기, 기록 기능, 전원 방식, 놓는 방식을 비교해 보세요. 현재 가격은 쿠팡에서 확인해 주세요.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://duruguide.com/cards/thermo-hygrometer.svg" alt="겨울 실내 습도 맞추기 체크리스트: 표시 방식, 오차 표기, 화면 크기, 기록 기능, 전원, 놓는 방식, 연결 기능"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://duruguide.com/posts/thermo-hygrometer"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;</description>
+      <category>생활가전</category>
+      <pubDate>Sat, 28 Nov 2026 17:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>겨울 자전거 탈 때 손이 시리면, 방풍·브레이크 조작성 보고 장갑 고르는 법</title>
       <link>https://duruguide.com/posts/bike-winter-gloves</link>
@@ -1372,70 +1443,6 @@
 &lt;p&gt;&lt;a href="https://duruguide.com/posts/thermal-curtain"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;</description>
       <category>겨울용품</category>
       <pubDate>Mon, 23 Nov 2026 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>겨울 와이퍼가 얼어붙고 줄무늬가 남을 때, 와이퍼 교체 기준과 고르는 법</title>
-      <link>https://duruguide.com/posts/car-wiper-winter-ice</link>
-      <guid isPermaLink="true">https://duruguide.com/posts/car-wiper-winter-ice</guid>
-      <description>&lt;p&gt;&lt;strong&gt;이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;안 사도 되는 경우&lt;/strong&gt; 고무날과 유리의 먼지와 기름기를 닦아 줄무늬가 사라졌다면 아직 와이퍼를 바꾸지 않아도 돼요. 같은 자리에 줄무늬가 반복될 때가 교체 시기예요.&lt;/p&gt;
-&lt;h2&gt;이런 상황이죠&lt;/h2&gt;
-&lt;p&gt;겨울 아침에 와이퍼를 켰더니 고무날이 유리에 얼어붙어 있거나, 닦고 나서도 줄무늬가 길게 남는 경우가 있어요. 눈 오는 날 앞이 잘 안 보이면 운전이 훨씬 불안해져요. 와이퍼를 바꿔야 하는 건지, 그냥 얼음만 녹이면 되는 건지 헷갈리기 쉬워요.&lt;/p&gt;
-&lt;h2&gt;왜 생기나&lt;/h2&gt;
-&lt;p&gt;와이퍼 고무는 오래 쓰면 단단해지고 가장자리가 닳아요. 그러면 유리에 고르게 닿지 못해 줄무늬나 떨림이 생겨요. 여름 햇빛과 겨울 추위를 반복해서 겪으면 고무가 더 빨리 상할 수 있어요. 겨울에는 유리에 붙은 얼음이나 눈 때문에 날이 찢어지는 일도 있어요. 교체 시기는 사용 환경에 따라 달라서 몇 개월이라고 단정하기는 어려워요. 닦임이 눈에 띄게 나빠졌다면 교체를 생각해 볼 때예요.&lt;/p&gt;
-&lt;h2&gt;사기 전에 먼저 해볼 것&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;얼어붙은 와이퍼는 그대로 켜지 마세요.&lt;/strong&gt; 날이 유리에 붙은 채로 작동시키면 고무가 찢어지거나 와이퍼 모터에 무리가 갈 수 있어요.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;시동을 걸고 열풍으로 유리를 먼저 녹여요.&lt;/strong&gt; 앞유리 열선이나 디프로스터를 켜고 얼음이 풀릴 때까지 기다려 주세요.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;뜨거운 물을 유리에 붓지 않아요.&lt;/strong&gt; 온도 차이로 유리가 상할 수 있어요.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;주차할 때 와이퍼를 세워 두거나 앞유리 덮개를 씌워요.&lt;/strong&gt; 얼어붙는 것을 줄일 수 있어요.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;워셔액을 겨울용으로 채워요.&lt;/strong&gt; 물이나 여름용 워셔액은 추운 날 얼 수 있으니 제품에 적힌 어는점 표기를 확인하세요.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;고무날과 유리를 닦아 봐요.&lt;/strong&gt; 마른 천으로 고무날의 먼지를 닦고, 유리의 기름기를 닦아 내면 줄무늬가 줄어드는 경우가 있어요. 그래도 같은 자리에 줄무늬가 반복되면 고무가 닳은 것이니 교체를 고려하세요.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;고를 때 체크리스트&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;확인 항목&lt;/th&gt;
-&lt;th&gt;보는 기준&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;길이&lt;/td&gt;
-&lt;td&gt;운전석과 조수석, 뒷유리 길이가 서로 달라요. 차량 취급설명서나 기존 와이퍼의 표기를 확인하세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;연결부 형태&lt;/td&gt;
-&lt;td&gt;후크형, 핀형 등 차량마다 달라요. 제품 설명의 적용 연결부와 어댑터 포함 여부를 보세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;와이퍼 종류&lt;/td&gt;
-&lt;td&gt;일반형(뼈대형), 플랫형(뼈대 없는 형), 하이브리드형 중 어떤 구조인지 확인하세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;적용 차종&lt;/td&gt;
-&lt;td&gt;내 차종과 연식이 적용 목록에 있는지 보세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;계절 적합성&lt;/td&gt;
-&lt;td&gt;눈이 많은 지역에서 쓸 수 있다고 안내된 제품인지 보세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;교체 방법&lt;/td&gt;
-&lt;td&gt;설명서나 안내 이미지가 있어 직접 갈아 끼우기 쉬운지 확인하세요&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;일반형은 뼈대가 있어 구조가 단순하고, 눈이나 얼음이 뼈대 사이에 끼기 쉬운 편이에요. 플랫형은 뼈대가 없어 눈이 덜 끼는 장점이 있다고 안내되는 경우가 많아요. 하이브리드형은 두 방식을 섞은 구조예요. 어느 쪽이 맞는지는 차량과 사용 환경에 따라 달라서, 차량 취급설명서의 안내가 우선이에요.&lt;/p&gt;
-&lt;h3&gt;교체할 때 주의하세요&lt;/h3&gt;
-&lt;p&gt;와이퍼 암을 세운 상태에서 놓치면 유리를 때려 깨질 수 있어요. 교체할 때는 유리에 수건을 대고 천천히 작업하세요.&lt;/p&gt;
-&lt;h2&gt;추천 제품 찾기&lt;/h2&gt;
-&lt;p&gt;먼저 운전석, 조수석, 뒷유리 와이퍼의 길이와 연결부 형태를 확인해 두세요. 그다음 쿠팡에서 적용 차종, 연결부 형태, 와이퍼 종류 표기를 기준으로 비교해 보세요. 현재 가격은 쿠팡에서 확인해 주세요.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://duruguide.com/cards/car-wiper-winter-ice.svg" alt="겨울 와이퍼가 얼어붙고 줄무늬가 남을 때 체크리스트: 길이, 연결부 형태, 와이퍼 종류, 적용 차종, 계절 적합성, 교체 방법"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://duruguide.com/posts/car-wiper-winter-ice"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;</description>
-      <category>차량관리</category>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
