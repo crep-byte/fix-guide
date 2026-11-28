@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1883" viewBox="0 0 1080 1883" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1877" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 자전거 탈 때 손이 시리면</text>
+<rect x="64" y="226" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="271" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="319" font-size="48" font-weight="700" fill="#111111">방풍</text>
+<text x="134" y="371" font-size="39" fill="#333333">손등 쪽 겉감이 바람을 막는 소재인지</text>
+<rect x="64" y="401" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="441" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="489" font-size="48" font-weight="700" fill="#111111">방수·투습</text>
+<text x="134" y="541" font-size="39" fill="#333333">눈비를 막는지, 안쪽 땀이 빠지는 구조인지. 표기</text>
+<text x="134" y="593" font-size="39" fill="#333333">방식은 제품마다 달라요</text>
+<rect x="64" y="623" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="663" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="711" font-size="48" font-weight="700" fill="#111111">손가락 형태</text>
+<text x="134" y="763" font-size="39" fill="#333333">다섯 손가락형은 조작이 쉽고, 두세 손가락을 묶은</text>
+<text x="134" y="815" font-size="39" fill="#333333">형태는 더 따뜻한 편</text>
+<rect x="64" y="845" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="885" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="933" font-size="48" font-weight="700" fill="#111111">조작성</text>
+<text x="134" y="985" font-size="39" fill="#333333">낀 채로 브레이크 레버를 감싸 쥐고 변속할 수 있는</text>
+<text x="134" y="1037" font-size="39" fill="#333333">두께인지</text>
+<rect x="64" y="1067" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1107" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1155" font-size="48" font-weight="700" fill="#111111">손목 길이</text>
+<text x="134" y="1207" font-size="39" fill="#333333">소매와 겹칠 만큼 길고, 조임 끈이나 벨크로가</text>
+<text x="134" y="1259" font-size="39" fill="#333333">있는지</text>
+<rect x="64" y="1289" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1329" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1377" font-size="48" font-weight="700" fill="#111111">손바닥</text>
+<text x="134" y="1429" font-size="39" fill="#333333">핸들에서 미끄러지지 않는 소재인지, 패드가 너무</text>
+<text x="134" y="1481" font-size="39" fill="#333333">두껍지 않은지</text>
+<rect x="64" y="1511" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1551" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1599" font-size="48" font-weight="700" fill="#111111">사이즈</text>
+<text x="134" y="1651" font-size="39" fill="#333333">손둘레와 손 길이를 재서 제품별 치수표와 비교</text>
+<text x="134" y="1733" font-size="30" fill="#3D3D3D">외 1가지는 본문 표에서</text>
+<rect x="64" y="1773" width="952" height="2" fill="#111111"/>
+<text x="64" y="1829" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1829" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
