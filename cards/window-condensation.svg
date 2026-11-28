@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1731" viewBox="0 0 1080 1731" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" role="img" aria-label="생활 해결 가이드 체크리스트 카드">
+<rect x="3" y="3" width="1074" height="1725" rx="24" fill="#FFFFFF" stroke="#E4E2DC" stroke-width="4"/>
+<text x="64" y="94" font-size="36" font-weight="700" fill="#08573E">고를 때 체크리스트</text>
+<text x="64" y="190" font-size="52" font-weight="700" fill="#111111">겨울 창문 결로 줄이는 법과 결로방지</text>
+<text x="64" y="260" font-size="52" font-weight="700" fill="#111111">제품 고르는 기준</text>
+<rect x="64" y="296" width="952" height="3" fill="#1B1C1E"/>
+<rect x="66" y="341" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="389" font-size="48" font-weight="700" fill="#111111">제품 종류</text>
+<text x="134" y="441" font-size="39" fill="#333333">유리에 붙이는 단열 시트·필름인지, 창 아래에 붙여</text>
+<text x="134" y="493" font-size="39" fill="#333333">물을 흡수하는 테이프인지</text>
+<rect x="64" y="523" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="563" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="611" font-size="48" font-weight="700" fill="#111111">유리 종류</text>
+<text x="134" y="663" font-size="39" fill="#333333">붙여도 되는 유리인지 제품 안내를 확인. 철망이 든</text>
+<text x="134" y="715" font-size="39" fill="#333333">유리나 특수 코팅 유리는 사용 제한이 있을 수</text>
+<text x="134" y="767" font-size="39" fill="#333333">있어요</text>
+<rect x="64" y="797" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="837" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="885" font-size="48" font-weight="700" fill="#111111">부착 방식</text>
+<text x="134" y="937" font-size="39" fill="#333333">물로 붙이는지 접착식인지. 떼어 낼 때 자국이</text>
+<text x="134" y="989" font-size="39" fill="#333333">남는지</text>
+<rect x="64" y="1019" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1059" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1107" font-size="48" font-weight="700" fill="#111111">크기</text>
+<text x="134" y="1159" font-size="39" fill="#333333">유리 가로세로를 재고, 잘라 쓸 수 있는지</text>
+<rect x="64" y="1189" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1229" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1277" font-size="48" font-weight="700" fill="#111111">투명도</text>
+<text x="134" y="1329" font-size="39" fill="#333333">바깥이 보여야 하는 창인지, 흐려져도 되는 창인지</text>
+<rect x="64" y="1359" width="952" height="2" fill="#E4E2DC"/>
+<rect x="66" y="1399" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#1B1C1E" stroke-width="3"/>
+<text x="134" y="1447" font-size="48" font-weight="700" fill="#111111">교체 주기</text>
+<text x="134" y="1499" font-size="39" fill="#333333">흡수 테이프는 젖은 채 두면 오염되니 교체 시기</text>
+<text x="134" y="1551" font-size="39" fill="#333333">안내를 확인</text>
+<rect x="64" y="1621" width="952" height="2" fill="#111111"/>
+<text x="64" y="1677" font-size="34" fill="#333333">쿠팡에서 비교할 때 이 표기를 확인하세요</text>
+<text x="1016" y="1677" font-size="34" font-weight="700" fill="#111111" text-anchor="end">duruguide.com</text>
+</svg>
